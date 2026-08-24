@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1134426800,
             "language": "Python",
-            "last_commit": "2026-08-22T23:20:10Z",
+            "last_commit": "2026-08-23T03:21:41Z",
             "owner": "sickn33",
             "repo": "agentic-awesome-skills",
-            "stars": 45280
+            "stars": 45316
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 1134426800,
             "language": "Python",
-            "last_commit": "2026-08-22T23:20:10Z",
+            "last_commit": "2026-08-23T03:21:41Z",
             "owner": "sickn33",
             "repo": "agentic-awesome-skills",
-            "stars": 45280
+            "stars": 45316
           }
         }
       ],
@@ -53,7 +53,7 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 171047
+                "stars": 171208
               }
             },
             {
@@ -68,7 +68,7 @@
                 "last_commit": "2026-08-19T20:42:54Z",
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 51996
+                "stars": 52052
               }
             },
             {
@@ -83,7 +83,7 @@
                 "last_commit": "2026-08-21T18:55:51Z",
                 "owner": "vercel-labs",
                 "repo": "agent-skills",
-                "stars": 30341
+                "stars": 30383
               }
             },
             {
@@ -98,7 +98,7 @@
                 "last_commit": "2026-07-14T16:47:46Z",
                 "owner": "openai",
                 "repo": "skills",
-                "stars": 25120
+                "stars": 25144
               }
             },
             {
@@ -110,10 +110,10 @@
                 "archived": false,
                 "id": 764723738,
                 "language": "Python",
-                "last_commit": "2026-08-23T00:24:07Z",
+                "last_commit": "2026-08-24T02:40:48Z",
                 "owner": "Skyvern-AI",
                 "repo": "skyvern",
-                "stars": 22835
+                "stars": 22838
               }
             },
             {
@@ -128,7 +128,7 @@
                 "last_commit": "2026-08-18T15:35:11Z",
                 "owner": "huggingface",
                 "repo": "skills",
-                "stars": 10953
+                "stars": 10954
               }
             },
             {
@@ -143,7 +143,7 @@
                 "last_commit": "2026-08-12T03:32:38Z",
                 "owner": "browser-act",
                 "repo": "skills",
-                "stars": 5401
+                "stars": 5405
               }
             },
             {
@@ -158,7 +158,7 @@
                 "last_commit": "2026-08-21T11:38:40Z",
                 "owner": "remotion-dev",
                 "repo": "skills",
-                "stars": 4368
+                "stars": 4387
               }
             },
             {
@@ -173,7 +173,7 @@
                 "last_commit": "2026-08-19T07:57:30Z",
                 "owner": "google-gemini",
                 "repo": "gemini-skills",
-                "stars": 3924
+                "stars": 3927
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2026-08-20T21:12:27Z",
                 "owner": "browserbase",
                 "repo": "skills",
-                "stars": 3698
+                "stars": 3701
               }
             },
             {
@@ -203,7 +203,7 @@
                 "last_commit": "2026-08-22T06:29:05Z",
                 "owner": "nowork-studio",
                 "repo": "notfair-plugin",
-                "stars": 3391
+                "stars": 3395
               }
             },
             {
@@ -218,7 +218,7 @@
                 "last_commit": "2026-07-26T11:04:33Z",
                 "owner": "Forward-Future",
                 "repo": "loopy",
-                "stars": 3042
+                "stars": 3045
               }
             },
             {
@@ -230,10 +230,10 @@
                 "archived": false,
                 "id": 988222683,
                 "language": "Vue",
-                "last_commit": "2026-08-22T23:12:14Z",
+                "last_commit": "2026-08-23T07:30:18Z",
                 "owner": "Simon-He95",
                 "repo": "markstream-vue",
-                "stars": 2947
+                "stars": 2956
               }
             },
             {
@@ -248,7 +248,7 @@
                 "last_commit": "2026-08-21T17:43:52Z",
                 "owner": "microsoft",
                 "repo": "skills",
-                "stars": 2935
+                "stars": 2939
               }
             },
             {
@@ -263,7 +263,7 @@
                 "last_commit": "2026-08-12T07:37:08Z",
                 "owner": "supabase",
                 "repo": "agent-skills",
-                "stars": 2537
+                "stars": 2544
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2026-08-21T01:08:31Z",
                 "owner": "expo",
                 "repo": "skills",
-                "stars": 2447
+                "stars": 2452
               }
             },
             {
@@ -293,7 +293,7 @@
                 "last_commit": "2026-08-10T15:02:02Z",
                 "owner": "apify",
                 "repo": "agent-skills",
-                "stars": 2357
+                "stars": 2359
               }
             },
             {
@@ -308,7 +308,7 @@
                 "last_commit": "2026-08-21T10:42:27Z",
                 "owner": "MiniMax-AI",
                 "repo": "cli",
-                "stars": 2061
+                "stars": 2063
               }
             },
             {
@@ -323,7 +323,7 @@
                 "last_commit": "2026-08-03T18:44:59Z",
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 935
+                "stars": 957
               }
             },
             {
@@ -338,7 +338,7 @@
                 "last_commit": "2026-07-21T22:42:21Z",
                 "owner": "dair-ai",
                 "repo": "dair-academy-plugins",
-                "stars": 606
+                "stars": 607
               }
             },
             {
@@ -365,7 +365,7 @@
                 "archived": false,
                 "id": 1168120544,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T02:40:19Z",
+                "last_commit": "2026-08-24T02:12:22Z",
                 "owner": "Xquik-dev",
                 "repo": "x-twitter-scraper",
                 "stars": 186
@@ -440,7 +440,7 @@
                 "archived": false,
                 "id": 1301842069,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T19:03:59Z",
+                "last_commit": "2026-08-23T10:14:01Z",
                 "owner": "uizze",
                 "repo": "uizze",
                 "stars": 11
@@ -455,7 +455,7 @@
                 "archived": false,
                 "id": 1212338943,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T01:15:56Z",
+                "last_commit": "2026-08-23T21:20:16Z",
                 "owner": "BuyWhere",
                 "repo": "buywhere-mcp",
                 "stars": 9
@@ -485,7 +485,7 @@
                 "archived": false,
                 "id": 1219386655,
                 "language": "Go",
-                "last_commit": "2026-08-22T07:12:13Z",
+                "last_commit": "2026-08-23T07:13:31Z",
                 "owner": "HasData",
                 "repo": "hasdata-cli",
                 "stars": 7
@@ -500,7 +500,7 @@
                 "archived": false,
                 "id": 1222678439,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T05:58:16Z",
+                "last_commit": "2026-08-23T18:20:15Z",
                 "owner": "happy520ai",
                 "repo": "unified-ai-system",
                 "stars": 6
@@ -600,7 +600,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 276223
+                "stars": 276713
               }
             },
             {
@@ -615,7 +615,7 @@
                 "last_commit": "2026-08-21T03:02:03Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 242205
+                "stars": 242596
               }
             },
             {
@@ -630,7 +630,7 @@
                 "last_commit": "2026-08-21T10:56:48Z",
                 "owner": "mattpocock",
                 "repo": "skills",
-                "stars": 232227
+                "stars": 234022
               }
             },
             {
@@ -645,7 +645,7 @@
                 "last_commit": "2026-04-20T10:05:04Z",
                 "owner": "multica-ai",
                 "repo": "andrej-karpathy-skills",
-                "stars": 205353
+                "stars": 205810
               }
             },
             {
@@ -660,7 +660,7 @@
                 "last_commit": "2026-08-21T18:15:04Z",
                 "owner": "addyosmani",
                 "repo": "agent-skills",
-                "stars": 89132
+                "stars": 89309
               }
             },
             {
@@ -675,7 +675,7 @@
                 "last_commit": "2026-08-22T15:27:49Z",
                 "owner": "Leonxlnx",
                 "repo": "taste-skill",
-                "stars": 79361
+                "stars": 79727
               }
             },
             {
@@ -690,7 +690,7 @@
                 "last_commit": "2026-06-08T16:12:01Z",
                 "owner": "kepano",
                 "repo": "obsidian-skills",
-                "stars": 47070
+                "stars": 47139
               }
             },
             {
@@ -702,10 +702,10 @@
                 "archived": false,
                 "id": 1135212071,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T15:35:19Z",
+                "last_commit": "2026-08-23T22:08:07Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 45298
+                "stars": 45385
               }
             },
             {
@@ -720,7 +720,7 @@
                 "last_commit": "2026-08-19T22:41:49Z",
                 "owner": "K-Dense-AI",
                 "repo": "scientific-agent-skills",
-                "stars": 34134
+                "stars": 34189
               }
             },
             {
@@ -735,7 +735,7 @@
                 "last_commit": "2026-08-21T09:32:33Z",
                 "owner": "emilkowalski",
                 "repo": "skills",
-                "stars": 31609
+                "stars": 31887
               }
             },
             {
@@ -747,10 +747,10 @@
                 "archived": false,
                 "id": 1084853233,
                 "language": null,
-                "last_commit": "2026-08-21T08:05:45Z",
+                "last_commit": "2026-08-23T09:33:24Z",
                 "owner": "VoltAgent",
                 "repo": "awesome-agent-skills",
-                "stars": 30963
+                "stars": 31357
               }
             },
             {
@@ -765,7 +765,7 @@
                 "last_commit": "2026-06-23T20:08:19Z",
                 "owner": "zarazhangrui",
                 "repo": "frontend-slides",
-                "stars": 27974
+                "stars": 28016
               }
             },
             {
@@ -780,7 +780,7 @@
                 "last_commit": "2026-08-21T09:39:58Z",
                 "owner": "alirezarezvani",
                 "repo": "claude-skills",
-                "stars": 24820
+                "stars": 24865
               }
             },
             {
@@ -795,7 +795,7 @@
                 "last_commit": "2026-08-19T01:55:00Z",
                 "owner": "muratcankoylan",
                 "repo": "Agent-Skills-for-Context-Engineering",
-                "stars": 17802
+                "stars": 17807
               }
             },
             {
@@ -810,7 +810,7 @@
                 "last_commit": "2026-08-20T21:13:44Z",
                 "owner": "AgriciDaniel",
                 "repo": "claude-seo",
-                "stars": 14822
+                "stars": 14873
               }
             },
             {
@@ -825,7 +825,7 @@
                 "last_commit": "2026-04-28T19:30:24Z",
                 "owner": "travisvn",
                 "repo": "awesome-claude-skills",
-                "stars": 14777
+                "stars": 14788
               }
             },
             {
@@ -840,7 +840,7 @@
                 "last_commit": "2026-07-13T22:59:08Z",
                 "owner": "diet103",
                 "repo": "claude-code-infrastructure-showcase",
-                "stars": 10006
+                "stars": 10005
               }
             },
             {
@@ -855,7 +855,7 @@
                 "last_commit": "2026-08-11T02:26:46Z",
                 "owner": "vudovn",
                 "repo": "ag-kit",
-                "stars": 8147
+                "stars": 8151
               }
             },
             {
@@ -867,10 +867,10 @@
                 "archived": false,
                 "id": 1129930192,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T11:34:14Z",
+                "last_commit": "2026-08-23T17:25:09Z",
                 "owner": "ibelick",
                 "repo": "ui-skills",
-                "stars": 7461
+                "stars": 7518
               }
             },
             {
@@ -885,7 +885,7 @@
                 "last_commit": "2026-08-20T11:03:25Z",
                 "owner": "czlonkowski",
                 "repo": "n8n-skills",
-                "stars": 6116
+                "stars": 6119
               }
             },
             {
@@ -900,7 +900,7 @@
                 "last_commit": "2026-01-06T19:05:18Z",
                 "owner": "ChrisWiles",
                 "repo": "claude-code-showcase",
-                "stars": 6027
+                "stars": 6028
               }
             },
             {
@@ -912,10 +912,10 @@
                 "archived": false,
                 "id": 1006251566,
                 "language": "Python",
-                "last_commit": "2026-08-23T00:25:30Z",
+                "last_commit": "2026-08-24T00:25:17Z",
                 "owner": "zebbern",
                 "repo": "claude-code-guide",
-                "stars": 4585
+                "stars": 4586
               }
             },
             {
@@ -942,10 +942,10 @@
                 "archived": false,
                 "id": 1279159149,
                 "language": "Python",
-                "last_commit": "2026-08-22T12:27:53Z",
+                "last_commit": "2026-08-23T18:27:28Z",
                 "owner": "davidondrej",
                 "repo": "skills",
-                "stars": 3742
+                "stars": 3747
               }
             },
             {
@@ -960,7 +960,7 @@
                 "last_commit": "2026-08-12T13:34:21Z",
                 "owner": "AvdLee",
                 "repo": "SwiftUI-Agent-Skill",
-                "stars": 3438
+                "stars": 3442
               }
             },
             {
@@ -975,7 +975,7 @@
                 "last_commit": "2026-07-09T20:45:53Z",
                 "owner": "CloudAI-X",
                 "repo": "threejs-skills",
-                "stars": 3106
+                "stars": 3123
               }
             },
             {
@@ -990,7 +990,7 @@
                 "last_commit": "2026-07-06T13:36:03Z",
                 "owner": "cloudflare",
                 "repo": "security-audit-skill",
-                "stars": 3018
+                "stars": 3034
               }
             },
             {
@@ -1005,7 +1005,7 @@
                 "last_commit": "2026-08-17T09:19:43Z",
                 "owner": "yaojingang",
                 "repo": "yao-meta-skill",
-                "stars": 2412
+                "stars": 2479
               }
             },
             {
@@ -1020,7 +1020,7 @@
                 "last_commit": "2026-08-20T14:20:43Z",
                 "owner": "hyhmrright",
                 "repo": "brooks-lint",
-                "stars": 1406
+                "stars": 1408
               }
             },
             {
@@ -1035,7 +1035,7 @@
                 "last_commit": "2026-08-02T18:51:34Z",
                 "owner": "rmyndharis",
                 "repo": "antigravity-skills",
-                "stars": 1369
+                "stars": 1370
               }
             },
             {
@@ -1050,7 +1050,7 @@
                 "last_commit": "2026-07-04T15:26:29Z",
                 "owner": "amElnagdy",
                 "repo": "guard-skills",
-                "stars": 1188
+                "stars": 1190
               }
             },
             {
@@ -1065,7 +1065,7 @@
                 "last_commit": "2026-08-14T11:51:57Z",
                 "owner": "gooseworks-ai",
                 "repo": "goose-skills",
-                "stars": 1175
+                "stars": 1176
               }
             },
             {
@@ -1125,7 +1125,7 @@
                 "last_commit": "2026-08-22T09:38:10Z",
                 "owner": "bitjaru",
                 "repo": "styleseed",
-                "stars": 910
+                "stars": 914
               }
             },
             {
@@ -1155,7 +1155,7 @@
                 "last_commit": "2026-04-07T15:51:03Z",
                 "owner": "ZhangHanDong",
                 "repo": "makepad-skills",
-                "stars": 745
+                "stars": 744
               }
             },
             {
@@ -1170,7 +1170,7 @@
                 "last_commit": "2026-08-22T20:46:14Z",
                 "owner": "sergebulaev",
                 "repo": "linkedin-skills",
-                "stars": 582
+                "stars": 584
               }
             },
             {
@@ -1182,10 +1182,10 @@
                 "archived": false,
                 "id": 1147294830,
                 "language": null,
-                "last_commit": "2026-08-21T07:11:08Z",
+                "last_commit": "2026-08-23T05:51:01Z",
                 "owner": "ZeroPointRepo",
                 "repo": "youtube-skills",
-                "stars": 549
+                "stars": 551
               }
             },
             {
@@ -1200,7 +1200,7 @@
                 "last_commit": "2026-08-05T05:39:52Z",
                 "owner": "karanb192",
                 "repo": "awesome-claude-skills",
-                "stars": 496
+                "stars": 497
               }
             },
             {
@@ -1230,7 +1230,7 @@
                 "last_commit": "2026-07-09T21:13:00Z",
                 "owner": "sanjay3290",
                 "repo": "ai-skills",
-                "stars": 402
+                "stars": 403
               }
             },
             {
@@ -1245,7 +1245,7 @@
                 "last_commit": "2026-07-24T15:13:07Z",
                 "owner": "LambdaTest",
                 "repo": "agent-skills",
-                "stars": 359
+                "stars": 360
               }
             },
             {
@@ -1290,7 +1290,7 @@
                 "last_commit": "2026-08-18T18:14:30Z",
                 "owner": "ohad6k",
                 "repo": "emulo",
-                "stars": 273
+                "stars": 274
               }
             },
             {
@@ -1335,7 +1335,7 @@
                 "last_commit": "2026-07-06T08:18:09Z",
                 "owner": "taisly",
                 "repo": "agent",
-                "stars": 238
+                "stars": 237
               }
             },
             {
@@ -1392,7 +1392,7 @@
                 "archived": false,
                 "id": 1135473716,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T01:43:55Z",
+                "last_commit": "2026-08-23T22:51:07Z",
                 "owner": "kubestellar",
                 "repo": "console",
                 "stars": 127
@@ -1407,10 +1407,10 @@
                 "archived": false,
                 "id": 1226187070,
                 "language": "Rust",
-                "last_commit": "2026-08-22T05:02:09Z",
+                "last_commit": "2026-08-24T01:09:37Z",
                 "owner": "luoyuctl",
                 "repo": "agenttrace",
-                "stars": 121
+                "stars": 122
               }
             },
             {
@@ -1455,22 +1455,7 @@
                 "last_commit": "2026-08-21T03:33:44Z",
                 "owner": "MohamedAbdallah-14",
                 "repo": "unslop",
-                "stars": 105
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Ducksss/codex-profiles: Source for the skill - Codex CLI/Desktop profile isolation around separate directories, diagnostics, and account-context boundaries without copying auth tokens (MIT).",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1220652910,
-                "language": "Shell",
-                "last_commit": "2026-08-22T19:16:01Z",
-                "owner": "Ducksss",
-                "repo": "codex-profiles",
-                "stars": 100
+                "stars": 106
               }
             },
             {
@@ -1485,7 +1470,22 @@
                 "last_commit": "2026-08-21T15:25:54Z",
                 "owner": "Necmttn",
                 "repo": "ax",
-                "stars": 99
+                "stars": 101
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ducksss/codex-profiles: Source for the skill - Codex CLI/Desktop profile isolation around separate directories, diagnostics, and account-context boundaries without copying auth tokens (MIT).",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1220652910,
+                "language": "Shell",
+                "last_commit": "2026-08-22T19:16:01Z",
+                "owner": "Ducksss",
+                "repo": "codex-profiles",
+                "stars": 101
               }
             },
             {
@@ -1605,7 +1605,7 @@
                 "last_commit": "2026-03-04T23:57:04Z",
                 "owner": "shmlkv",
                 "repo": "dna-claude-analysis",
-                "stars": 54
+                "stars": 55
               }
             },
             {
@@ -1640,6 +1640,21 @@
             },
             {
               "node_type": "item",
+              "title": "sandbaseai/sandbase-skills: Source for the skill - cross-validated research with explicit source diversity, confidence, conflicts, gaps, and an offline-checkable evidence ledger (Apache-2.0).",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1315919904,
+                "language": "Python",
+                "last_commit": "2026-08-23T07:32:38Z",
+                "owner": "sandbaseai",
+                "repo": "sandbase-skills",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
               "title": "rafsilva85/credit-optimizer-v5: Manus AI credit optimizer skill — intelligent model routing, context compression, and smart testing. Saves 30-75% on credits with zero quality loss. Audited across 53 scenarios.",
               "description": null,
               "children": [],
@@ -1666,21 +1681,6 @@
                 "owner": "Silverov",
                 "repo": "yandex-direct-skill",
                 "stars": 44
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "sandbaseai/sandbase-skills: Source for the skill - cross-validated research with explicit source diversity, confidence, conflicts, gaps, and an offline-checkable evidence ledger (Apache-2.0).",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1315919904,
-                "language": "Python",
-                "last_commit": "2026-08-23T01:49:18Z",
-                "owner": "sandbaseai",
-                "repo": "sandbase-skills",
-                "stars": 42
               }
             },
             {
@@ -1722,7 +1722,7 @@
                 "archived": false,
                 "id": 1205564021,
                 "language": "Python",
-                "last_commit": "2026-08-23T02:33:00Z",
+                "last_commit": "2026-08-24T02:54:17Z",
                 "owner": "mycelium-hq",
                 "repo": "ai-brain-starter",
                 "stars": 35
@@ -1745,6 +1745,21 @@
             },
             {
               "node_type": "item",
+              "title": "webzler/agentMemory: Source for the agent-memory-mcp skill.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1124293950,
+                "language": "TypeScript",
+                "last_commit": "2026-01-21T17:16:01Z",
+                "owner": "webzler",
+                "repo": "agentMemory",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
               "title": "frmoretto/clarity-gate: Verification protocol for marking uncertainty and reducing hallucinated certainty in LLM-facing docs.",
               "description": null,
               "children": [],
@@ -1756,21 +1771,6 @@
                 "owner": "frmoretto",
                 "repo": "clarity-gate",
                 "stars": 32
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "webzler/agentMemory: Source for the agent-memory-mcp skill.",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1124293950,
-                "language": "TypeScript",
-                "last_commit": "2026-01-21T17:16:01Z",
-                "owner": "webzler",
-                "repo": "agentMemory",
-                "stars": 31
               }
             },
             {
@@ -1801,6 +1801,21 @@
                 "owner": "wrsmith108",
                 "repo": "varlock-claude-skill",
                 "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Suraj1235/open-dynamic-workflows: Source for the skill - open-source dynamic multi-agent workflow engine that plans, orchestrates, and adversarially verifies parallel AI coding agents across OpenCode, Codex, Antigravity, and VS Code (MIT).",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1260320502,
+                "language": "JavaScript",
+                "last_commit": "2026-07-09T16:35:47Z",
+                "owner": "Suraj1235",
+                "repo": "open-dynamic-workflows",
+                "stars": 30
               }
             },
             {
@@ -1850,21 +1865,6 @@
             },
             {
               "node_type": "item",
-              "title": "Suraj1235/open-dynamic-workflows: Source for the skill - open-source dynamic multi-agent workflow engine that plans, orchestrates, and adversarially verifies parallel AI coding agents across OpenCode, Codex, Antigravity, and VS Code (MIT).",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1260320502,
-                "language": "JavaScript",
-                "last_commit": "2026-07-09T16:35:47Z",
-                "owner": "Suraj1235",
-                "repo": "open-dynamic-workflows",
-                "stars": 28
-              }
-            },
-            {
-              "node_type": "item",
               "title": "zircote/.claude: Archived Claude Code dotfiles/config repo with a Shopify development skill reference.",
               "description": null,
               "children": [],
@@ -1895,21 +1895,6 @@
             },
             {
               "node_type": "item",
-              "title": "wede-wx/atlas: Source for the and goal-integrity skills - contract, phase-check, final-audit, and project-ledger guardrails for long-running agent work (MIT).",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1258435504,
-                "language": null,
-                "last_commit": "2026-06-11T18:00:48Z",
-                "owner": "wede-wx",
-                "repo": "atlas",
-                "stars": 20
-              }
-            },
-            {
-              "node_type": "item",
               "title": "hyhmrright/logic-lens: AI code-review skill for formal logic inspection across bugs, race conditions, security risks, and API contract issues.",
               "description": null,
               "children": [],
@@ -1920,6 +1905,21 @@
                 "last_commit": "2026-08-08T01:34:16Z",
                 "owner": "hyhmrright",
                 "repo": "logic-lens",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wede-wx/atlas: Source for the and goal-integrity skills - contract, phase-check, final-audit, and project-ledger guardrails for long-running agent work (MIT).",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1258435504,
+                "language": null,
+                "last_commit": "2026-06-11T18:00:48Z",
+                "owner": "wede-wx",
+                "repo": "atlas",
                 "stars": 20
               }
             },
@@ -1985,21 +1985,6 @@
             },
             {
               "node_type": "item",
-              "title": "ejentum/ejentum-mcp: Source for the skill - MCP cognitive harness modes for reasoning, code review, anti-deception checks, and memory-drift analysis (MIT).",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1229800444,
-                "language": "JavaScript",
-                "last_commit": "2026-06-11T11:19:12Z",
-                "owner": "ejentum",
-                "repo": "ejentum-mcp",
-                "stars": 16
-              }
-            },
-            {
-              "node_type": "item",
               "title": "iradoweck/antigravity-awesome-skills: Source for the GeminiIgnore FinOps skill - setup patterns for context-window efficiency and token cost reduction.",
               "description": null,
               "children": [],
@@ -2010,6 +1995,21 @@
                 "last_commit": "2026-05-26T05:53:16Z",
                 "owner": "iradoweck",
                 "repo": "antigravity-awesome-skills",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ejentum/ejentum-mcp: Source for the skill - MCP cognitive harness modes for reasoning, code review, anti-deception checks, and memory-drift analysis (MIT).",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1229800444,
+                "language": "JavaScript",
+                "last_commit": "2026-06-11T11:19:12Z",
+                "owner": "ejentum",
+                "repo": "ejentum-mcp",
                 "stars": 16
               }
             },
@@ -2055,7 +2055,7 @@
                 "last_commit": "2026-07-08T12:43:56Z",
                 "owner": "Intelligent-Internet",
                 "repo": "II-Commons-Skills",
-                "stars": 14
+                "stars": 15
               }
             },
             {
@@ -2070,6 +2070,21 @@
                 "last_commit": "2026-08-14T08:35:00Z",
                 "owner": "TerminallyLazy",
                 "repo": "Tree-Ring-Memory",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "uxuiprinciples/agent-skills: Research-backed UX/UI agent skills for auditing interfaces against 168 principles, detecting antipatterns, and injecting UX context into AI coding sessions.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1200142933,
+                "language": null,
+                "last_commit": "2026-04-03T05:20:43Z",
+                "owner": "uxuiprinciples",
+                "repo": "agent-skills",
                 "stars": 13
               }
             },
@@ -2115,21 +2130,6 @@
                 "last_commit": "2026-06-16T07:38:35Z",
                 "owner": "jackjin1997",
                 "repo": "ClawForge",
-                "stars": 12
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "uxuiprinciples/agent-skills: Research-backed UX/UI agent skills for auditing interfaces against 168 principles, detecting antipatterns, and injecting UX context into AI coding sessions.",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1200142933,
-                "language": null,
-                "last_commit": "2026-04-03T05:20:43Z",
-                "owner": "uxuiprinciples",
-                "repo": "agent-skills",
                 "stars": 12
               }
             },
@@ -2277,7 +2277,7 @@
                 "archived": false,
                 "id": 1180335249,
                 "language": "Shell",
-                "last_commit": "2026-08-20T15:06:02Z",
+                "last_commit": "2026-08-23T12:25:10Z",
                 "owner": "aomi-labs",
                 "repo": "skills",
                 "stars": 7
@@ -2315,21 +2315,6 @@
             },
             {
               "node_type": "item",
-              "title": "sparklingneuronics/sparkling-skills: Source for the skill - multi-CLI delegation from Claude Code to Codex, Antigravity, and Gemini agents (MIT).",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1276680592,
-                "language": "Python",
-                "last_commit": "2026-07-11T05:47:26Z",
-                "owner": "sparklingneuronics",
-                "repo": "sparkling-skills",
-                "stars": 6
-              }
-            },
-            {
-              "node_type": "item",
               "title": "maxbaluev/accreted-intelligence: Source for the skill — routes coding-agent work through AccInt's MCP memory loop with retrieval, continuation frames, commitments, and outcome feedback (Apache 2.0).",
               "description": null,
               "children": [],
@@ -2340,6 +2325,21 @@
                 "last_commit": "2026-07-05T18:31:50Z",
                 "owner": "maxbaluev",
                 "repo": "accreted-intelligence",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sparklingneuronics/sparkling-skills: Source for the skill - multi-CLI delegation from Claude Code to Codex, Antigravity, and Gemini agents (MIT).",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1276680592,
+                "language": "Python",
+                "last_commit": "2026-07-11T05:47:26Z",
+                "owner": "sparklingneuronics",
+                "repo": "sparkling-skills",
                 "stars": 6
               }
             },
@@ -2397,7 +2397,7 @@
                 "archived": false,
                 "id": 1232163345,
                 "language": null,
-                "last_commit": "2026-08-08T16:20:52Z",
+                "last_commit": "2026-08-23T17:03:03Z",
                 "owner": "qinghui316",
                 "repo": "ecl-harness-engineer",
                 "stars": 5
@@ -2412,7 +2412,7 @@
                 "archived": false,
                 "id": 1236430521,
                 "language": "Python",
-                "last_commit": "2026-08-16T16:47:20Z",
+                "last_commit": "2026-08-23T06:01:22Z",
                 "owner": "ZeroPointRepo",
                 "repo": "zillow-skills",
                 "stars": 5
@@ -2772,7 +2772,7 @@
                 "archived": false,
                 "id": 1287733195,
                 "language": "Python",
-                "last_commit": "2026-08-22T06:53:11Z",
+                "last_commit": "2026-08-23T18:42:42Z",
                 "owner": "supernovae-st",
                 "repo": "nika-plugins",
                 "stars": 2
@@ -3394,10 +3394,10 @@
                 "archived": false,
                 "id": 574523116,
                 "language": "HTML",
-                "last_commit": "2026-08-22T03:19:18Z",
+                "last_commit": "2026-08-23T03:23:38Z",
                 "owner": "f",
                 "repo": "prompts.chat",
-                "stars": 167769
+                "stars": 167825
               }
             },
             {
@@ -3412,7 +3412,7 @@
                 "last_commit": "2026-08-02T14:51:44Z",
                 "owner": "leonardomso",
                 "repo": "33-js-concepts",
-                "stars": 66514
+                "stars": 66516
               }
             }
           ],
@@ -3425,7 +3425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:58:02.590Z",
+    "last_updated": "2026-08-24T02:58:40.265Z",
     "original_repository": "sickn33/agentic-awesome-skills",
     "original_repository_id": 1134426800,
     "original_repository_sha": "b6ceca367a3b3ee90a273a3afa895960e8e9d7a5",
