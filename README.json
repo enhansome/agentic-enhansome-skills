@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "description": "Use the root repo as a landing page, then jump into the deeper surface that matches your intent.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Vexilo · A field guide to Claude Code",
+              "description": "different scope: a visual, searchable index of every Claude Code primitive (31 agents / 99 commands / 123 skills / 13 rules), organized around the 5-step workflow. Useful as a navigation layer over any skill library, not as a skill library itself. (companion repo)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1285863877,
+                "language": null,
+                "last_commit": "2026-07-01T09:32:14Z",
+                "owner": "lilhawk7077",
+                "repo": "claude-code-resources",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Compare alternatives"
+        }
+      ],
+      "title": "Browse 2,026+ Skills"
+    },
+    {
+      "description": "Keep the root README short; use the dedicated docs for recovery and platform-specific guidance.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "For Core setup, trust boundaries, stack manifests, and preview status, use the AAS Core guide",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1134426800,
+            "language": "Python",
+            "last_commit": "2026-08-24T05:30:55Z",
+            "owner": "sickn33",
+            "repo": "agentic-awesome-skills",
+            "stars": 45333
+          }
+        }
+      ],
+      "title": "Troubleshooting"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -12,10 +61,10 @@
             "archived": false,
             "id": 1134426800,
             "language": "Python",
-            "last_commit": "2026-08-23T03:21:41Z",
+            "last_commit": "2026-08-24T05:30:55Z",
             "owner": "sickn33",
             "repo": "agentic-awesome-skills",
-            "stars": 45316
+            "stars": 45333
           }
         },
         {
@@ -27,24 +76,24 @@
             "archived": false,
             "id": 1134426800,
             "language": "Python",
-            "last_commit": "2026-08-23T03:21:41Z",
+            "last_commit": "2026-08-24T05:30:55Z",
             "owner": "sickn33",
             "repo": "agentic-awesome-skills",
-            "stars": 45316
+            "stars": 45333
           }
         }
       ],
       "title": "Community"
     },
     {
-      "description": "We stand on the shoulders of giants.\n👉 View the Full Attribution Ledger\nSource credits stay here for attribution and auditability. Repository contributor credit lives separately in Repo Contributors.\nKey source families include:",
+      "description": null,
       "items": [
         {
           "children": [
             {
               "node_type": "item",
-              "title": "anthropics/skills: Official Anthropic skills repository - Document manipulation (DOCX, PDF, PPTX, XLSX), Brand Guidelines, Internal Communications.",
-              "description": null,
+              "title": "anthropics/skills",
+              "description": "Official Anthropic skills repository - Document manipulation (DOCX, PDF, PPTX, XLSX), Brand Guidelines, Internal Communications.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -53,13 +102,13 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 171208
+                "stars": 171317
               }
             },
             {
               "node_type": "item",
-              "title": "anthropics/claude-cookbooks: Official notebooks and recipes for building with Claude.",
-              "description": null,
+              "title": "anthropics/claude-cookbooks",
+              "description": "Official notebooks and recipes for building with Claude.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -68,13 +117,13 @@
                 "last_commit": "2026-08-19T20:42:54Z",
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 52052
+                "stars": 52078
               }
             },
             {
               "node_type": "item",
-              "title": "vercel-labs/agent-skills: Vercel Labs official skills - React Best Practices, Web Design Guidelines.",
-              "description": null,
+              "title": "vercel-labs/agent-skills",
+              "description": "Vercel Labs official skills - React Best Practices, Web Design Guidelines.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -83,13 +132,13 @@
                 "last_commit": "2026-08-21T18:55:51Z",
                 "owner": "vercel-labs",
                 "repo": "agent-skills",
-                "stars": 30383
+                "stars": 30410
               }
             },
             {
               "node_type": "item",
-              "title": "openai/skills: OpenAI Codex skills catalog - Agent skills, Skill Creator, Concise Planning.",
-              "description": null,
+              "title": "openai/skills",
+              "description": "OpenAI Codex skills catalog - Agent skills, Skill Creator, Concise Planning.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -98,28 +147,28 @@
                 "last_commit": "2026-07-14T16:47:46Z",
                 "owner": "openai",
                 "repo": "skills",
-                "stars": 25144
+                "stars": 25157
               }
             },
             {
               "node_type": "item",
-              "title": "Skyvern-AI/skyvern: Official Skyvern browser automation skill — AI-powered browser control using Vision LLMs and computer vision for navigating sites, filling forms, and extracting structured data.",
-              "description": null,
+              "title": "Skyvern-AI/skyvern",
+              "description": "Official Skyvern browser automation skill — AI-powered browser control using Vision LLMs and computer vision for navigating sites, filling forms, and extracting structured data.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 764723738,
                 "language": "Python",
-                "last_commit": "2026-08-24T02:40:48Z",
+                "last_commit": "2026-08-24T07:03:43Z",
                 "owner": "Skyvern-AI",
                 "repo": "skyvern",
-                "stars": 22838
+                "stars": 22842
               }
             },
             {
               "node_type": "item",
-              "title": "huggingface/skills: Official Hugging Face skills - Models, Spaces, datasets, inference, and broader Hugging Face ecosystem workflows.",
-              "description": null,
+              "title": "huggingface/skills",
+              "description": "Official Hugging Face skills - Models, Spaces, datasets, inference, and broader Hugging Face ecosystem workflows.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -128,13 +177,13 @@
                 "last_commit": "2026-08-18T15:35:11Z",
                 "owner": "huggingface",
                 "repo": "skills",
-                "stars": 10954
+                "stars": 10955
               }
             },
             {
               "node_type": "item",
-              "title": "browser-act/skills: Official BrowserAct skills - authenticated browser automation, JavaScript-rendered extraction, screenshots, parallel session isolation, verification handling, and human handoff (MIT).",
-              "description": null,
+              "title": "browser-act/skills",
+              "description": "Official BrowserAct skills - authenticated browser automation, JavaScript-rendered extraction, screenshots, parallel session isolation, verification handling, and human handoff (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -143,28 +192,28 @@
                 "last_commit": "2026-08-12T03:32:38Z",
                 "owner": "browser-act",
                 "repo": "skills",
-                "stars": 5405
+                "stars": 5417
               }
             },
             {
               "node_type": "item",
-              "title": "remotion-dev/skills: Official Remotion skills - Video creation in React with 28 modular rules.",
-              "description": null,
+              "title": "remotion-dev/skills",
+              "description": "Official Remotion skills - Video creation in React with 28 modular rules.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1137388347,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T11:38:40Z",
+                "last_commit": "2026-08-24T06:18:26Z",
                 "owner": "remotion-dev",
                 "repo": "skills",
-                "stars": 4387
+                "stars": 4397
               }
             },
             {
               "node_type": "item",
-              "title": "google-gemini/gemini-skills: Official Gemini skills - Gemini API, SDK and model interactions.",
-              "description": null,
+              "title": "google-gemini/gemini-skills",
+              "description": "Official Gemini skills - Gemini API, SDK and model interactions.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -173,13 +222,13 @@
                 "last_commit": "2026-08-19T07:57:30Z",
                 "owner": "google-gemini",
                 "repo": "gemini-skills",
-                "stars": 3927
+                "stars": 3929
               }
             },
             {
               "node_type": "item",
-              "title": "browserbase/skills: Official Browserbase skill - Browserbase Search API competitor discovery, research lanes, matrices, screenshots, and HTML reports (MIT).",
-              "description": null,
+              "title": "browserbase/skills",
+              "description": "Official Browserbase skill - Browserbase Search API competitor discovery, research lanes, matrices, screenshots, and HTML reports (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -188,13 +237,13 @@
                 "last_commit": "2026-08-20T21:12:27Z",
                 "owner": "browserbase",
                 "repo": "skills",
-                "stars": 3701
+                "stars": 3703
               }
             },
             {
               "node_type": "item",
-              "title": "nowork-studio/NotFair: Official source for the skill - dated SEO baselines and regression detection across rankings, indexation, metadata, directives, schema, and on-page elements (MIT).",
-              "description": null,
+              "title": "nowork-studio/NotFair",
+              "description": "Official source for the skill - dated SEO baselines and regression detection across rankings, indexation, metadata, directives, schema, and on-page elements (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -203,13 +252,13 @@
                 "last_commit": "2026-08-22T06:29:05Z",
                 "owner": "nowork-studio",
                 "repo": "notfair-plugin",
-                "stars": 3395
+                "stars": 3396
               }
             },
             {
               "node_type": "item",
-              "title": "Forward-Future/loop-library: Official Loop Library skill - find, adapt, and design bounded AI-agent feedback loops with verification, stop rules, guardrails, and handoffs (MIT).",
-              "description": null,
+              "title": "Forward-Future/loop-library",
+              "description": "Official Loop Library skill - find, adapt, and design bounded AI-agent feedback loops with verification, stop rules, guardrails, and handoffs (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -218,43 +267,43 @@
                 "last_commit": "2026-07-26T11:04:33Z",
                 "owner": "Forward-Future",
                 "repo": "loopy",
-                "stars": 3045
+                "stars": 3047
               }
             },
             {
               "node_type": "item",
-              "title": "Simon-He95/markstream-vue: Official Markstream skill for installing streaming Markdown renderers across Vue, React, Svelte, Angular, Nuxt, Next.js, and Vue 2 applications (MIT).",
-              "description": null,
+              "title": "Simon-He95/markstream-vue",
+              "description": "Official Markstream skill for installing streaming Markdown renderers across Vue, React, Svelte, Angular, Nuxt, Next.js, and Vue 2 applications (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 988222683,
                 "language": "Vue",
-                "last_commit": "2026-08-23T07:30:18Z",
+                "last_commit": "2026-08-24T10:58:38Z",
                 "owner": "Simon-He95",
                 "repo": "markstream-vue",
-                "stars": 2956
+                "stars": 2957
               }
             },
             {
               "node_type": "item",
-              "title": "microsoft/skills: Official Microsoft skills - Azure cloud services, Bot Framework, Cognitive Services, and enterprise development patterns across .NET, Python, TypeScript, Go, Rust, and Java.",
-              "description": null,
+              "title": "microsoft/skills",
+              "description": "Official Microsoft skills - Azure cloud services, Bot Framework, Cognitive Services, and enterprise development patterns across .NET, Python, TypeScript, Go, Rust, and Java.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1135891523,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T17:43:52Z",
+                "last_commit": "2026-08-24T11:07:37Z",
                 "owner": "microsoft",
                 "repo": "skills",
-                "stars": 2939
+                "stars": 2942
               }
             },
             {
               "node_type": "item",
-              "title": "supabase/agent-skills: Supabase official skills - Postgres Best Practices.",
-              "description": null,
+              "title": "supabase/agent-skills",
+              "description": "Supabase official skills - Postgres Best Practices.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -268,8 +317,8 @@
             },
             {
               "node_type": "item",
-              "title": "expo/skills: Official Expo skills - Expo project workflows and Expo Application Services guidance.",
-              "description": null,
+              "title": "expo/skills",
+              "description": "Official Expo skills - Expo project workflows and Expo Application Services guidance.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -278,13 +327,13 @@
                 "last_commit": "2026-08-21T01:08:31Z",
                 "owner": "expo",
                 "repo": "skills",
-                "stars": 2452
+                "stars": 2454
               }
             },
             {
               "node_type": "item",
-              "title": "apify/agent-skills: Official Apify skills - Web scraping, data extraction and automation.",
-              "description": null,
+              "title": "apify/agent-skills",
+              "description": "Official Apify skills - Web scraping, data extraction and automation.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -298,8 +347,8 @@
             },
             {
               "node_type": "item",
-              "title": "MiniMax-AI/cli: Official MiniMax CLI - text, image, video, speech, music, vision, and web-search workflows for MiniMax models and APIs.",
-              "description": null,
+              "title": "MiniMax-AI/cli",
+              "description": "Official MiniMax CLI - text, image, video, speech, music, vision, and web-search workflows for MiniMax models and APIs.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -308,13 +357,13 @@
                 "last_commit": "2026-08-21T10:42:27Z",
                 "owner": "MiniMax-AI",
                 "repo": "cli",
-                "stars": 2063
+                "stars": 2064
               }
             },
             {
               "node_type": "item",
-              "title": "vostride/agent-qa: Official Agent QA skills for authoring natural-language web and mobile tests, evidence-backed run triage, and scoped debug/fix workflows (FSL-1.1-ALv2, Apache-2.0 after two years).",
-              "description": null,
+              "title": "vostride/agent-qa",
+              "description": "Official Agent QA skills for authoring natural-language web and mobile tests, evidence-backed run triage, and scoped debug/fix workflows (FSL-1.1-ALv2, Apache-2.0 after two years).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -323,13 +372,13 @@
                 "last_commit": "2026-08-03T18:44:59Z",
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 957
+                "stars": 960
               }
             },
             {
               "node_type": "item",
-              "title": "dair-ai/dair-academy-plugins: Official DAIR Academy plugin skills imported as standalone skills - image generation, adaptive learning, lesson artifacts, LLM council deliberation, survey papers, wiki building, and YouTube study notes (MIT).",
-              "description": null,
+              "title": "dair-ai/dair-academy-plugins",
+              "description": "Official DAIR Academy plugin skills imported as standalone skills - image generation, adaptive learning, lesson artifacts, LLM council deliberation, survey papers, wiki building, and YouTube study notes (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -343,8 +392,8 @@
             },
             {
               "node_type": "item",
-              "title": "Orkas-AI/Orkas-VideoStudio: Official source for the skill - choose and lock generation, deterministic composition, supplied-footage editing, or an automatic cross-modal production plan (MIT).",
-              "description": null,
+              "title": "Orkas-AI/Orkas-VideoStudio",
+              "description": "Official source for the skill - choose and lock generation, deterministic composition, supplied-footage editing, or an automatic cross-modal production plan (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -353,13 +402,13 @@
                 "last_commit": "2026-08-12T07:25:38Z",
                 "owner": "Orkas-AI",
                 "repo": "Orkas-VideoStudio",
-                "stars": 523
+                "stars": 524
               }
             },
             {
               "node_type": "item",
-              "title": "Xquik-dev/x-twitter-scraper: Official Xquik skill for X data workflows - tweet search, user lookup, follower export, media downloads, MCP, webhooks, OpenAPI, and SDK setup (MIT).",
-              "description": null,
+              "title": "Xquik-dev/x-twitter-scraper",
+              "description": "Official Xquik skill for X data workflows - tweet search, user lookup, follower export, media downloads, MCP, webhooks, OpenAPI, and SDK setup (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -368,13 +417,13 @@
                 "last_commit": "2026-08-24T02:12:22Z",
                 "owner": "Xquik-dev",
                 "repo": "x-twitter-scraper",
-                "stars": 186
+                "stars": 187
               }
             },
             {
               "node_type": "item",
-              "title": "pilot-protocol/pilotprotocol: Official Pilot Protocol overlay network - agent addressing, encrypted P2P messaging, NAT traversal, and an installable agent app store (AGPL-3.0).",
-              "description": null,
+              "title": "pilot-protocol/pilotprotocol",
+              "description": "Official Pilot Protocol overlay network - agent addressing, encrypted P2P messaging, NAT traversal, and an installable agent app store (AGPL-3.0).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -388,8 +437,8 @@
             },
             {
               "node_type": "item",
-              "title": "weaviate/agent-skills: Official Weaviate skills - vector database operations, semantic and hybrid search, data imports, RAG cookbooks, agentic RAG, multimodal PDF search, and async client patterns (BSD-3-Clause).",
-              "description": null,
+              "title": "weaviate/agent-skills",
+              "description": "Official Weaviate skills - vector database operations, semantic and hybrid search, data imports, RAG cookbooks, agentic RAG, multimodal PDF search, and async client patterns (BSD-3-Clause).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -403,8 +452,8 @@
             },
             {
               "node_type": "item",
-              "title": "neondatabase/agent-skills: Official Neon skills - Serverless Postgres workflows and Neon platform guidance.",
-              "description": null,
+              "title": "neondatabase/agent-skills",
+              "description": "Official Neon skills - Serverless Postgres workflows and Neon platform guidance.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -418,8 +467,8 @@
             },
             {
               "node_type": "item",
-              "title": "longbridge/skills: Official Longbridge Securities skills - real-time quotes, charts, fundamentals, portfolio analysis, options, and market workflows for HK, US, A-share, and SG markets.",
-              "description": null,
+              "title": "longbridge/skills",
+              "description": "Official Longbridge Securities skills - real-time quotes, charts, fundamentals, portfolio analysis, options, and market workflows for HK, US, A-share, and SG markets.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -433,8 +482,8 @@
             },
             {
               "node_type": "item",
-              "title": "uizze/uizze: Official UIZZE source for the free skill—product-specific UI references, design contracts, required states, and a hard finish gate grounded in 800,000+ real web and iOS screens (MIT).",
-              "description": null,
+              "title": "uizze/uizze",
+              "description": "Official UIZZE source for the free skill—product-specific UI references, design contracts, required states, and a hard finish gate grounded in 800,000+ real web and iOS screens (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -448,14 +497,14 @@
             },
             {
               "node_type": "item",
-              "title": "BuyWhere/buywhere-mcp: Official BuyWhere MCP server — search and compare products from Singapore, SEA, and US markets via Model Context Protocol.",
-              "description": null,
+              "title": "BuyWhere/buywhere-mcp",
+              "description": "Official BuyWhere MCP server — search and compare products from Singapore, SEA, and US markets via Model Context Protocol.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1212338943,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T21:20:16Z",
+                "last_commit": "2026-08-24T10:54:42Z",
                 "owner": "BuyWhere",
                 "repo": "buywhere-mcp",
                 "stars": 9
@@ -463,8 +512,8 @@
             },
             {
               "node_type": "item",
-              "title": "scopeblind/scopeblind-gateway: Official Scopeblind MCP governance toolkit - Cedar policy authoring, shadow-to-enforce rollout, and signed-receipt verification guidance for agent tool calls.",
-              "description": null,
+              "title": "scopeblind/scopeblind-gateway",
+              "description": "Official Scopeblind MCP governance toolkit - Cedar policy authoring, shadow-to-enforce rollout, and signed-receipt verification guidance for agent tool calls.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -478,14 +527,14 @@
             },
             {
               "node_type": "item",
-              "title": "HasData/hasdata-cli: Official HasData CLI and API guidance for search, scraping, ecommerce, travel, jobs, local business, and structured web data workflows.",
-              "description": null,
+              "title": "HasData/hasdata-cli",
+              "description": "Official HasData CLI and API guidance for search, scraping, ecommerce, travel, jobs, local business, and structured web data workflows.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1219386655,
                 "language": "Go",
-                "last_commit": "2026-08-23T07:13:31Z",
+                "last_commit": "2026-08-24T07:23:20Z",
                 "owner": "HasData",
                 "repo": "hasdata-cli",
                 "stars": 7
@@ -493,14 +542,14 @@
             },
             {
               "node_type": "item",
-              "title": "happy520ai/unified-ai-system: Official source for the skill - nine governed Codex MCP tools for provider-free prompt enhancement, credential-free gateway health, readiness, fake-provider chat, knowledge, workflow, and workforce evidence (Apache-2.0).",
-              "description": null,
+              "title": "happy520ai/unified-ai-system",
+              "description": "Official source for the skill - nine governed Codex MCP tools for provider-free prompt enhancement, credential-free gateway health, readiness, fake-provider chat, knowledge, workflow, and workforce evidence (Apache-2.0).",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1222678439,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T18:20:15Z",
+                "last_commit": "2026-08-24T13:32:28Z",
                 "owner": "happy520ai",
                 "repo": "unified-ai-system",
                 "stars": 6
@@ -508,14 +557,14 @@
             },
             {
               "node_type": "item",
-              "title": "agent-frontier/wgm: Official wgm protocol skill - governed build loops with triage, alignment, planning, deterministic backpressure, holdout-scenario judging, and handoff audits (MIT).",
-              "description": null,
+              "title": "agent-frontier/wgm",
+              "description": "Official wgm protocol skill - governed build loops with triage, alignment, planning, deterministic backpressure, holdout-scenario judging, and handoff audits (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1262565122,
                 "language": "Shell",
-                "last_commit": "2026-08-20T17:39:32Z",
+                "last_commit": "2026-08-24T13:47:49Z",
                 "owner": "agent-frontier",
                 "repo": "wgm",
                 "stars": 3
@@ -523,8 +572,23 @@
             },
             {
               "node_type": "item",
-              "title": "runapi-ai/cli-skill: Official RunAPI CLI skill - generate AI images, videos, and music/audio from agent workflows, plus run other model API jobs.",
-              "description": null,
+              "title": "bekservice/Famulor-Skill",
+              "description": "Official Famulor skill for tenant-safe operation of its hosted MCP server across assistants, communication history, campaigns, knowledge, automations, telephony, and workspace administration (MIT).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1191583165,
+                "language": null,
+                "last_commit": "2026-08-23T15:45:35Z",
+                "owner": "bekservice",
+                "repo": "Famulor-Skill",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "runapi-ai/cli-skill",
+              "description": "Official RunAPI CLI skill - generate AI images, videos, and music/audio from agent workflows, plus run other model API jobs.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -538,8 +602,8 @@
             },
             {
               "node_type": "item",
-              "title": "Modellix/modellix-plugin: Official Modellix skill - authenticated, paid AI image and video generation through the Modellix CLI (MIT).",
-              "description": null,
+              "title": "Modellix/modellix-plugin",
+              "description": "Official Modellix skill - authenticated, paid AI image and video generation through the Modellix CLI (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -553,8 +617,8 @@
             },
             {
               "node_type": "item",
-              "title": "cohesivity-org/cohesivity-skill: Official Cohesivity skill - agent provisioned backend infrastructure covering Postgres, hosting, auth, realtime, storage, cron, email, and AI model APIs over one HTTP API (MIT).",
-              "description": null,
+              "title": "cohesivity-org/cohesivity-skill",
+              "description": "Official Cohesivity skill - agent provisioned backend infrastructure covering Postgres, hosting, auth, realtime, storage, cron, email, and AI model APIs over one HTTP API (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -568,8 +632,8 @@
             },
             {
               "node_type": "item",
-              "title": "ASI2030/Fact-Check-X: Source for the workflow - claim-level AI answer comparison, citation-fidelity review, and public primary-source verification without bundled browser automation (Apache-2.0).",
-              "description": null,
+              "title": "ASI2030/Fact-Check-X",
+              "description": "Source for the workflow - claim-level AI answer comparison, citation-fidelity review, and public primary-source verification without bundled browser automation (Apache-2.0).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -585,13 +649,19 @@
           "description": null,
           "node_type": "group",
           "title": "Official Sources"
-        },
+        }
+      ],
+      "title": "Official Sources"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "children": [
             {
               "node_type": "item",
-              "title": "obra/superpowers: The original \"Superpowers\" by Jesse Vincent.",
-              "description": null,
+              "title": "obra/superpowers",
+              "description": "The original \"Superpowers\" by Jesse Vincent.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -600,28 +670,28 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 276713
+                "stars": 276916
               }
             },
             {
               "node_type": "item",
-              "title": "affaan-m/everything-claude-code: Large Claude Code configuration and workflow collection from an Anthropic hackathon winner (MIT).",
-              "description": null,
+              "title": "affaan-m/everything-claude-code",
+              "description": "Large Claude Code configuration and workflow collection from an Anthropic hackathon winner (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1136590548,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T03:02:03Z",
+                "last_commit": "2026-08-24T05:00:04Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 242596
+                "stars": 242786
               }
             },
             {
               "node_type": "item",
-              "title": "mattpocock/skills: Source for 17 Matt Pocock workflow skills - codebase design, TDD, bug diagnosis, triage, PRDs, issues, prototyping, handoff, teaching, and skill-writing guidance (MIT).",
-              "description": null,
+              "title": "mattpocock/skills",
+              "description": "Source for 17 Matt Pocock workflow skills - codebase design, TDD, bug diagnosis, triage, PRDs, issues, prototyping, handoff, teaching, and skill-writing guidance (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -630,13 +700,13 @@
                 "last_commit": "2026-08-21T10:56:48Z",
                 "owner": "mattpocock",
                 "repo": "skills",
-                "stars": 234022
+                "stars": 234887
               }
             },
             {
               "node_type": "item",
-              "title": "multica-ai/andrej-karpathy-skills: Source for the skill - English Karpathy-inspired LLM coding guidelines for simplicity, surgical changes, assumption surfacing, and verifiable success criteria (MIT).",
-              "description": null,
+              "title": "multica-ai/andrej-karpathy-skills",
+              "description": "Source for the skill - English Karpathy-inspired LLM coding guidelines for simplicity, surgical changes, assumption surfacing, and verifiable success criteria (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -645,13 +715,13 @@
                 "last_commit": "2026-04-20T10:05:04Z",
                 "owner": "multica-ai",
                 "repo": "andrej-karpathy-skills",
-                "stars": 205810
+                "stars": 206179
               }
             },
             {
               "node_type": "item",
-              "title": "addyosmani/agent-skills: Source for the skill - Chrome DevTools MCP browser verification, profiling, network inspection, and frontend debugging guidance (MIT).",
-              "description": null,
+              "title": "addyosmani/agent-skills",
+              "description": "Source for the skill - Chrome DevTools MCP browser verification, profiling, network inspection, and frontend debugging guidance (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -660,28 +730,28 @@
                 "last_commit": "2026-08-21T18:15:04Z",
                 "owner": "addyosmani",
                 "repo": "agent-skills",
-                "stars": 89309
+                "stars": 89410
               }
             },
             {
               "node_type": "item",
-              "title": "Leonxlnx/taste-skill: Frontend design taste skill collection covering premium UI generation, redesign audits, GSAP motion, Stitch design systems, minimalist and brutalist visual modes, and full-output enforcement.",
-              "description": null,
+              "title": "Leonxlnx/taste-skill",
+              "description": "Frontend design taste skill collection covering premium UI generation, redesign audits, GSAP motion, Stitch design systems, minimalist and brutalist visual modes, and full-output enforcement.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1162099055,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T15:27:49Z",
+                "last_commit": "2026-08-24T13:45:42Z",
                 "owner": "Leonxlnx",
                 "repo": "taste-skill",
-                "stars": 79727
+                "stars": 79945
               }
             },
             {
               "node_type": "item",
-              "title": "kepano/obsidian-skills: Obsidian-focused skills for markdown, Bases, JSON Canvas, CLI workflows, and content cleanup.",
-              "description": null,
+              "title": "kepano/obsidian-skills",
+              "description": "Obsidian-focused skills for markdown, Bases, JSON Canvas, CLI workflows, and content cleanup.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -690,13 +760,13 @@
                 "last_commit": "2026-06-08T16:12:01Z",
                 "owner": "kepano",
                 "repo": "obsidian-skills",
-                "stars": 47139
+                "stars": 47168
               }
             },
             {
               "node_type": "item",
-              "title": "coreyhaines31/marketingskills: Marketing skills for CRO, copywriting, SEO, paid ads, and growth (23 skills, MIT).",
-              "description": null,
+              "title": "coreyhaines31/marketingskills",
+              "description": "Marketing skills for CRO, copywriting, SEO, paid ads, and growth (23 skills, MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -705,28 +775,28 @@
                 "last_commit": "2026-08-23T22:08:07Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 45385
+                "stars": 45434
               }
             },
             {
               "node_type": "item",
-              "title": "K-Dense-AI/claude-scientific-skills: Scientific, research, engineering, finance, and writing skill suite (MIT).",
-              "description": null,
+              "title": "K-Dense-AI/claude-scientific-skills",
+              "description": "Scientific, research, engineering, finance, and writing skill suite (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1079456184,
                 "language": "Python",
-                "last_commit": "2026-08-19T22:41:49Z",
+                "last_commit": "2026-08-24T09:22:55Z",
                 "owner": "K-Dense-AI",
                 "repo": "scientific-agent-skills",
-                "stars": 34189
+                "stars": 34242
               }
             },
             {
               "node_type": "item",
-              "title": "emilkowalski/skills: Source for Emil Kowalski design engineering skills - UI polish, motion review, animation standards, component craft, and high-taste frontend guidance (MIT).",
-              "description": null,
+              "title": "emilkowalski/skills",
+              "description": "Source for Emil Kowalski design engineering skills - UI polish, motion review, animation standards, component craft, and high-taste frontend guidance (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -735,28 +805,28 @@
                 "last_commit": "2026-08-21T09:32:33Z",
                 "owner": "emilkowalski",
                 "repo": "skills",
-                "stars": 31887
+                "stars": 32024
               }
             },
             {
               "node_type": "item",
-              "title": "VoltAgent/awesome-agent-skills: Curated collection of 1000+ official and community agent skills from leading development teams (MIT).",
-              "description": null,
+              "title": "VoltAgent/awesome-agent-skills",
+              "description": "Curated collection of 1000+ official and community agent skills from leading development teams (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1084853233,
                 "language": null,
-                "last_commit": "2026-08-23T09:33:24Z",
+                "last_commit": "2026-08-24T06:19:36Z",
                 "owner": "VoltAgent",
                 "repo": "awesome-agent-skills",
-                "stars": 31357
+                "stars": 31643
               }
             },
             {
               "node_type": "item",
-              "title": "zarazhangrui/frontend-slides: Frontend slide-creation skills for web-based presentations (MIT).",
-              "description": null,
+              "title": "zarazhangrui/frontend-slides",
+              "description": "Frontend slide-creation skills for web-based presentations (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -765,13 +835,13 @@
                 "last_commit": "2026-06-23T20:08:19Z",
                 "owner": "zarazhangrui",
                 "repo": "frontend-slides",
-                "stars": 28016
+                "stars": 28047
               }
             },
             {
               "node_type": "item",
-              "title": "alirezarezvani/claude-skills: Senior Engineering and PM toolkit.",
-              "description": null,
+              "title": "alirezarezvani/claude-skills",
+              "description": "Senior Engineering and PM toolkit.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -780,13 +850,13 @@
                 "last_commit": "2026-08-21T09:39:58Z",
                 "owner": "alirezarezvani",
                 "repo": "claude-skills",
-                "stars": 24865
+                "stars": 24892
               }
             },
             {
               "node_type": "item",
-              "title": "muratcankoylan/Agent-Skills-for-Context-Engineering: Context-engineering, multi-agent, and production agent-system skill collection (MIT).",
-              "description": null,
+              "title": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+              "description": "Context-engineering, multi-agent, and production agent-system skill collection (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -795,13 +865,13 @@
                 "last_commit": "2026-08-19T01:55:00Z",
                 "owner": "muratcankoylan",
                 "repo": "Agent-Skills-for-Context-Engineering",
-                "stars": 17807
+                "stars": 17811
               }
             },
             {
               "node_type": "item",
-              "title": "AgriciDaniel/claude-seo: SEO workflow collection covering technical SEO, hreflang, sitemap, geo, schema, and programmatic SEO patterns.",
-              "description": null,
+              "title": "AgriciDaniel/claude-seo",
+              "description": "SEO workflow collection covering technical SEO, hreflang, sitemap, geo, schema, and programmatic SEO patterns.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -810,13 +880,13 @@
                 "last_commit": "2026-08-20T21:13:44Z",
                 "owner": "AgriciDaniel",
                 "repo": "claude-seo",
-                "stars": 14873
+                "stars": 14930
               }
             },
             {
               "node_type": "item",
-              "title": "travisvn/awesome-claude-skills: Loki Mode and Playwright integration.",
-              "description": null,
+              "title": "travisvn/awesome-claude-skills",
+              "description": "Loki Mode and Playwright integration.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -825,13 +895,13 @@
                 "last_commit": "2026-04-28T19:30:24Z",
                 "owner": "travisvn",
                 "repo": "awesome-claude-skills",
-                "stars": 14788
+                "stars": 14799
               }
             },
             {
               "node_type": "item",
-              "title": "diet103/claude-code-infrastructure-showcase: Infrastructure and Backend/Frontend Guidelines.",
-              "description": null,
+              "title": "diet103/claude-code-infrastructure-showcase",
+              "description": "Infrastructure and Backend/Frontend Guidelines.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -840,13 +910,13 @@
                 "last_commit": "2026-07-13T22:59:08Z",
                 "owner": "diet103",
                 "repo": "claude-code-infrastructure-showcase",
-                "stars": 10005
+                "stars": 10008
               }
             },
             {
               "node_type": "item",
-              "title": "vudovn/antigravity-kit: AI Agent templates with Skills, Agents, and Workflows (33 skills, MIT).",
-              "description": null,
+              "title": "vudovn/antigravity-kit",
+              "description": "AI Agent templates with Skills, Agents, and Workflows (33 skills, MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -855,13 +925,13 @@
                 "last_commit": "2026-08-11T02:26:46Z",
                 "owner": "vudovn",
                 "repo": "ag-kit",
-                "stars": 8151
+                "stars": 8153
               }
             },
             {
               "node_type": "item",
-              "title": "ibelick/ui-skills: UI-polish skills for improving interfaces built by agents (MIT).",
-              "description": null,
+              "title": "ibelick/ui-skills",
+              "description": "UI-polish skills for improving interfaces built by agents (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -870,13 +940,13 @@
                 "last_commit": "2026-08-23T17:25:09Z",
                 "owner": "ibelick",
                 "repo": "ui-skills",
-                "stars": 7518
+                "stars": 7539
               }
             },
             {
               "node_type": "item",
-              "title": "czlonkowski/n8n-skills: n8n workflow-building skills for Claude Code (MIT).",
-              "description": null,
+              "title": "czlonkowski/n8n-skills",
+              "description": "n8n workflow-building skills for Claude Code (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -890,8 +960,8 @@
             },
             {
               "node_type": "item",
-              "title": "ChrisWiles/claude-code-showcase: React UI patterns and Design Systems.",
-              "description": null,
+              "title": "ChrisWiles/claude-code-showcase",
+              "description": "React UI patterns and Design Systems.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -900,13 +970,13 @@
                 "last_commit": "2026-01-06T19:05:18Z",
                 "owner": "ChrisWiles",
                 "repo": "claude-code-showcase",
-                "stars": 6028
+                "stars": 6030
               }
             },
             {
               "node_type": "item",
-              "title": "zebbern/claude-code-guide: Comprehensive Security suite & Guide (Source for ~60 new skills).",
-              "description": null,
+              "title": "zebbern/claude-code-guide",
+              "description": "Comprehensive Security suite & Guide (Source for ~60 new skills).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -915,13 +985,13 @@
                 "last_commit": "2026-08-24T00:25:17Z",
                 "owner": "zebbern",
                 "repo": "claude-code-guide",
-                "stars": 4586
+                "stars": 4589
               }
             },
             {
               "node_type": "item",
-              "title": "Dimillian/Skills: Curated Codex skills focused on Apple platforms, GitHub workflows, refactoring, and performance (MIT).",
-              "description": null,
+              "title": "Dimillian/Skills",
+              "description": "Curated Codex skills focused on Apple platforms, GitHub workflows, refactoring, and performance (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -930,13 +1000,13 @@
                 "last_commit": "2026-03-29T15:28:02Z",
                 "owner": "Dimillian",
                 "repo": "Skills",
-                "stars": 3915
+                "stars": 3918
               }
             },
             {
               "node_type": "item",
-              "title": "davidondrej/skills: Source for David Ondrej agent workflow skills across orchestration, research, setup, skill authoring, and documentation workflows (MIT).",
-              "description": null,
+              "title": "davidondrej/skills",
+              "description": "Source for David Ondrej agent workflow skills across orchestration, research, setup, skill authoring, and documentation workflows (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -945,13 +1015,13 @@
                 "last_commit": "2026-08-23T18:27:28Z",
                 "owner": "davidondrej",
                 "repo": "skills",
-                "stars": 3747
+                "stars": 3748
               }
             },
             {
               "node_type": "item",
-              "title": "AvdLee/SwiftUI-Agent-Skill: SwiftUI best-practices skill for agent workflows (MIT).",
-              "description": null,
+              "title": "AvdLee/SwiftUI-Agent-Skill",
+              "description": "SwiftUI best-practices skill for agent workflows (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -960,13 +1030,13 @@
                 "last_commit": "2026-08-12T13:34:21Z",
                 "owner": "AvdLee",
                 "repo": "SwiftUI-Agent-Skill",
-                "stars": 3442
+                "stars": 3443
               }
             },
             {
               "node_type": "item",
-              "title": "CloudAI-X/threejs-skills: Three.js-focused skill collection for agent-assisted 3D web work.",
-              "description": null,
+              "title": "CloudAI-X/threejs-skills",
+              "description": "Three.js-focused skill collection for agent-assisted 3D web work.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -975,7 +1045,7 @@
                 "last_commit": "2026-07-09T20:45:53Z",
                 "owner": "CloudAI-X",
                 "repo": "threejs-skills",
-                "stars": 3123
+                "stars": 3128
               }
             },
             {
@@ -990,13 +1060,13 @@
                 "last_commit": "2026-07-06T13:36:03Z",
                 "owner": "cloudflare",
                 "repo": "security-audit-skill",
-                "stars": 3034
+                "stars": 3040
               }
             },
             {
               "node_type": "item",
-              "title": "yaojingang/yao-meta-skill: Source for the skill - governed skill creation, refactoring, evaluation, packaging, review, and distribution workflows (MIT).",
-              "description": null,
+              "title": "yaojingang/yao-meta-skill",
+              "description": "Source for the skill - governed skill creation, refactoring, evaluation, packaging, review, and distribution workflows (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1005,28 +1075,28 @@
                 "last_commit": "2026-08-17T09:19:43Z",
                 "owner": "yaojingang",
                 "repo": "yao-meta-skill",
-                "stars": 2479
+                "stars": 2495
               }
             },
             {
               "node_type": "item",
-              "title": "hyhmrright/brooks-lint: AI code-review skill grounded in classic software engineering books for design-smell, coupling, and architecture review.",
-              "description": null,
+              "title": "hyhmrright/brooks-lint",
+              "description": "AI code-review skill grounded in classic software engineering books for design-smell, coupling, and architecture review.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1192608669,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T14:20:43Z",
+                "last_commit": "2026-08-24T04:07:06Z",
                 "owner": "hyhmrright",
                 "repo": "brooks-lint",
-                "stars": 1408
+                "stars": 1411
               }
             },
             {
               "node_type": "item",
-              "title": "rmyndharis/antigravity-skills: For the massive contribution of 300+ Enterprise skills and the catalog generation logic.",
-              "description": null,
+              "title": "rmyndharis/antigravity-skills",
+              "description": "For the massive contribution of 300+ Enterprise skills and the catalog generation logic.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1035,7 +1105,7 @@
                 "last_commit": "2026-08-02T18:51:34Z",
                 "owner": "rmyndharis",
                 "repo": "antigravity-skills",
-                "stars": 1370
+                "stars": 1374
               }
             },
             {
@@ -1050,13 +1120,13 @@
                 "last_commit": "2026-07-04T15:26:29Z",
                 "owner": "amElnagdy",
                 "repo": "guard-skills",
-                "stars": 1190
+                "stars": 1191
               }
             },
             {
               "node_type": "item",
-              "title": "gooseworks-ai/goose-skills: Source for the and skills - evidence-labeled public ad research plus uncertainty-aware campaign diagnostics and bounded budget tests (MIT).",
-              "description": null,
+              "title": "gooseworks-ai/goose-skills",
+              "description": "Source for the and skills - evidence-labeled public ad research plus uncertainty-aware campaign diagnostics and bounded budget tests (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1065,13 +1135,13 @@
                 "last_commit": "2026-08-14T11:51:57Z",
                 "owner": "gooseworks-ai",
                 "repo": "goose-skills",
-                "stars": 1176
+                "stars": 1177
               }
             },
             {
               "node_type": "item",
-              "title": "guanyang/antigravity-skills: Core Antigravity extensions.",
-              "description": null,
+              "title": "guanyang/antigravity-skills",
+              "description": "Core Antigravity extensions.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1085,8 +1155,8 @@
             },
             {
               "node_type": "item",
-              "title": "Optim-Agent/optim-agent: Source for the skill - agent-guided optimization of configurable systems against measurable objectives (MIT).",
-              "description": null,
+              "title": "Optim-Agent/optim-agent",
+              "description": "Source for the skill - agent-guided optimization of configurable systems against measurable objectives (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1100,8 +1170,8 @@
             },
             {
               "node_type": "item",
-              "title": "huifer/WellAlly-health: Healthcare assistant project cited in release history as a source for health-focused agent capabilities (MIT).",
-              "description": null,
+              "title": "huifer/WellAlly-health",
+              "description": "Healthcare assistant project cited in release history as a source for health-focused agent capabilities (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1115,23 +1185,23 @@
             },
             {
               "node_type": "item",
-              "title": "bitjaru/styleseed: StyleSeed Toss UI and UX skill collection - setup wizard, page and pattern generation, design-token management, accessibility review, UX audits, feedback states, and microcopy guidance for professional mobile-first UI.",
-              "description": null,
+              "title": "bitjaru/styleseed",
+              "description": "StyleSeed Toss UI and UX skill collection - setup wizard, page and pattern generation, design-token management, accessibility review, UX audits, feedback states, and microcopy guidance for professional mobile-first UI.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1203405919,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T09:38:10Z",
+                "last_commit": "2026-08-24T04:46:58Z",
                 "owner": "bitjaru",
                 "repo": "styleseed",
-                "stars": 914
+                "stars": 916
               }
             },
             {
               "node_type": "item",
-              "title": "vibeforge1111/vibeship-spawner-skills: AI agents, integrations, maker tools, and other production-grade skill packs.",
-              "description": null,
+              "title": "vibeforge1111/vibeship-spawner-skills",
+              "description": "AI agents, integrations, maker tools, and other production-grade skill packs.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1145,8 +1215,8 @@
             },
             {
               "node_type": "item",
-              "title": "ZhangHanDong/makepad-skills: Makepad app-development skills and references (MIT).",
-              "description": null,
+              "title": "ZhangHanDong/makepad-skills",
+              "description": "Makepad app-development skills and references (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1155,13 +1225,13 @@
                 "last_commit": "2026-04-07T15:51:03Z",
                 "owner": "ZhangHanDong",
                 "repo": "makepad-skills",
-                "stars": 744
+                "stars": 745
               }
             },
             {
               "node_type": "item",
-              "title": "sergebulaev/linkedin-skills: Source for the skill - LinkedIn post drafting from 16 tested hook formulas mapped to engagement goals, with 2026 formatting rules and an AI-tell scrub pass, from a 10-skill LinkedIn bundle for Claude Code and Codex (MIT).",
-              "description": null,
+              "title": "sergebulaev/linkedin-skills",
+              "description": "Source for the skill - LinkedIn post drafting from 16 tested hook formulas mapped to engagement goals, with 2026 formatting rules and an AI-tell scrub pass, from a 10-skill LinkedIn bundle for Claude Code and Codex (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1170,13 +1240,13 @@
                 "last_commit": "2026-08-22T20:46:14Z",
                 "owner": "sergebulaev",
                 "repo": "linkedin-skills",
-                "stars": 584
+                "stars": 587
               }
             },
             {
               "node_type": "item",
-              "title": "ZeroPointRepo/youtube-skills: Source for the skill - TranscriptAPI-backed YouTube transcripts, search, channel browsing, playlists, and cloud-safe video research workflows (MIT).",
-              "description": null,
+              "title": "ZeroPointRepo/youtube-skills",
+              "description": "Source for the skill - TranscriptAPI-backed YouTube transcripts, search, channel browsing, playlists, and cloud-safe video research workflows (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1185,13 +1255,13 @@
                 "last_commit": "2026-08-23T05:51:01Z",
                 "owner": "ZeroPointRepo",
                 "repo": "youtube-skills",
-                "stars": 551
+                "stars": 554
               }
             },
             {
               "node_type": "item",
-              "title": "karanb192/awesome-claude-skills: A massive list of verified skills for Claude Code.",
-              "description": null,
+              "title": "karanb192/awesome-claude-skills",
+              "description": "A massive list of verified skills for Claude Code.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1200,13 +1270,13 @@
                 "last_commit": "2026-08-05T05:39:52Z",
                 "owner": "karanb192",
                 "repo": "awesome-claude-skills",
-                "stars": 497
+                "stars": 498
               }
             },
             {
               "node_type": "item",
-              "title": "baskduf/FableCodex: Source for the skill - Codex-native Fable-inspired workflow discipline for evidence-first implementation, goal tracking, review findings, verification gates, and prompt adaptation (AGPL-3.0-or-later).",
-              "description": null,
+              "title": "baskduf/FableCodex",
+              "description": "Source for the skill - Codex-native Fable-inspired workflow discipline for evidence-first implementation, goal tracking, review findings, verification gates, and prompt adaptation (AGPL-3.0-or-later).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1215,13 +1285,13 @@
                 "last_commit": "2026-07-26T12:42:24Z",
                 "owner": "baskduf",
                 "repo": "FableCodex",
-                "stars": 436
+                "stars": 435
               }
             },
             {
               "node_type": "item",
-              "title": "sanjay3290/ai-skills: Apache-licensed collection of agent skills for AI coding assistants.",
-              "description": null,
+              "title": "sanjay3290/ai-skills",
+              "description": "Apache-licensed collection of agent skills for AI coding assistants.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1230,13 +1300,13 @@
                 "last_commit": "2026-07-09T21:13:00Z",
                 "owner": "sanjay3290",
                 "repo": "ai-skills",
-                "stars": 403
+                "stars": 404
               }
             },
             {
               "node_type": "item",
-              "title": "LambdaTest/agent-skills: Production-grade agent skills for test automation — 46 skills covering E2E, unit, mobile, BDD, visual, and cloud testing across 15+ languages (MIT).",
-              "description": null,
+              "title": "LambdaTest/agent-skills",
+              "description": "Production-grade agent skills for test automation — 46 skills covering E2E, unit, mobile, BDD, visual, and cloud testing across 15+ languages (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1245,13 +1315,13 @@
                 "last_commit": "2026-07-24T15:13:07Z",
                 "owner": "LambdaTest",
                 "repo": "agent-skills",
-                "stars": 360
+                "stars": 361
               }
             },
             {
               "node_type": "item",
-              "title": "zxkane/aws-skills: AWS-focused Claude agent skills (MIT).",
-              "description": null,
+              "title": "zxkane/aws-skills",
+              "description": "AWS-focused Claude agent skills (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1260,13 +1330,13 @@
                 "last_commit": "2026-06-15T14:37:32Z",
                 "owner": "zxkane",
                 "repo": "aws-skills",
-                "stars": 351
+                "stars": 352
               }
             },
             {
               "node_type": "item",
-              "title": "AlmogBaku/debug-skill: Interactive debugger skill for AI agents — breakpoints, stepping, variable inspection, and stack traces via the CLI. Supports Python, Go, Node.js/TypeScript, Rust, and C/C++.",
-              "description": null,
+              "title": "AlmogBaku/debug-skill",
+              "description": "Interactive debugger skill for AI agents — breakpoints, stepping, variable inspection, and stack traces via the CLI. Supports Python, Go, Node.js/TypeScript, Rust, and C/C++.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1280,23 +1350,23 @@
             },
             {
               "node_type": "item",
-              "title": "ohad6k/ditto: Source for the skill - mines local coding-agent sessions into private, evidence-backed work, design, and writing profiles with dated source receipts (MIT).",
-              "description": null,
+              "title": "ohad6k/ditto",
+              "description": "Source for the skill - mines local coding-agent sessions into private, evidence-backed work, design, and writing profiles with dated source receipts (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1293528352,
                 "language": "Python",
-                "last_commit": "2026-08-18T18:14:30Z",
+                "last_commit": "2026-08-24T10:22:35Z",
                 "owner": "ohad6k",
                 "repo": "emulo",
-                "stars": 274
+                "stars": 272
               }
             },
             {
               "node_type": "item",
-              "title": "drogers0/gh-image: Source for the skill - GitHub CLI image uploads that return canonical embed URLs for PRs, issues, comments, and README screenshots (MIT).",
-              "description": null,
+              "title": "drogers0/gh-image",
+              "description": "Source for the skill - GitHub CLI image uploads that return canonical embed URLs for PRs, issues, comments, and README screenshots (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1305,13 +1375,13 @@
                 "last_commit": "2026-08-19T15:10:08Z",
                 "owner": "drogers0",
                 "repo": "gh-image",
-                "stars": 241
+                "stars": 242
               }
             },
             {
               "node_type": "item",
-              "title": "scarletkc/vexor: Semantic search engine for files and code, referenced in release history.",
-              "description": null,
+              "title": "scarletkc/vexor",
+              "description": "Semantic search engine for files and code, referenced in release history.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1325,8 +1395,8 @@
             },
             {
               "node_type": "item",
-              "title": "taisly/agent: Source for the Taisly Social Media Posting skill - Codex plugin, CLI, SDK, and official MCP server for publishing approved short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook (MIT).",
-              "description": null,
+              "title": "taisly/agent",
+              "description": "Source for the Taisly Social Media Posting skill - Codex plugin, CLI, SDK, and official MCP server for publishing approved short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1340,8 +1410,8 @@
             },
             {
               "node_type": "item",
-              "title": "provencher/codex-skills: Source for the skill - focused Codex multi-agent delegation with non-overlapping ownership, coordinator integration, and user-held approval gates (MIT).",
-              "description": null,
+              "title": "provencher/codex-skills",
+              "description": "Source for the skill - focused Codex multi-agent delegation with non-overlapping ownership, coordinator integration, and user-held approval gates (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1355,8 +1425,8 @@
             },
             {
               "node_type": "item",
-              "title": "jthack/ffuf_claude_skill: FFUF skill for web fuzzing workflows in Claude.",
-              "description": null,
+              "title": "jthack/ffuf_claude_skill",
+              "description": "FFUF skill for web fuzzing workflows in Claude.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1370,8 +1440,8 @@
             },
             {
               "node_type": "item",
-              "title": "gokapso/agent-skills: Kapso/WhatsApp-oriented agent skills.",
-              "description": null,
+              "title": "gokapso/agent-skills",
+              "description": "Kapso/WhatsApp-oriented agent skills.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1385,14 +1455,14 @@
             },
             {
               "node_type": "item",
-              "title": "kubestellar/console: KubeStellar Console multi-cluster Kubernetes dashboard with MCP integration, AI-assisted operations, and built-in agent skills.",
-              "description": null,
+              "title": "kubestellar/console",
+              "description": "KubeStellar Console multi-cluster Kubernetes dashboard with MCP integration, AI-assisted operations, and built-in agent skills.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1135473716,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T22:51:07Z",
+                "last_commit": "2026-08-24T10:52:39Z",
                 "owner": "kubestellar",
                 "repo": "console",
                 "stars": 127
@@ -1400,8 +1470,8 @@
             },
             {
               "node_type": "item",
-              "title": "luoyuctl/agenttrace: Source for the skill - local AI coding-agent session audits for cost spikes, tool failures, latency gaps, anomalies, health gates, and session diffs (MIT).",
-              "description": null,
+              "title": "luoyuctl/agenttrace",
+              "description": "Source for the skill - local AI coding-agent session audits for cost spikes, tool failures, latency gaps, anomalies, health gates, and session diffs (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1415,8 +1485,8 @@
             },
             {
               "node_type": "item",
-              "title": "wrsmith108/linear-claude-skill: Linear issue/project/team management skill with MCP and GraphQL workflows (MIT).",
-              "description": null,
+              "title": "wrsmith108/linear-claude-skill",
+              "description": "Linear issue/project/team management skill with MCP and GraphQL workflows (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1430,8 +1500,23 @@
             },
             {
               "node_type": "item",
-              "title": "JunsW/feature-track: Source for the skill - lightweight repository-native feature memory for current status, source-of-truth documents, decisions, risks, and cross-session handoff (MIT).",
-              "description": null,
+              "title": "MohamedAbdallah-14/unslop",
+              "description": "Source for the skill - deterministic and LLM-assisted cleanup for AI-generated prose across CLI and agent tool workflows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1215400589,
+                "language": "Python",
+                "last_commit": "2026-08-21T03:33:44Z",
+                "owner": "MohamedAbdallah-14",
+                "repo": "unslop",
+                "stars": 108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JunsW/feature-track",
+              "description": "Source for the skill - lightweight repository-native feature memory for current status, source-of-truth documents, decisions, risks, and cross-session handoff (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1445,29 +1530,14 @@
             },
             {
               "node_type": "item",
-              "title": "MohamedAbdallah-14/unslop: Source for the skill - deterministic and LLM-assisted cleanup for AI-generated prose across CLI and agent tool workflows.",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1215400589,
-                "language": "Python",
-                "last_commit": "2026-08-21T03:33:44Z",
-                "owner": "MohamedAbdallah-14",
-                "repo": "unslop",
-                "stars": 106
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Necmttn/ax: Source for the skill - reconstruct workflow behind past coding-agent artifacts using local ax sessions, commits, skills, and tool traces (AGPL-3.0-only).",
-              "description": null,
+              "title": "Necmttn/ax",
+              "description": "Source for the skill - reconstruct workflow behind past coding-agent artifacts using local ax sessions, commits, skills, and tool traces (AGPL-3.0-only).",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1232710515,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T15:25:54Z",
+                "last_commit": "2026-08-24T09:54:58Z",
                 "owner": "Necmttn",
                 "repo": "ax",
                 "stars": 101
@@ -1475,8 +1545,8 @@
             },
             {
               "node_type": "item",
-              "title": "Ducksss/codex-profiles: Source for the skill - Codex CLI/Desktop profile isolation around separate directories, diagnostics, and account-context boundaries without copying auth tokens (MIT).",
-              "description": null,
+              "title": "Ducksss/codex-profiles",
+              "description": "Source for the skill - Codex CLI/Desktop profile isolation around separate directories, diagnostics, and account-context boundaries without copying auth tokens (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1490,8 +1560,8 @@
             },
             {
               "node_type": "item",
-              "title": "njerschow/textme: Source for the skill — local daemon bridging inbound iMessages (via Sendblue) to a Claude Code session on the user's machine, with voice notes, image input, code execution, and a phone-number whitelist (MIT).",
-              "description": null,
+              "title": "njerschow/textme",
+              "description": "Source for the skill — local daemon bridging inbound iMessages (via Sendblue) to a Claude Code session on the user's machine, with voice notes, image input, code execution, and a phone-number whitelist (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1505,8 +1575,8 @@
             },
             {
               "node_type": "item",
-              "title": "monte-carlo-data/mc-agent-toolkit: Monte Carlo data observability skills — table health checks, change impact assessment, monitor creation, push ingestion, and SQL validation notebooks for dbt changes.",
-              "description": null,
+              "title": "monte-carlo-data/mc-agent-toolkit",
+              "description": "Monte Carlo data observability skills — table health checks, change impact assessment, monitor creation, push ingestion, and SQL validation notebooks for dbt changes.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1520,8 +1590,8 @@
             },
             {
               "node_type": "item",
-              "title": "jonathimer/devmarketing-skills: Developer marketing skills — HN strategy, technical tutorials, docs-as-marketing, Reddit engagement, developer onboarding, and more (33 skills, MIT).",
-              "description": null,
+              "title": "jonathimer/devmarketing-skills",
+              "description": "Developer marketing skills — HN strategy, technical tutorials, docs-as-marketing, Reddit engagement, developer onboarding, and more (33 skills, MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1535,14 +1605,14 @@
             },
             {
               "node_type": "item",
-              "title": "ndesv21/socialclaw: Source for the SocialClaw social media publishing skill - campaign scheduling and publishing across major social platforms with a single workspace API key.",
-              "description": null,
+              "title": "ndesv21/socialclaw",
+              "description": "Source for the SocialClaw social media publishing skill - campaign scheduling and publishing across major social platforms with a single workspace API key.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1187150647,
                 "language": "JavaScript",
-                "last_commit": "2026-08-08T17:35:44Z",
+                "last_commit": "2026-08-24T10:56:01Z",
                 "owner": "ndesv21",
                 "repo": "socialclaw",
                 "stars": 82
@@ -1550,8 +1620,8 @@
             },
             {
               "node_type": "item",
-              "title": "Hanyuyuan6/remote-gpu-trainer: Source for the skill - rented and remote GPU job orchestration, monitoring, teardown safety, spot resilience, and DL-debug workflows (MIT).",
-              "description": null,
+              "title": "Hanyuyuan6/remote-gpu-trainer",
+              "description": "Source for the skill - rented and remote GPU job orchestration, monitoring, teardown safety, spot resilience, and DL-debug workflows (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1565,8 +1635,8 @@
             },
             {
               "node_type": "item",
-              "title": "talivia-group/agent: Source for the skill - revenue-first website analytics through the official MCP server, with explicit confirmation for tracking and payment attribution changes (MIT).",
-              "description": null,
+              "title": "talivia-group/agent",
+              "description": "Source for the skill - revenue-first website analytics through the official MCP server, with explicit confirmation for tracking and payment attribution changes (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1575,13 +1645,13 @@
                 "last_commit": "2026-08-02T14:20:25Z",
                 "owner": "talivia-group",
                 "repo": "agent",
-                "stars": 58
+                "stars": 59
               }
             },
             {
               "node_type": "item",
-              "title": "MetcalfSolutions/Satori: Clinically informed wisdom companion blending psychology frameworks and wisdom traditions into a structured reflective partner.",
-              "description": null,
+              "title": "MetcalfSolutions/Satori",
+              "description": "Clinically informed wisdom companion blending psychology frameworks and wisdom traditions into a structured reflective partner.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1595,8 +1665,8 @@
             },
             {
               "node_type": "item",
-              "title": "shmlkv/dna-claude-analysis: Personal genome analysis toolkit — Python scripts analyzing raw DNA data across 17 categories (health risks, ancestry, pharmacogenomics, nutrition, psychology, etc.) with terminal-style single-page HTML visualization.",
-              "description": null,
+              "title": "shmlkv/dna-claude-analysis",
+              "description": "Personal genome analysis toolkit — Python scripts analyzing raw DNA data across 17 categories (health risks, ancestry, pharmacogenomics, nutrition, psychology, etc.) with terminal-style single-page HTML visualization.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1610,8 +1680,8 @@
             },
             {
               "node_type": "item",
-              "title": "SHADOWPR0/beautiful_prose: Writing-quality skill for improving prose and reducing generic output.",
-              "description": null,
+              "title": "SHADOWPR0/beautiful_prose",
+              "description": "Writing-quality skill for improving prose and reducing generic output.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1625,8 +1695,8 @@
             },
             {
               "node_type": "item",
-              "title": "robzolkos/skill-rails-upgrade: Rails upgrade skill for agent-assisted migrations.",
-              "description": null,
+              "title": "robzolkos/skill-rails-upgrade",
+              "description": "Rails upgrade skill for agent-assisted migrations.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1640,8 +1710,8 @@
             },
             {
               "node_type": "item",
-              "title": "sandbaseai/sandbase-skills: Source for the skill - cross-validated research with explicit source diversity, confidence, conflicts, gaps, and an offline-checkable evidence ledger (Apache-2.0).",
-              "description": null,
+              "title": "sandbaseai/sandbase-skills",
+              "description": "Source for the skill - cross-validated research with explicit source diversity, confidence, conflicts, gaps, and an offline-checkable evidence ledger (Apache-2.0).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1650,13 +1720,13 @@
                 "last_commit": "2026-08-23T07:32:38Z",
                 "owner": "sandbaseai",
                 "repo": "sandbase-skills",
-                "stars": 49
+                "stars": 50
               }
             },
             {
               "node_type": "item",
-              "title": "rafsilva85/credit-optimizer-v5: Manus AI credit optimizer skill — intelligent model routing, context compression, and smart testing. Saves 30-75% on credits with zero quality loss. Audited across 53 scenarios.",
-              "description": null,
+              "title": "rafsilva85/credit-optimizer-v5",
+              "description": "Manus AI credit optimizer skill — intelligent model routing, context compression, and smart testing. Saves 30-75% on credits with zero quality loss. Audited across 53 scenarios.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1670,8 +1740,8 @@
             },
             {
               "node_type": "item",
-              "title": "Silverov/yandex-direct-skill: Yandex Direct (API v5) advertising audit skill — 55 automated checks, A-F scoring, campaign/ad/keyword analysis for the Russian PPC market (MIT).",
-              "description": null,
+              "title": "Silverov/yandex-direct-skill",
+              "description": "Yandex Direct (API v5) advertising audit skill — 55 automated checks, A-F scoring, campaign/ad/keyword analysis for the Russian PPC market (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1685,8 +1755,8 @@
             },
             {
               "node_type": "item",
-              "title": "xiehuan123/dsh-deepread: Source for the skill - evidence-first analysis of articles, books, PDFs, and document sets with claim tracing, knowledge maps, and Feynman checks (MIT).",
-              "description": null,
+              "title": "xiehuan123/dsh-deepread",
+              "description": "Source for the skill - evidence-first analysis of articles, books, PDFs, and document sets with claim tracing, knowledge maps, and Feynman checks (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1695,13 +1765,13 @@
                 "last_commit": "2026-08-22T08:07:53Z",
                 "owner": "xiehuan123",
                 "repo": "dsh-deepread",
-                "stars": 37
+                "stars": 38
               }
             },
             {
               "node_type": "item",
-              "title": "sudosubin/gh-attach: Source for the skill - GitHub CLI uploads and downloads of (screenshots, PDFs, zips, videos), producing repo-scoped URLs for PRs, issues, and READMEs, with GitHub Enterprise Server support (MIT).",
-              "description": null,
+              "title": "sudosubin/gh-attach",
+              "description": "Source for the skill - GitHub CLI uploads and downloads of (screenshots, PDFs, zips, videos), producing repo-scoped URLs for PRs, issues, and READMEs, with GitHub Enterprise Server support (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1715,14 +1785,14 @@
             },
             {
               "node_type": "item",
-              "title": "adelaidasofia/ai-brain-starter: Source for the skill - YouTube transcript ingestion into markdown vaults with yt-dlp metadata, VTT cleanup, and capture-seed stubs (MIT).",
-              "description": null,
+              "title": "adelaidasofia/ai-brain-starter",
+              "description": "Source for the skill - YouTube transcript ingestion into markdown vaults with yt-dlp metadata, VTT cleanup, and capture-seed stubs (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1205564021,
                 "language": "Python",
-                "last_commit": "2026-08-24T02:54:17Z",
+                "last_commit": "2026-08-24T04:47:25Z",
                 "owner": "mycelium-hq",
                 "repo": "ai-brain-starter",
                 "stars": 35
@@ -1730,8 +1800,8 @@
             },
             {
               "node_type": "item",
-              "title": "umutbozdag/agent-skills-manager: Source for the skill - cross-tool skill discovery, creation, editing, toggling, copying, moving, and deletion workflows across major agent coding tools.",
-              "description": null,
+              "title": "umutbozdag/agent-skills-manager",
+              "description": "Source for the skill - cross-tool skill discovery, creation, editing, toggling, copying, moving, and deletion workflows across major agent coding tools.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1740,13 +1810,13 @@
                 "last_commit": "2026-04-09T09:07:14Z",
                 "owner": "umutbozdag",
                 "repo": "agent-skills-manager",
-                "stars": 32
+                "stars": 33
               }
             },
             {
               "node_type": "item",
-              "title": "webzler/agentMemory: Source for the agent-memory-mcp skill.",
-              "description": null,
+              "title": "webzler/agentMemory",
+              "description": "Source for the agent-memory-mcp skill.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1760,8 +1830,8 @@
             },
             {
               "node_type": "item",
-              "title": "frmoretto/clarity-gate: Verification protocol for marking uncertainty and reducing hallucinated certainty in LLM-facing docs.",
-              "description": null,
+              "title": "frmoretto/clarity-gate",
+              "description": "Verification protocol for marking uncertainty and reducing hallucinated certainty in LLM-facing docs.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1775,8 +1845,23 @@
             },
             {
               "node_type": "item",
-              "title": "sstklen/infinite-gratitude: Multi-agent research skill from the AI Dojo series (MIT).",
-              "description": null,
+              "title": "Suraj1235/open-dynamic-workflows",
+              "description": "Source for the skill - open-source dynamic multi-agent workflow engine that plans, orchestrates, and adversarially verifies parallel AI coding agents across OpenCode, Codex, Antigravity, and VS Code (MIT).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1260320502,
+                "language": "JavaScript",
+                "last_commit": "2026-07-09T16:35:47Z",
+                "owner": "Suraj1235",
+                "repo": "open-dynamic-workflows",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sstklen/infinite-gratitude",
+              "description": "Multi-agent research skill from the AI Dojo series (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1790,8 +1875,8 @@
             },
             {
               "node_type": "item",
-              "title": "wrsmith108/varlock-claude-skill: Secure environment-variable management skill for Claude Code (MIT).",
-              "description": null,
+              "title": "wrsmith108/varlock-claude-skill",
+              "description": "Secure environment-variable management skill for Claude Code (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1805,23 +1890,8 @@
             },
             {
               "node_type": "item",
-              "title": "Suraj1235/open-dynamic-workflows: Source for the skill - open-source dynamic multi-agent workflow engine that plans, orchestrates, and adversarially verifies parallel AI coding agents across OpenCode, Codex, Antigravity, and VS Code (MIT).",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1260320502,
-                "language": "JavaScript",
-                "last_commit": "2026-07-09T16:35:47Z",
-                "owner": "Suraj1235",
-                "repo": "open-dynamic-workflows",
-                "stars": 30
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "NotMyself/claude-win11-speckit-update-skill: Archived Speckit update skill for Claude Code (MIT).",
-              "description": null,
+              "title": "NotMyself/claude-win11-speckit-update-skill",
+              "description": "Archived Speckit update skill for Claude Code (MIT).",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1835,8 +1905,8 @@
             },
             {
               "node_type": "item",
-              "title": "yikuansun/PhotopeaAPI: Source for the skill - Photopea embedding, host-page messaging, file I/O, scripting, and export workflows for web apps (MIT).",
-              "description": null,
+              "title": "yikuansun/PhotopeaAPI",
+              "description": "Source for the skill - Photopea embedding, host-page messaging, file I/O, scripting, and export workflows for web apps (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1850,8 +1920,8 @@
             },
             {
               "node_type": "item",
-              "title": "sendblue-api/sendblue-cli: Source for the , , and skills — iMessage, SMS, and RCS messaging via Sendblue's CLI and HTTP API, plus \"text me when X finishes\" notification patterns for Claude Code hooks and / jobs (MIT).",
-              "description": null,
+              "title": "sendblue-api/sendblue-cli",
+              "description": "Source for the , , and skills — iMessage, SMS, and RCS messaging via Sendblue's CLI and HTTP API, plus \"text me when X finishes\" notification patterns for Claude Code hooks and / jobs (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1865,8 +1935,8 @@
             },
             {
               "node_type": "item",
-              "title": "zircote/.claude: Archived Claude Code dotfiles/config repo with a Shopify development skill reference.",
-              "description": null,
+              "title": "zircote/.claude",
+              "description": "Archived Claude Code dotfiles/config repo with a Shopify development skill reference.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1880,8 +1950,8 @@
             },
             {
               "node_type": "item",
-              "title": "TheaDust/lore: Source for the skill - Markdown-only, zero-dependency long-term project memory for AI coding agents, with monorepo scopes, two-section platform mirrors, and stdlib Python helpers (MIT).",
-              "description": null,
+              "title": "TheaDust/lore",
+              "description": "Source for the skill - Markdown-only, zero-dependency long-term project memory for AI coding agents, with monorepo scopes, two-section platform mirrors, and stdlib Python helpers (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1895,8 +1965,8 @@
             },
             {
               "node_type": "item",
-              "title": "hyhmrright/logic-lens: AI code-review skill for formal logic inspection across bugs, race conditions, security risks, and API contract issues.",
-              "description": null,
+              "title": "hyhmrright/logic-lens",
+              "description": "AI code-review skill for formal logic inspection across bugs, race conditions, security risks, and API contract issues.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1910,8 +1980,8 @@
             },
             {
               "node_type": "item",
-              "title": "wede-wx/atlas: Source for the and goal-integrity skills - contract, phase-check, final-audit, and project-ledger guardrails for long-running agent work (MIT).",
-              "description": null,
+              "title": "wede-wx/atlas",
+              "description": "Source for the and goal-integrity skills - contract, phase-check, final-audit, and project-ledger guardrails for long-running agent work (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1925,8 +1995,8 @@
             },
             {
               "node_type": "item",
-              "title": "uberSKILLS: Design, test, and deploy Claude Code Agent Skills through a visual, AI-assisted workflow.",
-              "description": null,
+              "title": "uberSKILLS",
+              "description": "Design, test, and deploy Claude Code Agent Skills through a visual, AI-assisted workflow.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1940,8 +2010,8 @@
             },
             {
               "node_type": "item",
-              "title": "anthony-chaudhary/dos-kernel: Source for the skill — gates an agent's \"done / shipped / fixed\" claim on git ground truth (ancestry + the commit's own diff) via the deterministic DOS kernel's read-only / verbs (MIT).",
-              "description": null,
+              "title": "anthony-chaudhary/dos-kernel",
+              "description": "Source for the skill — gates an agent's \"done / shipped / fixed\" claim on git ground truth (ancestry + the commit's own diff) via the deterministic DOS kernel's read-only / verbs (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1955,8 +2025,8 @@
             },
             {
               "node_type": "item",
-              "title": "mbenhard/unship: Source for the skill - local workflow for comparing AI-generated UI variants in a real app, then keeping one option and cleaning up temporary alternatives (MIT).",
-              "description": null,
+              "title": "mbenhard/unship",
+              "description": "Source for the skill - local workflow for comparing AI-generated UI variants in a real app, then keeping one option and cleaning up temporary alternatives (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1970,8 +2040,8 @@
             },
             {
               "node_type": "item",
-              "title": "xi-kari/crossframe-skill: Source for the CrossFrame Skill Suite - Chinese-canonical structural diagnosis, essay drafting, review, and companion workflows across relationships, organizations, institutions, public issues, and research notes (MIT).",
-              "description": null,
+              "title": "xi-kari/crossframe-skill",
+              "description": "Source for the CrossFrame Skill Suite - Chinese-canonical structural diagnosis, essay drafting, review, and companion workflows across relationships, organizations, institutions, public issues, and research notes (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1985,8 +2055,8 @@
             },
             {
               "node_type": "item",
-              "title": "iradoweck/antigravity-awesome-skills: Source for the GeminiIgnore FinOps skill - setup patterns for context-window efficiency and token cost reduction.",
-              "description": null,
+              "title": "iradoweck/antigravity-awesome-skills",
+              "description": "Source for the GeminiIgnore FinOps skill - setup patterns for context-window efficiency and token cost reduction.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2000,8 +2070,8 @@
             },
             {
               "node_type": "item",
-              "title": "ejentum/ejentum-mcp: Source for the skill - MCP cognitive harness modes for reasoning, code review, anti-deception checks, and memory-drift analysis (MIT).",
-              "description": null,
+              "title": "ejentum/ejentum-mcp",
+              "description": "Source for the skill - MCP cognitive harness modes for reasoning, code review, anti-deception checks, and memory-drift analysis (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2015,8 +2085,8 @@
             },
             {
               "node_type": "item",
-              "title": "SeanZoR/claude-speed-reader: RSVP-style speed-reading helper for Claude responses (MIT).",
-              "description": null,
+              "title": "SeanZoR/claude-speed-reader",
+              "description": "RSVP-style speed-reading helper for Claude responses (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2030,8 +2100,8 @@
             },
             {
               "node_type": "item",
-              "title": "amartelr/antigravity-workspace-manager: Workspace Manager CLI companion to dynamically auto-provision subsets of skills across local development environments.",
-              "description": null,
+              "title": "amartelr/antigravity-workspace-manager",
+              "description": "Workspace Manager CLI companion to dynamically auto-provision subsets of skills across local development environments.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2045,8 +2115,8 @@
             },
             {
               "node_type": "item",
-              "title": "Intelligent-Internet/II-Commons-Skills: Source for the II-Commons research skill - deterministic retrieval across arXiv, PubMed/PMC, and supported US policy corpora.",
-              "description": null,
+              "title": "Intelligent-Internet/II-Commons-Skills",
+              "description": "Source for the II-Commons research skill - deterministic retrieval across arXiv, PubMed/PMC, and supported US policy corpora.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2060,14 +2130,14 @@
             },
             {
               "node_type": "item",
-              "title": "TerminallyLazy/Tree-Ring-Memory: Source for the skill — local-first memory lifecycle guidance for recall, evidence, audit, forgetting, consolidation, and privacy-safe agent memory operations (Apache-2.0).",
-              "description": null,
+              "title": "TerminallyLazy/Tree-Ring-Memory",
+              "description": "Source for the skill — local-first memory lifecycle guidance for recall, evidence, audit, forgetting, consolidation, and privacy-safe agent memory operations (Apache-2.0).",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1289444149,
                 "language": "Rust",
-                "last_commit": "2026-08-14T08:35:00Z",
+                "last_commit": "2026-08-24T06:07:02Z",
                 "owner": "TerminallyLazy",
                 "repo": "Tree-Ring-Memory",
                 "stars": 13
@@ -2075,8 +2145,8 @@
             },
             {
               "node_type": "item",
-              "title": "uxuiprinciples/agent-skills: Research-backed UX/UI agent skills for auditing interfaces against 168 principles, detecting antipatterns, and injecting UX context into AI coding sessions.",
-              "description": null,
+              "title": "uxuiprinciples/agent-skills",
+              "description": "Research-backed UX/UI agent skills for auditing interfaces against 168 principles, detecting antipatterns, and injecting UX context into AI coding sessions.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2090,8 +2160,8 @@
             },
             {
               "node_type": "item",
-              "title": "abhinaykrupa/cowork-to-code-bridge: Source for the skill - consent-bound execution on the user's own machine with pinned provenance, narrow scopes, and explicit local-agent limitations (MIT).",
-              "description": null,
+              "title": "abhinaykrupa/cowork-to-code-bridge",
+              "description": "Source for the skill - consent-bound execution on the user's own machine with pinned provenance, narrow scopes, and explicit local-agent limitations (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2105,8 +2175,8 @@
             },
             {
               "node_type": "item",
-              "title": "nedcodes-ok/rule-porter: Bidirectional rule converter between Cursor (.mdc), Claude Code (CLAUDE.md), GitHub Copilot, Windsurf, and legacy .cursorrules formats. Zero dependencies.",
-              "description": null,
+              "title": "nedcodes-ok/rule-porter",
+              "description": "Bidirectional rule converter between Cursor (.mdc), Claude Code (CLAUDE.md), GitHub Copilot, Windsurf, and legacy .cursorrules formats. Zero dependencies.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2120,8 +2190,8 @@
             },
             {
               "node_type": "item",
-              "title": "jackjin1997/ClawForge: Resource hub of skills, MCP servers, and agent tooling for OpenClaw.",
-              "description": null,
+              "title": "jackjin1997/ClawForge",
+              "description": "Resource hub of skills, MCP servers, and agent tooling for OpenClaw.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2135,8 +2205,8 @@
             },
             {
               "node_type": "item",
-              "title": "whatiskadudoing/fp-ts-skills: Practical fp-ts skills for TypeScript – fp-ts-pragmatic, fp-ts-react, fp-ts-errors (v4.4.0).",
-              "description": null,
+              "title": "whatiskadudoing/fp-ts-skills",
+              "description": "Practical fp-ts skills for TypeScript – fp-ts-pragmatic, fp-ts-react, fp-ts-errors (v4.4.0).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2150,8 +2220,8 @@
             },
             {
               "node_type": "item",
-              "title": "fullstackcrew-alpha/privacy-mask: Local image privacy masking for AI coding agents. Detects and redacts PII, API keys, and secrets in screenshots via OCR + 47 regex rules. Claude Code hook integration for automatic masking. Supports Tesseract and RapidOCR. 100% offline (MIT).",
-              "description": null,
+              "title": "fullstackcrew-alpha/privacy-mask",
+              "description": "Local image privacy masking for AI coding agents. Detects and redacts PII, API keys, and secrets in screenshots via OCR + 47 regex rules. Claude Code hook integration for automatic masking. Supports Tesseract and RapidOCR. 100% offline (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2165,8 +2235,8 @@
             },
             {
               "node_type": "item",
-              "title": "stareezy-1/frontend-architecture-skill: Source for the skill - portable Lighthouse CI Core Web Vitals gates, performance budgets, and GitHub Actions reporting (MIT).",
-              "description": null,
+              "title": "stareezy-1/frontend-architecture-skill",
+              "description": "Source for the skill - portable Lighthouse CI Core Web Vitals gates, performance budgets, and GitHub Actions reporting (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2180,8 +2250,8 @@
             },
             {
               "node_type": "item",
-              "title": "timwukp/agent-skills-best-practice: Source for the skill - financial-services compliance triage for PCI-DSS v4.0 and MAS TRM control mapping (MIT).",
-              "description": null,
+              "title": "timwukp/agent-skills-best-practice",
+              "description": "Source for the skill - financial-services compliance triage for PCI-DSS v4.0 and MAS TRM control mapping (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2195,8 +2265,8 @@
             },
             {
               "node_type": "item",
-              "title": "connerkward/mcp-apple-notes: Source for the skill - semantic and keyword search, related-note discovery, bridge finding, entity threads, and cited synthesis across local Apple Notes via MCP (MIT).",
-              "description": null,
+              "title": "connerkward/mcp-apple-notes",
+              "description": "Source for the skill - semantic and keyword search, related-note discovery, bridge finding, entity threads, and cited synthesis across local Apple Notes via MCP (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2210,8 +2280,8 @@
             },
             {
               "node_type": "item",
-              "title": "connerkward/screenstudio-alternative-skill: Source for the skill - open-source screen recording polish with auto-zoom, idle speed-up, cursor treatment, captions, and vertical export workflows (MIT).",
-              "description": null,
+              "title": "connerkward/screenstudio-alternative-skill",
+              "description": "Source for the skill - open-source screen recording polish with auto-zoom, idle speed-up, cursor treatment, captions, and vertical export workflows (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2225,8 +2295,8 @@
             },
             {
               "node_type": "item",
-              "title": "heyneuron/flowhunt-skill: Source for the FlowHunt automation discovery audit skill - workflow intake, tool-by-tool audit, and opportunity prioritization for productivity automation.",
-              "description": null,
+              "title": "heyneuron/flowhunt-skill",
+              "description": "Source for the FlowHunt automation discovery audit skill - workflow intake, tool-by-tool audit, and opportunity prioritization for productivity automation.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2240,8 +2310,8 @@
             },
             {
               "node_type": "item",
-              "title": "AgentPhone-AI/skills: AgentPhone plugin for Claude Code — API-first telephony workflows for AI agents, including phone calls, SMS, phone-number management, voice-agent setup, streaming webhooks, and tool-calling patterns.",
-              "description": null,
+              "title": "AgentPhone-AI/skills",
+              "description": "AgentPhone plugin for Claude Code — API-first telephony workflows for AI agents, including phone calls, SMS, phone-number management, voice-agent setup, streaming webhooks, and tool-calling patterns.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2255,8 +2325,8 @@
             },
             {
               "node_type": "item",
-              "title": "cruisekkk/time-ledger: Source for the skill - natural-language time tracking parsed into the user's own Notion database with ask-instead-of-guessing reconciliation (MIT).",
-              "description": null,
+              "title": "cruisekkk/time-ledger",
+              "description": "Source for the skill - natural-language time tracking parsed into the user's own Notion database with ask-instead-of-guessing reconciliation (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2270,8 +2340,8 @@
             },
             {
               "node_type": "item",
-              "title": "aomi-labs/skills: Source for the skill — natural-language driver for the Aomi CLI with account-abstraction-first execution and simulate-then-sign across 25+ DeFi apps (MIT).",
-              "description": null,
+              "title": "aomi-labs/skills",
+              "description": "Source for the skill — natural-language driver for the Aomi CLI with account-abstraction-first execution and simulate-then-sign across 25+ DeFi apps (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2285,8 +2355,8 @@
             },
             {
               "node_type": "item",
-              "title": "rich-elicitation: Source for the skill - asks clarifying questions in multiple rounds before starting ambiguous tasks.",
-              "description": null,
+              "title": "rich-elicitation",
+              "description": "Source for the skill - asks clarifying questions in multiple rounds before starting ambiguous tasks.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2300,8 +2370,8 @@
             },
             {
               "node_type": "item",
-              "title": "SHADOWPR0/security-bluebook-builder: Security documentation/buildbook skill for agent workflows.",
-              "description": null,
+              "title": "SHADOWPR0/security-bluebook-builder",
+              "description": "Security documentation/buildbook skill for agent workflows.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2315,8 +2385,8 @@
             },
             {
               "node_type": "item",
-              "title": "maxbaluev/accreted-intelligence: Source for the skill — routes coding-agent work through AccInt's MCP memory loop with retrieval, continuation frames, commitments, and outcome feedback (Apache 2.0).",
-              "description": null,
+              "title": "maxbaluev/accreted-intelligence",
+              "description": "Source for the skill — routes coding-agent work through AccInt's MCP memory loop with retrieval, continuation frames, commitments, and outcome feedback (Apache 2.0).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2330,8 +2400,8 @@
             },
             {
               "node_type": "item",
-              "title": "sparklingneuronics/sparkling-skills: Source for the skill - multi-CLI delegation from Claude Code to Codex, Antigravity, and Gemini agents (MIT).",
-              "description": null,
+              "title": "sparklingneuronics/sparkling-skills",
+              "description": "Source for the skill - multi-CLI delegation from Claude Code to Codex, Antigravity, and Gemini agents (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2345,8 +2415,23 @@
             },
             {
               "node_type": "item",
-              "title": "atdy/maoxuan-product-agent: Source for the skill - Chinese-first product judgment across prioritization, growth, operations, data, delivery, and cross-functional collaboration, with 36 tested scenarios (MIT).",
-              "description": null,
+              "title": "riffkit/skill",
+              "description": "Official upstream source for the skill - short-form video riffing and UGC ad generation in nine natively generated languages (MIT).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1285376005,
+                "language": null,
+                "last_commit": "2026-08-16T07:01:16Z",
+                "owner": "riffkit",
+                "repo": "skill",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "atdy/maoxuan-product-agent",
+              "description": "Source for the skill - Chinese-first product judgment across prioritization, growth, operations, data, delivery, and cross-functional collaboration, with 36 tested scenarios (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2360,8 +2445,8 @@
             },
             {
               "node_type": "item",
-              "title": "cruisekkk/trading-ledger: Source for the skill - decision-quality trade journaling that captures entry thesis, plan, and emotion into the user's own Notion database (MIT).",
-              "description": null,
+              "title": "cruisekkk/trading-ledger",
+              "description": "Source for the skill - decision-quality trade journaling that captures entry thesis, plan, and emotion into the user's own Notion database (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2375,8 +2460,8 @@
             },
             {
               "node_type": "item",
-              "title": "bin1874/before-you-build-skill: Source for the skill - pre-coding product risk review across demand, alternatives, switching costs, channels, and validation steps (MIT).",
-              "description": null,
+              "title": "bin1874/before-you-build-skill",
+              "description": "Source for the skill - pre-coding product risk review across demand, alternatives, switching costs, channels, and validation steps (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2390,8 +2475,8 @@
             },
             {
               "node_type": "item",
-              "title": "qinghui316/ecl-harness-engineer: Source for the skill - ECL Agent Harness infrastructure for AI coding workflows, repository guidance, change tracking, lint checks, CI gates, and handoff docs (MIT).",
-              "description": null,
+              "title": "qinghui316/ecl-harness-engineer",
+              "description": "Source for the skill - ECL Agent Harness infrastructure for AI coding workflows, repository guidance, change tracking, lint checks, CI gates, and handoff docs (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2405,8 +2490,8 @@
             },
             {
               "node_type": "item",
-              "title": "ZeroPointRepo/zillow-skills: Source for the skill - U.S. property lookup, valuation, listing, tax, school, photo, and price-history guidance through the independent Zillapi API (MIT-0).",
-              "description": null,
+              "title": "ZeroPointRepo/zillow-skills",
+              "description": "Source for the skill - U.S. property lookup, valuation, listing, tax, school, photo, and price-history guidance through the independent Zillapi API (MIT-0).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2420,8 +2505,8 @@
             },
             {
               "node_type": "item",
-              "title": "commitshow/production-audit: Source for the skill - shipped-app readiness auditing across deployment health, RLS, webhooks, secrets exposure, grants, Stripe idempotency, and mobile UX.",
-              "description": null,
+              "title": "commitshow/production-audit",
+              "description": "Source for the skill - shipped-app readiness auditing across deployment health, RLS, webhooks, secrets exposure, grants, Stripe idempotency, and mobile UX.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2435,8 +2520,8 @@
             },
             {
               "node_type": "item",
-              "title": "sarveshtalele/linkedin-content-skill: Source for the skill - LinkedIn post, carousel, newsletter, and content-calendar generation workflows with local feedback memory (MIT).",
-              "description": null,
+              "title": "sarveshtalele/linkedin-content-skill",
+              "description": "Source for the skill - LinkedIn post, carousel, newsletter, and content-calendar generation workflows with local feedback memory (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2450,8 +2535,8 @@
             },
             {
               "node_type": "item",
-              "title": "SSOJet/skills: Production-ready SSOJet skills and integration guides for popular frameworks and platforms — Node.js, Next.js, React, Java, .NET Core, Go, iOS, Android, and more. Works seamlessly with SSOJet SAML, OIDC, and enterprise SSO flows. Works with Cursor, Antigravity, Claude Code, and Windsurf.",
-              "description": null,
+              "title": "SSOJet/skills",
+              "description": "Production-ready SSOJet skills and integration guides for popular frameworks and platforms — Node.js, Next.js, React, Java, .NET Core, Go, iOS, Android, and more. Works seamlessly with SSOJet SAML, OIDC, and enterprise SSO flows. Works with Cursor, Antigravity, Claude Code, and Windsurf.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2465,8 +2550,8 @@
             },
             {
               "node_type": "item",
-              "title": "yehudalevy-collab/polis-protocol: Source for the multi-agent coordination skill with capability cards, routing history, and protocol amendments (MIT).",
-              "description": null,
+              "title": "yehudalevy-collab/polis-protocol",
+              "description": "Source for the multi-agent coordination skill with capability cards, routing history, and protocol amendments (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2480,8 +2565,8 @@
             },
             {
               "node_type": "item",
-              "title": "flyingsquirrel0419/squirrel-skill: Full-cycle software development skill — plans, builds, tests, lints, fixes bugs, and writes production-grade docs. Auto-detects project state and adapts its 8-phase pipeline. Works on 9 AI coding agent platforms (Apache 2.0).",
-              "description": null,
+              "title": "flyingsquirrel0419/squirrel-skill",
+              "description": "Full-cycle software development skill — plans, builds, tests, lints, fixes bugs, and writes production-grade docs. Auto-detects project state and adapts its 8-phase pipeline. Works on 9 AI coding agent platforms (Apache 2.0).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2495,23 +2580,8 @@
             },
             {
               "node_type": "item",
-              "title": "riffkit/skill: Official upstream source for the skill - short-form video riffing and UGC ad generation in nine natively generated languages (MIT).",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1285376005,
-                "language": null,
-                "last_commit": "2026-08-16T07:01:16Z",
-                "owner": "riffkit",
-                "repo": "skill",
-                "stars": 4
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "connerkward/ckw-design-skill: Source for the skill - frontend design direction, design-system guidance, visual philosophy, spatial checks, usability review, and production UI polish workflows (MIT).",
-              "description": null,
+              "title": "connerkward/ckw-design-skill",
+              "description": "Source for the skill - frontend design direction, design-system guidance, visual philosophy, spatial checks, usability review, and production UI polish workflows (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2525,8 +2595,8 @@
             },
             {
               "node_type": "item",
-              "title": "JularDepick/user-thoughts.SKILL: Source for the skill - persistent project idea repository workflows for capturing decisions, tech stack notes, UI/UX rationale, and MDBASE-backed project memory (MIT).",
-              "description": null,
+              "title": "JularDepick/user-thoughts.SKILL",
+              "description": "Source for the skill - persistent project idea repository workflows for capturing decisions, tech stack notes, UI/UX rationale, and MDBASE-backed project memory (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2540,8 +2610,8 @@
             },
             {
               "node_type": "item",
-              "title": "vipin-si/article-illustrations: Source for the skill - Grav-style hand-drawn article illustrations with whiteboard sketches, sparse annotations, and visual metaphor QA guidance (MIT).",
-              "description": null,
+              "title": "vipin-si/article-illustrations",
+              "description": "Source for the skill - Grav-style hand-drawn article illustrations with whiteboard sketches, sparse annotations, and visual metaphor QA guidance (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2555,8 +2625,8 @@
             },
             {
               "node_type": "item",
-              "title": "lewiswigmore/agent-skills: Source for the skill - VS Code extension development workflows, packaging, Marketplace publishing, TreeView, and webview patterns.",
-              "description": null,
+              "title": "lewiswigmore/agent-skills",
+              "description": "Source for the skill - VS Code extension development workflows, packaging, Marketplace publishing, TreeView, and webview patterns.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2570,8 +2640,8 @@
             },
             {
               "node_type": "item",
-              "title": "warmskull/idea-darwin: Darwinian idea-evolution workflow for structured ideation rounds, mutation, crossbreeding, critique, and lineage tracking.",
-              "description": null,
+              "title": "warmskull/idea-darwin",
+              "description": "Darwinian idea-evolution workflow for structured ideation rounds, mutation, crossbreeding, critique, and lineage tracking.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2585,8 +2655,8 @@
             },
             {
               "node_type": "item",
-              "title": "Wolfe-Jam/faf-skills: AI-context and project DNA skills — .faf format management, AI-readiness scoring, bi-sync, MCP server building, and championship-grade testing (7 skills, MIT).",
-              "description": null,
+              "title": "Wolfe-Jam/faf-skills",
+              "description": "AI-context and project DNA skills — .faf format management, AI-readiness scoring, bi-sync, MCP server building, and championship-grade testing (7 skills, MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2600,8 +2670,8 @@
             },
             {
               "node_type": "item",
-              "title": "AntonioCardenas/generate-nanobanana: Source for the skill - image and video generation via Google's Gemini media models (Nano Banana 2 Lite/Standard/Pro, Gemini Omni Flash) with cost-approval gates before paid runs, real reference-image support, and a prompt/seed log beside every output (MIT).",
-              "description": null,
+              "title": "AntonioCardenas/generate-nanobanana",
+              "description": "Source for the skill - image and video generation via Google's Gemini media models (Nano Banana 2 Lite/Standard/Pro, Gemini Omni Flash) with cost-approval gates before paid runs, real reference-image support, and a prompt/seed log beside every output (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2615,14 +2685,14 @@
             },
             {
               "node_type": "item",
-              "title": "Phelan164/codex-howto: Source for the skill - review-first engineering knowledge with provenance, explicit capture and promotion, and deterministic structural checks (MIT).",
-              "description": null,
+              "title": "Phelan164/codex-howto",
+              "description": "Source for the skill - review-first engineering knowledge with provenance, explicit capture and promotion, and deterministic structural checks (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1310771497,
                 "language": "Python",
-                "last_commit": "2026-08-21T21:34:52Z",
+                "last_commit": "2026-08-24T07:13:59Z",
                 "owner": "Phelan164",
                 "repo": "codex-howto",
                 "stars": 3
@@ -2630,8 +2700,8 @@
             },
             {
               "node_type": "item",
-              "title": "demo112/yunqu-ai-skills: Source for WeChat official account, Xiaohongshu content strategy, and MCP tool development skills for Chinese-language platform workflows (MIT).",
-              "description": null,
+              "title": "demo112/yunqu-ai-skills",
+              "description": "Source for WeChat official account, Xiaohongshu content strategy, and MCP tool development skills for Chinese-language platform workflows (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2645,8 +2715,8 @@
             },
             {
               "node_type": "item",
-              "title": "2slides/slides-generation-2slides-skills: Source for the skill - AI presentation generation, PDF deck creation, narration, theme search, and slide export workflows using the 2slides API (MIT).",
-              "description": null,
+              "title": "2slides/slides-generation-2slides-skills",
+              "description": "Source for the skill - AI presentation generation, PDF deck creation, narration, theme search, and slide export workflows using the 2slides API (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2660,8 +2730,8 @@
             },
             {
               "node_type": "item",
-              "title": "Slashworks-biz/idea-os: Source for the skill - five-phase pipeline (triage -> clarify -> research -> PRD -> plan) that turns raw ideas into a build-ready PRD and execution plan.",
-              "description": null,
+              "title": "Slashworks-biz/idea-os",
+              "description": "Source for the skill - five-phase pipeline (triage -> clarify -> research -> PRD -> plan) that turns raw ideas into a build-ready PRD and execution plan.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2675,8 +2745,8 @@
             },
             {
               "node_type": "item",
-              "title": "Wittlesus/cursorrules-pro: Professional .cursorrules configurations for 8 frameworks - Next.js, React, Python, Go, Rust, and more. Works with Cursor, Claude Code, and Windsurf.",
-              "description": null,
+              "title": "Wittlesus/cursorrules-pro",
+              "description": "Professional .cursorrules configurations for 8 frameworks - Next.js, React, Python, Go, Rust, and more. Works with Cursor, Claude Code, and Windsurf.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2690,8 +2760,8 @@
             },
             {
               "node_type": "item",
-              "title": "mishanefedov/skill-issue: Source for the activation-audit skill for grading SKILL.md trigger metadata, prompt matching, and collision clusters (MIT).",
-              "description": null,
+              "title": "mishanefedov/skill-issue",
+              "description": "Source for the activation-audit skill for grading SKILL.md trigger metadata, prompt matching, and collision clusters (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2705,8 +2775,8 @@
             },
             {
               "node_type": "item",
-              "title": "christopherlhammer11-ai/tool-use-guardian: Source for the Tool Use Guardian skill — tool-call reliability wrapper with retries, recovery, and failure classification.",
-              "description": null,
+              "title": "christopherlhammer11-ai/tool-use-guardian",
+              "description": "Source for the Tool Use Guardian skill — tool-call reliability wrapper with retries, recovery, and failure classification.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2720,8 +2790,8 @@
             },
             {
               "node_type": "item",
-              "title": "christopherlhammer11-ai/recallmax: Source for the RecallMax skill — long-context memory, summarization, and conversation compression for agents.",
-              "description": null,
+              "title": "christopherlhammer11-ai/recallmax",
+              "description": "Source for the RecallMax skill — long-context memory, summarization, and conversation compression for agents.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2735,8 +2805,8 @@
             },
             {
               "node_type": "item",
-              "title": "UrRhb/agentflow: Kanban-driven AI development pipeline for orchestrating multi-worker Claude Code workflows with deterministic quality gates, adversarial review, cost tracking, and crash-proof execution (MIT).",
-              "description": null,
+              "title": "UrRhb/agentflow",
+              "description": "Kanban-driven AI development pipeline for orchestrating multi-worker Claude Code workflows with deterministic quality gates, adversarial review, cost tracking, and crash-proof execution (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2750,8 +2820,8 @@
             },
             {
               "node_type": "item",
-              "title": "CodeShuX/tokenwise: Source for the skill — measurement-driven Haiku/Sonnet/Opus router for Claude Code with per-task NDJSON logging, A/B test mode, and verified $-saved reports (MIT).",
-              "description": null,
+              "title": "CodeShuX/tokenwise",
+              "description": "Source for the skill — measurement-driven Haiku/Sonnet/Opus router for Claude Code with per-task NDJSON logging, A/B test mode, and verified $-saved reports (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2765,14 +2835,14 @@
             },
             {
               "node_type": "item",
-              "title": "supernovae-st/nika-agents: Official upstream source for the skill and its deterministic, budget-aware AI workflow runner (MIT skill content; AGPL-3.0 engine).",
-              "description": null,
+              "title": "supernovae-st/nika-agents",
+              "description": "Official upstream source for the skill and its deterministic, budget-aware AI workflow runner (MIT skill content; AGPL-3.0 engine).",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1287733195,
                 "language": "Python",
-                "last_commit": "2026-08-23T18:42:42Z",
+                "last_commit": "2026-08-24T06:55:26Z",
                 "owner": "supernovae-st",
                 "repo": "nika-plugins",
                 "stars": 2
@@ -2780,8 +2850,8 @@
             },
             {
               "node_type": "item",
-              "title": "chaunsin/agent-skills: Source for the and skills - deploy-readiness audits and Drizzle Kit migration-conflict workflows (Apache-2.0).",
-              "description": null,
+              "title": "chaunsin/agent-skills",
+              "description": "Source for the and skills - deploy-readiness audits and Drizzle Kit migration-conflict workflows (Apache-2.0).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2795,8 +2865,8 @@
             },
             {
               "node_type": "item",
-              "title": "takeaseatventure/devops-skills: Source for the skill - cron expression diagnosis, validation, trap detection, and zero-dependency schedule analysis tooling (MIT).",
-              "description": null,
+              "title": "takeaseatventure/devops-skills",
+              "description": "Source for the skill - cron expression diagnosis, validation, trap detection, and zero-dependency schedule analysis tooling (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2810,8 +2880,8 @@
             },
             {
               "node_type": "item",
-              "title": "Genefold/arrowspace-skills: Source for the skill - spectral vector search using graph Laplacian eigenstructure for structurally aware retrieval (Apache-2.0).",
-              "description": null,
+              "title": "Genefold/arrowspace-skills",
+              "description": "Source for the skill - spectral vector search using graph Laplacian eigenstructure for structurally aware retrieval (Apache-2.0).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2825,8 +2895,8 @@
             },
             {
               "node_type": "item",
-              "title": "connerkward/macos-screen-recorder-system-audio: Source for the skill - macOS ScreenCaptureKit recording with system audio, CLI workflows, permission handling, and export guidance (MIT).",
-              "description": null,
+              "title": "connerkward/macos-screen-recorder-system-audio",
+              "description": "Source for the skill - macOS ScreenCaptureKit recording with system audio, CLI workflows, permission handling, and export guidance (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2840,8 +2910,8 @@
             },
             {
               "node_type": "item",
-              "title": "connerkward/web-media-getter-skill: Source for the skill - unified search across free image, video, and GIF APIs with license-aware media selection guidance (MIT).",
-              "description": null,
+              "title": "connerkward/web-media-getter-skill",
+              "description": "Source for the skill - unified search across free image, video, and GIF APIs with license-aware media selection guidance (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2855,8 +2925,8 @@
             },
             {
               "node_type": "item",
-              "title": "Antheurus/anywrite: Source for the skill - low-context CLI access to Anytype's local API for objects, properties, files, search, chat, and other workspace operations (MIT).",
-              "description": null,
+              "title": "Antheurus/anywrite",
+              "description": "Source for the skill - low-context CLI access to Anytype's local API for objects, properties, files, search, chat, and other workspace operations (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2870,8 +2940,8 @@
             },
             {
               "node_type": "item",
-              "title": "mturac/recsys-pipeline-architect: Source for the skill - recommendation, ranking, and feed pipeline architecture using Source, Hydrator, Filter, Scorer, Selector, and SideEffect stages (MIT).",
-              "description": null,
+              "title": "mturac/recsys-pipeline-architect",
+              "description": "Source for the skill - recommendation, ranking, and feed pipeline architecture using Source, Hydrator, Filter, Scorer, Selector, and SideEffect stages (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2885,8 +2955,8 @@
             },
             {
               "node_type": "item",
-              "title": "tsilverberg/webapp-uat: Full browser UAT skill — Playwright testing with console/network error capture, WCAG 2.2 AA accessibility checks, i18n validation, responsive testing, and P0-P3 bug triage. Read-only by default, works with React, Vue, Angular, Ionic, Next.js.",
-              "description": null,
+              "title": "tsilverberg/webapp-uat",
+              "description": "Full browser UAT skill — Playwright testing with console/network error capture, WCAG 2.2 AA accessibility checks, i18n validation, responsive testing, and P0-P3 bug triage. Read-only by default, works with React, Vue, Angular, Ionic, Next.js.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2900,8 +2970,8 @@
             },
             {
               "node_type": "item",
-              "title": "fruitwyatt/puzzle-activity-planner: Puzzle activity-planning skill for classrooms, parties, and events with generator-link workflows.",
-              "description": null,
+              "title": "fruitwyatt/puzzle-activity-planner",
+              "description": "Puzzle activity-planning skill for classrooms, parties, and events with generator-link workflows.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2915,8 +2985,8 @@
             },
             {
               "node_type": "item",
-              "title": "Sharrmavishal/operating-kit: Source for the skill - a pre-deploy gate that walks the silent failure modes (migrations, feature flags, stale build cache, release pointer, staged rollout, missing env) and verifies the live revision instead of trusting deploy output (MIT).",
-              "description": null,
+              "title": "Sharrmavishal/operating-kit",
+              "description": "Source for the skill - a pre-deploy gate that walks the silent failure modes (migrations, feature flags, stale build cache, release pointer, staged rollout, missing env) and verifies the live revision instead of trusting deploy output (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2930,8 +3000,23 @@
             },
             {
               "node_type": "item",
-              "title": "5dive-ai/skills: Source for the skill - durable, atomic, interlinked knowledge stores with explicit hygiene, provenance, expiry, and secret-handling boundaries (MIT).",
-              "description": null,
+              "title": "Ghost011118/project-state-governor",
+              "description": "Source for the skill - evidence-backed canonical project state across sessions, branches, reviews, and research cycles (Apache-2.0).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1340585987,
+                "language": null,
+                "last_commit": "2026-08-24T05:24:31Z",
+                "owner": "Ghost011118",
+                "repo": "project-state-governor",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "5dive-ai/skills",
+              "description": "Source for the skill - durable, atomic, interlinked knowledge stores with explicit hygiene, provenance, expiry, and secret-handling boundaries (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2945,8 +3030,8 @@
             },
             {
               "node_type": "item",
-              "title": "saudademjj/luopan: Source for the skill - Chinese-first travel itinerary planning with mandatory budget confirmation, source-traceable facts, workload-aware daily pacing, and rule self-checks (MIT).",
-              "description": null,
+              "title": "saudademjj/luopan",
+              "description": "Source for the skill - Chinese-first travel itinerary planning with mandatory budget confirmation, source-traceable facts, workload-aware daily pacing, and rule self-checks (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2960,8 +3045,8 @@
             },
             {
               "node_type": "item",
-              "title": "OJPalenzuela/agents-generator: Source for the skill - project-specific and companion rule generation with package-manager detection, monorepo handling, dry-run/update modes, backups, and validated commands (MIT).",
-              "description": null,
+              "title": "OJPalenzuela/agents-generator",
+              "description": "Source for the skill - project-specific and companion rule generation with package-manager detection, monorepo handling, dry-run/update modes, backups, and validated commands (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2975,8 +3060,8 @@
             },
             {
               "node_type": "item",
-              "title": "agentbody/skills: Source for the skill - LinkedIn and YouTube professional-profile and public business-contact research via the Agent Body MCP server (MIT).",
-              "description": null,
+              "title": "agentbody/skills",
+              "description": "Source for the skill - LinkedIn and YouTube professional-profile and public business-contact research via the Agent Body MCP server (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2990,8 +3075,8 @@
             },
             {
               "node_type": "item",
-              "title": "merc1305/findMate: Source for the skill - private-first own-owner assessment, approved expiring profiles, and evidence-backed human founder matching (MIT).",
-              "description": null,
+              "title": "merc1305/findMate",
+              "description": "Source for the skill - private-first own-owner assessment, approved expiring profiles, and evidence-backed human founder matching (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3005,8 +3090,8 @@
             },
             {
               "node_type": "item",
-              "title": "0xsarwagya/ontoly: Source for the skill - deterministic TypeScript software graphs, MCP-backed architecture review, request tracing, impact analysis, and dependency analysis (MIT).",
-              "description": null,
+              "title": "0xsarwagya/ontoly",
+              "description": "Source for the skill - deterministic TypeScript software graphs, MCP-backed architecture review, request tracing, impact analysis, and dependency analysis (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3020,8 +3105,8 @@
             },
             {
               "node_type": "item",
-              "title": "hafiz-actyte/idea-autopsy: Source for the skill - business-idea validation that hunts the one sentence that kills an idea before you build: kill-list check, five hard filters, free-AI one-prompt test, and live ad-market verification (MIT).",
-              "description": null,
+              "title": "hafiz-actyte/idea-autopsy",
+              "description": "Source for the skill - business-idea validation that hunts the one sentence that kills an idea before you build: kill-list check, five hard filters, free-AI one-prompt test, and live ad-market verification (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3035,8 +3120,8 @@
             },
             {
               "node_type": "item",
-              "title": "takeaseatventure/sql-sentinel: Source for the skill - SQL warehouse cost and performance anti-pattern audits across BigQuery, Snowflake, Redshift, and Postgres (MIT).",
-              "description": null,
+              "title": "takeaseatventure/sql-sentinel",
+              "description": "Source for the skill - SQL warehouse cost and performance anti-pattern audits across BigQuery, Snowflake, Redshift, and Postgres (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3050,8 +3135,8 @@
             },
             {
               "node_type": "item",
-              "title": "connerkward/deterministic-design-skill: Source for the skill - rendered UI layout and usability audits using deterministic measurement plus vision-judged review loops (MIT).",
-              "description": null,
+              "title": "connerkward/deterministic-design-skill",
+              "description": "Source for the skill - rendered UI layout and usability audits using deterministic measurement plus vision-judged review loops (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3065,8 +3150,8 @@
             },
             {
               "node_type": "item",
-              "title": "connerkward/lookdev-auto-skill: Source for the skill - automated visual tuning loops where a vision or video model rates rendered variants and suggests improvements (MIT).",
-              "description": null,
+              "title": "connerkward/lookdev-auto-skill",
+              "description": "Source for the skill - automated visual tuning loops where a vision or video model rates rendered variants and suggests improvements (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3080,8 +3165,8 @@
             },
             {
               "node_type": "item",
-              "title": "connerkward/lookdev-studio-skill: Source for the skill - human-in-the-loop visual and prose tuning through rendered variants, sliders, swatches, inline edits, and selection-driven refinement (MIT).",
-              "description": null,
+              "title": "connerkward/lookdev-studio-skill",
+              "description": "Source for the skill - human-in-the-loop visual and prose tuning through rendered variants, sliders, swatches, inline edits, and selection-driven refinement (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3095,8 +3180,8 @@
             },
             {
               "node_type": "item",
-              "title": "mskadu/opencode-agent-skills: Source for opencode behavior, permission, skill-suggestion, and smart Git automation skills.",
-              "description": null,
+              "title": "mskadu/opencode-agent-skills",
+              "description": "Source for opencode behavior, permission, skill-suggestion, and smart Git automation skills.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3110,8 +3195,8 @@
             },
             {
               "node_type": "item",
-              "title": "mycelos-ai/bumblebee-skill: Source for the skill - multi-agent implementation workflows with repeatable planning, coding, review, and verification loops (MIT).",
-              "description": null,
+              "title": "mycelos-ai/bumblebee-skill",
+              "description": "Source for the skill - multi-agent implementation workflows with repeatable planning, coding, review, and verification loops (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3125,8 +3210,8 @@
             },
             {
               "node_type": "item",
-              "title": "tellmefrankie/news-engine: Source for the skill - news ingestion, sentiment analysis, and market/news intelligence workflows (MIT).",
-              "description": null,
+              "title": "tellmefrankie/news-engine",
+              "description": "Source for the skill - news ingestion, sentiment analysis, and market/news intelligence workflows (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3140,8 +3225,8 @@
             },
             {
               "node_type": "item",
-              "title": "Kench001/antigravity-awesome-skills: Source for the skill - context pruning, token budgeting, and long-session compression guidance (MIT).",
-              "description": null,
+              "title": "Kench001/antigravity-awesome-skills",
+              "description": "Source for the skill - context pruning, token budgeting, and long-session compression guidance (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3155,8 +3240,8 @@
             },
             {
               "node_type": "item",
-              "title": "CodeShuX/mockhunter: Source for the skill - Playwright-based live-page audits that classify visible values as real, mock, LLM-generated, hardcoded, broken, or unknown (MIT).",
-              "description": null,
+              "title": "CodeShuX/mockhunter",
+              "description": "Source for the skill - Playwright-based live-page audits that classify visible values as real, mock, LLM-generated, hardcoded, broken, or unknown (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3170,8 +3255,8 @@
             },
             {
               "node_type": "item",
-              "title": "274326424/video-content-extractor: Source for the skill - FFmpeg and Tesseract OCR workflows for extracting timestamped screen text and structured Markdown reports from MP4 videos (MIT).",
-              "description": null,
+              "title": "274326424/video-content-extractor",
+              "description": "Source for the skill - FFmpeg and Tesseract OCR workflows for extracting timestamped screen text and structured Markdown reports from MP4 videos (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3185,8 +3270,8 @@
             },
             {
               "node_type": "item",
-              "title": "metrox-eth/quit-sponsor: Source for the skill - evidence-based quit-smoking sponsorship for agents with persistent memory: 44-source cited protocols, sponsor decision tree, three-clause contract, wave protocol, slip attribution coaching, and a timestamped logbook (MIT).",
-              "description": null,
+              "title": "metrox-eth/quit-sponsor",
+              "description": "Source for the skill - evidence-based quit-smoking sponsorship for agents with persistent memory: 44-source cited protocols, sponsor decision tree, three-clause contract, wave protocol, slip attribution coaching, and a timestamped logbook (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3200,8 +3285,8 @@
             },
             {
               "node_type": "item",
-              "title": "ch040602/mdpr-skill: Source for the skill - Codex-assisted MDPR presentation review, semantic hints, visual checks, theme candidates, and deterministic renderer boundaries (MIT).",
-              "description": null,
+              "title": "ch040602/mdpr-skill",
+              "description": "Source for the skill - Codex-assisted MDPR presentation review, semantic hints, visual checks, theme candidates, and deterministic renderer boundaries (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3215,8 +3300,8 @@
             },
             {
               "node_type": "item",
-              "title": "nickdesi/ZipAI: Source for the skill — ultra-dense prompt caching, semantic log pruning, AST-based code viewing, minified JSON payloads, and telegraphic output constraints for maximum token savings.",
-              "description": null,
+              "title": "nickdesi/ZipAI",
+              "description": "Source for the skill — ultra-dense prompt caching, semantic log pruning, AST-based code viewing, minified JSON payloads, and telegraphic output constraints for maximum token savings.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3230,8 +3315,8 @@
             },
             {
               "node_type": "item",
-              "title": "MojoAuth/skills: Production-ready MojoAuth guides and examples for popular frameworks like Node.js, Next.js, React, Java, .NET Core, Go, iOS, and Android.",
-              "description": null,
+              "title": "MojoAuth/skills",
+              "description": "Production-ready MojoAuth guides and examples for popular frameworks like Node.js, Next.js, React, Java, .NET Core, Go, iOS, and Android.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3245,8 +3330,8 @@
             },
             {
               "node_type": "item",
-              "title": "xwmxcz/papers-skill: Source for the skill — academic research workflows over Semantic Scholar (200M+ papers) and arXiv, with citation lookup, arXiv PDF download, and PyMuPDF text extraction via a bundled Python CLI (MIT).",
-              "description": null,
+              "title": "xwmxcz/papers-skill",
+              "description": "Source for the skill — academic research workflows over Semantic Scholar (200M+ papers) and arXiv, with citation lookup, arXiv PDF download, and PyMuPDF text extraction via a bundled Python CLI (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3260,8 +3345,8 @@
             },
             {
               "node_type": "item",
-              "title": "kimtth/agent-pptify-kit: Source for the skill - editable, production-ready PowerPoint deck creation with narrative planning, explicit layouts, asset guidance, and quality checks (MIT).",
-              "description": null,
+              "title": "kimtth/agent-pptify-kit",
+              "description": "Source for the skill - editable, production-ready PowerPoint deck creation with narrative planning, explicit layouts, asset guidance, and quality checks (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3275,8 +3360,8 @@
             },
             {
               "node_type": "item",
-              "title": "alexprivalov/boost-asio-skill: Source for the skill - version-aware async C++ networking with Boost.Asio and standalone Asio across coroutine, callback, and classic styles (MIT).",
-              "description": null,
+              "title": "alexprivalov/boost-asio-skill",
+              "description": "Source for the skill - version-aware async C++ networking with Boost.Asio and standalone Asio across coroutine, callback, and classic styles (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3290,8 +3375,8 @@
             },
             {
               "node_type": "item",
-              "title": "JanYork/using-lwc: Source for the skill - durable, source-grounded project memory with independently verified document and code graphs (Apache-2.0).",
-              "description": null,
+              "title": "JanYork/using-lwc",
+              "description": "Source for the skill - durable, source-grounded project memory with independently verified document and code graphs (Apache-2.0).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3305,8 +3390,8 @@
             },
             {
               "node_type": "item",
-              "title": "maleksaadi0109/hyprfedora: Source for the skill - GPU-aware Fedora Hyprland installation, configuration, verification, repair, and removal workflows (MIT).",
-              "description": null,
+              "title": "maleksaadi0109/hyprfedora",
+              "description": "Source for the skill - GPU-aware Fedora Hyprland installation, configuration, verification, repair, and removal workflows (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3320,8 +3405,8 @@
             },
             {
               "node_type": "item",
-              "title": "Antheurus/sshepherd: Source for the skill - credential-isolated SSH operations, service control, logs, configuration changes, Postgres introspection, and declarative deploys through preconfigured aliases (MIT).",
-              "description": null,
+              "title": "Antheurus/sshepherd",
+              "description": "Source for the skill - credential-isolated SSH operations, service control, logs, configuration changes, Postgres introspection, and declarative deploys through preconfigured aliases (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3335,8 +3420,8 @@
             },
             {
               "node_type": "item",
-              "title": "zenlee123/routerbase-agent-skills: Source for the skill — OpenAI-compatible RouterBase model gateway setup, model-routing plans, server-side credential handling, and fallback validation patterns (MIT-0).",
-              "description": null,
+              "title": "zenlee123/routerbase-agent-skills",
+              "description": "Source for the skill — OpenAI-compatible RouterBase model gateway setup, model-routing plans, server-side credential handling, and fallback validation patterns (MIT-0).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3350,8 +3435,8 @@
             },
             {
               "node_type": "item",
-              "title": "thecsdoctor/brendangregg-use-tsa-skill: Source for the skill - methodical performance troubleshooting and root-cause analysis with Brendan Gregg's USE and TSA methods, plus evidence-backed RCA and postmortem reporting (MIT).",
-              "description": null,
+              "title": "thecsdoctor/brendangregg-use-tsa-skill",
+              "description": "Source for the skill - methodical performance troubleshooting and root-cause analysis with Brendan Gregg's USE and TSA methods, plus evidence-backed RCA and postmortem reporting (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3365,8 +3450,8 @@
             },
             {
               "node_type": "item",
-              "title": "alfredtech2026/shopify-app-review-brief: Source for the skill - public-data-only P0–P3 triage of low-star Shopify App Store reviews into a source-linked brief, with an explicit needs-human-read bucket and first-pass vs. human-checked labeling (MIT).",
-              "description": null,
+              "title": "alfredtech2026/shopify-app-review-brief",
+              "description": "Source for the skill - public-data-only P0–P3 triage of low-star Shopify App Store reviews into a source-linked brief, with an explicit needs-human-read bucket and first-pass vs. human-checked labeling (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3382,28 +3467,34 @@
           "description": null,
           "node_type": "group",
           "title": "Community Contributors"
-        },
+        }
+      ],
+      "title": "Community Contributors & Source Repositories"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "children": [
             {
               "node_type": "item",
-              "title": "f/awesome-chatgpt-prompts: Inspiration for the Prompt Library.",
-              "description": null,
+              "title": "f/awesome-chatgpt-prompts",
+              "description": "Inspiration for the Prompt Library.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 574523116,
                 "language": "HTML",
-                "last_commit": "2026-08-23T03:23:38Z",
+                "last_commit": "2026-08-24T03:24:40Z",
                 "owner": "f",
                 "repo": "prompts.chat",
-                "stars": 167825
+                "stars": 167848
               }
             },
             {
               "node_type": "item",
-              "title": "leonardomso/33-js-concepts: Inspiration for JavaScript Mastery.",
-              "description": null,
+              "title": "leonardomso/33-js-concepts",
+              "description": "Inspiration for JavaScript Mastery.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3419,16 +3510,38 @@
           "description": null,
           "node_type": "group",
           "title": "Inspirations"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "agent-cards/skill",
+              "description": "Manage prepaid virtual Visa cards for AI agents. Create cards, check balances, view credentials, close cards, and get support via MCP tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1173664258,
+                "language": null,
+                "last_commit": "2026-08-23T21:23:25Z",
+                "owner": "tiny-agent-company",
+                "repo": "agent-card-skill",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Additional Sources"
         }
       ],
-      "title": "Credits & Sources"
+      "title": "Inspirations & Additional Sources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:58:40.265Z",
+    "last_updated": "2026-08-24T13:49:59.823Z",
     "original_repository": "sickn33/agentic-awesome-skills",
     "original_repository_id": 1134426800,
-    "original_repository_sha": "b6ceca367a3b3ee90a273a3afa895960e8e9d7a5",
+    "original_repository_sha": "50a74ca3ddea4a91a45bdc625f0e354b6e54f1b4",
     "enhanced_repository": "enhansome/agentic-enhansome-skills",
     "enhanced_repository_description": null,
     "title": "AAS Core — Agentic Awesome Skills with stars"
