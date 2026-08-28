@@ -18,7 +18,8 @@
                 "owner": "lilhawk7077",
                 "repo": "claude-code-resources",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             }
           ],
           "description": null,
@@ -26,7 +27,7 @@
           "title": "Compare alternatives"
         }
       ],
-      "title": "Browse 2,074+ Skills"
+      "title": "Browse 2,098+ Skills"
     },
     {
       "description": "Keep the root README short; use the dedicated docs for recovery and platform-specific guidance.",
@@ -40,11 +41,12 @@
             "archived": false,
             "id": 1134426800,
             "language": "Python",
-            "last_commit": "2026-08-27T04:51:10Z",
+            "last_commit": "2026-08-28T08:51:32Z",
             "owner": "sickn33",
             "repo": "agentic-awesome-skills",
-            "stars": 45520
-          }
+            "stars": 45584
+          },
+          "first_seen": "2026-08-28T13:43:04.741Z"
         }
       ],
       "title": "Troubleshooting"
@@ -61,11 +63,12 @@
             "archived": false,
             "id": 1134426800,
             "language": "Python",
-            "last_commit": "2026-08-27T04:51:10Z",
+            "last_commit": "2026-08-28T08:51:32Z",
             "owner": "sickn33",
             "repo": "agentic-awesome-skills",
-            "stars": 45520
-          }
+            "stars": 45584
+          },
+          "first_seen": "2026-08-28T13:43:04.741Z"
         },
         {
           "node_type": "item",
@@ -76,11 +79,12 @@
             "archived": false,
             "id": 1134426800,
             "language": "Python",
-            "last_commit": "2026-08-27T04:51:10Z",
+            "last_commit": "2026-08-28T08:51:32Z",
             "owner": "sickn33",
             "repo": "agentic-awesome-skills",
-            "stars": 45520
-          }
+            "stars": 45584
+          },
+          "first_seen": "2026-08-28T13:43:04.741Z"
         }
       ],
       "title": "Community"
@@ -102,8 +106,9 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 171975
-              }
+                "stars": 172197
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -117,8 +122,9 @@
                 "last_commit": "2026-08-19T20:42:54Z",
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 52188
-              }
+                "stars": 52229
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -129,11 +135,12 @@
                 "archived": false,
                 "id": 1112540808,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T14:55:01Z",
+                "last_commit": "2026-08-28T13:36:31Z",
                 "owner": "vercel-labs",
                 "repo": "agent-skills",
-                "stars": 30521
-              }
+                "stars": 30579
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -147,8 +154,9 @@
                 "last_commit": "2026-07-14T16:47:46Z",
                 "owner": "openai",
                 "repo": "skills",
-                "stars": 25219
-              }
+                "stars": 25243
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -159,11 +167,12 @@
                 "archived": false,
                 "id": 764723738,
                 "language": "Python",
-                "last_commit": "2026-08-27T01:50:43Z",
+                "last_commit": "2026-08-28T06:52:28Z",
                 "owner": "Skyvern-AI",
                 "repo": "skyvern",
-                "stars": 22859
-              }
+                "stars": 22870
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -174,11 +183,12 @@
                 "archived": false,
                 "id": 1102903896,
                 "language": "Python",
-                "last_commit": "2026-08-26T20:03:43Z",
+                "last_commit": "2026-08-27T14:52:20Z",
                 "owner": "huggingface",
                 "repo": "skills",
-                "stars": 10965
-              }
+                "stars": 10974
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -192,8 +202,9 @@
                 "last_commit": "2026-08-24T14:56:52Z",
                 "owner": "browser-act",
                 "repo": "skills",
-                "stars": 5498
-              }
+                "stars": 5513
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -207,8 +218,9 @@
                 "last_commit": "2026-08-26T16:35:35Z",
                 "owner": "remotion-dev",
                 "repo": "skills",
-                "stars": 4414
-              }
+                "stars": 4422
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -219,11 +231,12 @@
                 "archived": false,
                 "id": 1151113612,
                 "language": "Python",
-                "last_commit": "2026-08-26T17:31:17Z",
+                "last_commit": "2026-08-27T15:42:43Z",
                 "owner": "google-gemini",
                 "repo": "gemini-skills",
-                "stars": 3942
-              }
+                "stars": 3948
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -234,11 +247,12 @@
                 "archived": false,
                 "id": 1074669117,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T20:55:17Z",
+                "last_commit": "2026-08-27T23:43:05Z",
                 "owner": "browserbase",
                 "repo": "skills",
-                "stars": 3699
-              }
+                "stars": 3700
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -252,8 +266,9 @@
                 "last_commit": "2026-08-26T00:18:45Z",
                 "owner": "nowork-studio",
                 "repo": "notfair-plugin",
-                "stars": 3418
-              }
+                "stars": 3422
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -267,8 +282,9 @@
                 "last_commit": "2026-07-26T11:04:33Z",
                 "owner": "Forward-Future",
                 "repo": "loopy",
-                "stars": 3066
-              }
+                "stars": 3072
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -279,11 +295,12 @@
                 "archived": false,
                 "id": 988222683,
                 "language": "Vue",
-                "last_commit": "2026-08-27T10:16:31Z",
+                "last_commit": "2026-08-28T11:06:20Z",
                 "owner": "Simon-He95",
                 "repo": "markstream-vue",
-                "stars": 2968
-              }
+                "stars": 2969
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -297,8 +314,9 @@
                 "last_commit": "2026-08-26T17:02:13Z",
                 "owner": "microsoft",
                 "repo": "skills",
-                "stars": 2956
-              }
+                "stars": 2962
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -312,8 +330,9 @@
                 "last_commit": "2026-08-12T07:37:08Z",
                 "owner": "supabase",
                 "repo": "agent-skills",
-                "stars": 2550
-              }
+                "stars": 2556
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -324,11 +343,12 @@
                 "archived": false,
                 "id": 1106846196,
                 "language": "Shell",
-                "last_commit": "2026-08-26T18:10:46Z",
+                "last_commit": "2026-08-27T16:18:14Z",
                 "owner": "expo",
                 "repo": "skills",
-                "stars": 2468
-              }
+                "stars": 2472
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -339,11 +359,12 @@
                 "archived": false,
                 "id": 1129716674,
                 "language": "Python",
-                "last_commit": "2026-08-10T15:02:02Z",
+                "last_commit": "2026-08-27T15:49:44Z",
                 "owner": "apify",
                 "repo": "agent-skills",
                 "stars": 2361
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -354,11 +375,12 @@
                 "archived": false,
                 "id": 1191791121,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T10:42:27Z",
+                "last_commit": "2026-08-28T13:41:56Z",
                 "owner": "MiniMax-AI",
                 "repo": "cli",
-                "stars": 2075
-              }
+                "stars": 2076
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -372,8 +394,9 @@
                 "last_commit": "2026-08-03T18:44:59Z",
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 847
-              }
+                "stars": 884
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -388,7 +411,8 @@
                 "owner": "dair-ai",
                 "repo": "dair-academy-plugins",
                 "stars": 608
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -399,11 +423,12 @@
                 "archived": false,
                 "id": 1285161033,
                 "language": "TypeScript",
-                "last_commit": "2026-08-12T07:25:38Z",
+                "last_commit": "2026-08-28T09:25:25Z",
                 "owner": "Orkas-AI",
                 "repo": "Orkas-VideoStudio",
                 "stars": 524
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -417,8 +442,9 @@
                 "last_commit": "2026-08-27T01:44:18Z",
                 "owner": "Xquik-dev",
                 "repo": "x-twitter-scraper",
-                "stars": 188
-              }
+                "stars": 189
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -429,11 +455,12 @@
                 "archived": false,
                 "id": 1151848125,
                 "language": "Go",
-                "last_commit": "2026-08-26T00:16:43Z",
+                "last_commit": "2026-08-28T03:36:15Z",
                 "owner": "pilot-protocol",
                 "repo": "pilotprotocol",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -448,7 +475,8 @@
                 "owner": "weaviate",
                 "repo": "agent-skills",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -459,11 +487,28 @@
                 "archived": false,
                 "id": 1138578572,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T05:55:19Z",
+                "last_commit": "2026-08-28T08:54:02Z",
                 "owner": "neondatabase",
                 "repo": "agent-skills",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
+            },
+            {
+              "node_type": "item",
+              "title": "sandbaseai/cli",
+              "description": "Official source for the skill - discover, inspect, and invoke 2,000+ AI models and APIs through a local MCP bridge with explicit schema and cost checks (Apache-2.0).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1281133792,
+                "language": "TypeScript",
+                "last_commit": "2026-08-28T12:39:42Z",
+                "owner": "sandbaseai",
+                "repo": "cli",
+                "stars": 66
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -478,7 +523,8 @@
                 "owner": "longbridge",
                 "repo": "skills",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -492,8 +538,9 @@
                 "last_commit": "2026-08-23T10:14:01Z",
                 "owner": "uizze",
                 "repo": "uizze",
-                "stars": 11
-              }
+                "stars": 12
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -504,11 +551,12 @@
                 "archived": false,
                 "id": 1212338943,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T07:42:44Z",
+                "last_commit": "2026-08-28T01:16:18Z",
                 "owner": "BuyWhere",
                 "repo": "buywhere-mcp",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -523,7 +571,8 @@
                 "owner": "ScopeBlind",
                 "repo": "scopeblind-gateway",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -534,11 +583,12 @@
                 "archived": false,
                 "id": 1219386655,
                 "language": "Go",
-                "last_commit": "2026-08-27T10:15:18Z",
+                "last_commit": "2026-08-28T10:30:20Z",
                 "owner": "HasData",
                 "repo": "hasdata-cli",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -549,11 +599,12 @@
                 "archived": false,
                 "id": 1222678439,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T17:31:17Z",
+                "last_commit": "2026-08-28T12:00:05Z",
                 "owner": "happy520ai",
                 "repo": "unified-ai-system",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -564,11 +615,12 @@
                 "archived": false,
                 "id": 1262565122,
                 "language": "Shell",
-                "last_commit": "2026-08-24T16:00:38Z",
+                "last_commit": "2026-08-28T06:34:01Z",
                 "owner": "agent-frontier",
                 "repo": "wgm",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -583,7 +635,8 @@
                 "owner": "bekservice",
                 "repo": "Famulor-Skill",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -598,7 +651,8 @@
                 "owner": "runapi-ai",
                 "repo": "cli-skill",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -613,22 +667,8 @@
                 "owner": "Modellix",
                 "repo": "modellix-plugin",
                 "stars": 1
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "cohesivity-org/cohesivity-skill",
-              "description": "Official Cohesivity skill - agent provisioned backend infrastructure covering Postgres, hosting, auth, realtime, storage, cron, email, and AI model APIs over one HTTP API (MIT).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1286700621,
-                "language": null,
-                "last_commit": "2026-08-13T22:04:27Z",
-                "owner": "cohesivity-org",
-                "repo": "cohesivity-skill",
-                "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -639,11 +679,28 @@
                 "archived": false,
                 "id": 1315957467,
                 "language": "Python",
-                "last_commit": "2026-08-19T07:10:31Z",
+                "last_commit": "2026-08-28T07:59:55Z",
                 "owner": "ASI2030",
                 "repo": "Fact-Check-X",
+                "stars": 1
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
+            },
+            {
+              "node_type": "item",
+              "title": "cohesivity-org/cohesivity-skill",
+              "description": "Official Cohesivity skill - agent provisioned backend infrastructure covering Postgres, hosting, auth, realtime, storage, cron, email, and AI model APIs over one HTTP API (MIT).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1286700621,
+                "language": null,
+                "last_commit": "2026-08-27T21:31:18Z",
+                "owner": "cohesivity-org",
+                "repo": "cohesivity-skill",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             }
           ],
           "description": null,
@@ -670,8 +727,9 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 278401
-              }
+                "stars": 278886
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -682,11 +740,12 @@
                 "archived": false,
                 "id": 1136590548,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T21:27:27Z",
+                "last_commit": "2026-08-28T01:14:39Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 243629
-              }
+                "stars": 243877
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -700,8 +759,9 @@
                 "last_commit": "2026-08-24T14:20:17Z",
                 "owner": "mattpocock",
                 "repo": "skills",
-                "stars": 238553
-              }
+                "stars": 239824
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -715,8 +775,9 @@
                 "last_commit": "2026-04-20T10:05:04Z",
                 "owner": "multica-ai",
                 "repo": "andrej-karpathy-skills",
-                "stars": 207899
-              }
+                "stars": 208307
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -727,11 +788,12 @@
                 "archived": false,
                 "id": 1158722119,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T07:21:08Z",
+                "last_commit": "2026-08-27T19:28:24Z",
                 "owner": "addyosmani",
                 "repo": "agent-skills",
-                "stars": 90179
-              }
+                "stars": 90430
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -745,8 +807,25 @@
                 "last_commit": "2026-08-24T15:23:56Z",
                 "owner": "Leonxlnx",
                 "repo": "taste-skill",
-                "stars": 81308
-              }
+                "stars": 81759
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
+            },
+            {
+              "node_type": "item",
+              "title": "unslothai/unsloth",
+              "description": "Source for the skill - single-GPU VRAM sizing, LoRA/QLoRA configuration, chat-template and loss-masking correctness, GRPO/DPO post-training, and GGUF/merged export paths (Apache-2.0).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 725205304,
+                "language": "Python",
+                "last_commit": "2026-08-28T13:05:53Z",
+                "owner": "unslothai",
+                "repo": "unsloth",
+                "stars": 75031
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -760,8 +839,9 @@
                 "last_commit": "2026-06-08T16:12:01Z",
                 "owner": "kepano",
                 "repo": "obsidian-skills",
-                "stars": 47370
-              }
+                "stars": 47421
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -775,8 +855,9 @@
                 "last_commit": "2026-08-27T00:05:43Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 45828
-              }
+                "stars": 45953
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -790,8 +871,9 @@
                 "last_commit": "2026-08-24T09:22:55Z",
                 "owner": "K-Dense-AI",
                 "repo": "scientific-agent-skills",
-                "stars": 35010
-              }
+                "stars": 35872
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -805,8 +887,9 @@
                 "last_commit": "2026-08-21T09:32:33Z",
                 "owner": "emilkowalski",
                 "repo": "skills",
-                "stars": 32929
-              }
+                "stars": 33178
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -820,8 +903,9 @@
                 "last_commit": "2026-08-26T12:15:01Z",
                 "owner": "VoltAgent",
                 "repo": "awesome-agent-skills",
-                "stars": 32879
-              }
+                "stars": 32984
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -835,8 +919,9 @@
                 "last_commit": "2026-08-26T16:10:43Z",
                 "owner": "zhaoxuya520",
                 "repo": "reverse-skill",
-                "stars": 29749
-              }
+                "stars": 30053
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -850,8 +935,9 @@
                 "last_commit": "2026-06-23T20:08:19Z",
                 "owner": "zarazhangrui",
                 "repo": "frontend-slides",
-                "stars": 28230
-              }
+                "stars": 28300
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -865,8 +951,9 @@
                 "last_commit": "2026-08-26T15:12:59Z",
                 "owner": "alirezarezvani",
                 "repo": "claude-skills",
-                "stars": 25061
-              }
+                "stars": 25126
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -880,8 +967,9 @@
                 "last_commit": "2026-08-19T01:55:00Z",
                 "owner": "muratcankoylan",
                 "repo": "Agent-Skills-for-Context-Engineering",
-                "stars": 17846
-              }
+                "stars": 17853
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -895,8 +983,9 @@
                 "last_commit": "2026-08-26T12:16:22Z",
                 "owner": "AgriciDaniel",
                 "repo": "claude-seo",
-                "stars": 15493
-              }
+                "stars": 15647
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -910,8 +999,9 @@
                 "last_commit": "2026-04-28T19:30:24Z",
                 "owner": "travisvn",
                 "repo": "awesome-claude-skills",
-                "stars": 14842
-              }
+                "stars": 14867
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -925,8 +1015,9 @@
                 "last_commit": "2026-07-13T22:59:08Z",
                 "owner": "diet103",
                 "repo": "claude-code-infrastructure-showcase",
-                "stars": 10009
-              }
+                "stars": 10010
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -940,8 +1031,9 @@
                 "last_commit": "2026-08-11T02:26:46Z",
                 "owner": "vudovn",
                 "repo": "ag-kit",
-                "stars": 8156
-              }
+                "stars": 8159
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -952,11 +1044,12 @@
                 "archived": false,
                 "id": 1129930192,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T20:48:11Z",
+                "last_commit": "2026-08-28T13:10:35Z",
                 "owner": "ibelick",
                 "repo": "ui-skills",
-                "stars": 7678
-              }
+                "stars": 7738
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -970,8 +1063,9 @@
                 "last_commit": "2026-08-20T11:03:25Z",
                 "owner": "czlonkowski",
                 "repo": "n8n-skills",
-                "stars": 6136
-              }
+                "stars": 6145
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -985,8 +1079,9 @@
                 "last_commit": "2026-01-06T19:05:18Z",
                 "owner": "ChrisWiles",
                 "repo": "claude-code-showcase",
-                "stars": 6028
-              }
+                "stars": 6029
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -997,11 +1092,12 @@
                 "archived": false,
                 "id": 1006251566,
                 "language": "Python",
-                "last_commit": "2026-08-27T01:58:54Z",
+                "last_commit": "2026-08-28T03:22:32Z",
                 "owner": "zebbern",
                 "repo": "claude-code-guide",
-                "stars": 4592
-              }
+                "stars": 4593
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1015,8 +1111,9 @@
                 "last_commit": "2026-03-29T15:28:02Z",
                 "owner": "Dimillian",
                 "repo": "Skills",
-                "stars": 3927
-              }
+                "stars": 3928
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1027,11 +1124,12 @@
                 "archived": false,
                 "id": 1279159149,
                 "language": "Python",
-                "last_commit": "2026-08-27T08:37:37Z",
+                "last_commit": "2026-08-28T09:30:01Z",
                 "owner": "davidondrej",
                 "repo": "skills",
-                "stars": 3765
-              }
+                "stars": 3771
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1045,8 +1143,9 @@
                 "last_commit": "2026-08-12T13:34:21Z",
                 "owner": "AvdLee",
                 "repo": "SwiftUI-Agent-Skill",
-                "stars": 3460
-              }
+                "stars": 3463
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1060,8 +1159,9 @@
                 "last_commit": "2026-07-09T20:45:53Z",
                 "owner": "CloudAI-X",
                 "repo": "threejs-skills",
-                "stars": 3160
-              }
+                "stars": 3171
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1075,8 +1175,9 @@
                 "last_commit": "2026-07-06T13:36:03Z",
                 "owner": "cloudflare",
                 "repo": "security-audit-skill",
-                "stars": 3109
-              }
+                "stars": 3140
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1090,8 +1191,9 @@
                 "last_commit": "2026-08-17T09:19:43Z",
                 "owner": "yaojingang",
                 "repo": "yao-meta-skill",
-                "stars": 2535
-              }
+                "stars": 2547
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1105,8 +1207,9 @@
                 "last_commit": "2026-08-24T04:07:06Z",
                 "owner": "hyhmrright",
                 "repo": "brooks-lint",
-                "stars": 1421
-              }
+                "stars": 1425
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1120,8 +1223,25 @@
                 "last_commit": "2026-08-02T18:51:34Z",
                 "owner": "rmyndharis",
                 "repo": "antigravity-skills",
-                "stars": 1401
-              }
+                "stars": 1411
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
+            },
+            {
+              "node_type": "item",
+              "title": "amElnagdy/delegate-skills",
+              "description": "Source for 18 delegation skills ( + 17 implementer relays for Claude/Codex/Cursor/OpenCode and 13 more) — multi-agent delegation and fleet orchestration with Node built-ins only, relay never commits (MIT, docs-only — runtime not bundled).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1269124956,
+                "language": "JavaScript",
+                "last_commit": "2026-08-26T08:36:36Z",
+                "owner": "amElnagdy",
+                "repo": "delegate-skills",
+                "stars": 1372
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1135,8 +1255,9 @@
                 "last_commit": "2026-07-04T15:26:29Z",
                 "owner": "amElnagdy",
                 "repo": "guard-skills",
-                "stars": 1204
-              }
+                "stars": 1205
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1151,7 +1272,8 @@
                 "owner": "gooseworks-ai",
                 "repo": "goose-skills",
                 "stars": 1187
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1165,8 +1287,25 @@
                 "last_commit": "2026-08-27T08:22:05Z",
                 "owner": "guanyang",
                 "repo": "open-agent-hub",
-                "stars": 957
-              }
+                "stars": 958
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Optim-Agent/optim-agent",
+              "description": "Source for the skill - agent-guided optimization of configurable systems against measurable objectives (MIT).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1292603082,
+                "language": "Python",
+                "last_commit": "2026-08-14T19:09:11Z",
+                "owner": "Optim-Agent",
+                "repo": "optim-agent",
+                "stars": 935
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1181,22 +1320,8 @@
                 "owner": "huifer",
                 "repo": "WellAlly-health",
                 "stars": 934
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Optim-Agent/optim-agent",
-              "description": "Source for the skill - agent-guided optimization of configurable systems against measurable objectives (MIT).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1292603082,
-                "language": "Python",
-                "last_commit": "2026-08-14T19:09:11Z",
-                "owner": "Optim-Agent",
-                "repo": "optim-agent",
-                "stars": 933
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1211,7 +1336,8 @@
                 "owner": "bitjaru",
                 "repo": "styleseed",
                 "stars": 923
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1226,7 +1352,8 @@
                 "owner": "vibeforge1111",
                 "repo": "vibeship-spawner-skills",
                 "stars": 877
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1240,8 +1367,9 @@
                 "last_commit": "2026-04-07T15:51:03Z",
                 "owner": "ZhangHanDong",
                 "repo": "makepad-skills",
-                "stars": 745
-              }
+                "stars": 746
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1255,8 +1383,9 @@
                 "last_commit": "2026-08-25T11:07:11Z",
                 "owner": "sergebulaev",
                 "repo": "linkedin-skills",
-                "stars": 605
-              }
+                "stars": 607
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1270,8 +1399,9 @@
                 "last_commit": "2026-08-25T23:05:27Z",
                 "owner": "ZeroPointRepo",
                 "repo": "youtube-skills",
-                "stars": 572
-              }
+                "stars": 577
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1286,7 +1416,8 @@
                 "owner": "karanb192",
                 "repo": "awesome-claude-skills",
                 "stars": 500
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1300,8 +1431,9 @@
                 "last_commit": "2026-07-26T12:42:24Z",
                 "owner": "baskduf",
                 "repo": "FableCodex",
-                "stars": 435
-              }
+                "stars": 436
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1315,8 +1447,9 @@
                 "last_commit": "2026-07-09T21:13:00Z",
                 "owner": "sanjay3290",
                 "repo": "ai-skills",
-                "stars": 404
-              }
+                "stars": 405
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1331,7 +1464,8 @@
                 "owner": "LambdaTest",
                 "repo": "agent-skills",
                 "stars": 363
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1346,7 +1480,8 @@
                 "owner": "zxkane",
                 "repo": "aws-skills",
                 "stars": 354
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1360,8 +1495,9 @@
                 "last_commit": "2026-04-17T20:40:54Z",
                 "owner": "AlmogBaku",
                 "repo": "debug-skill",
-                "stars": 315
-              }
+                "stars": 316
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1375,8 +1511,9 @@
                 "last_commit": "2026-08-24T18:30:47Z",
                 "owner": "ohad6k",
                 "repo": "emulo",
-                "stars": 275
-              }
+                "stars": 276
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1390,8 +1527,9 @@
                 "last_commit": "2026-08-19T15:10:08Z",
                 "owner": "drogers0",
                 "repo": "gh-image",
-                "stars": 245
-              }
+                "stars": 251
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1406,7 +1544,8 @@
                 "owner": "scarletkc",
                 "repo": "vexor",
                 "stars": 239
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1420,8 +1559,9 @@
                 "last_commit": "2026-07-26T12:08:25Z",
                 "owner": "provencher",
                 "repo": "codex-skills",
-                "stars": 236
-              }
+                "stars": 237
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1436,7 +1576,8 @@
                 "owner": "taisly",
                 "repo": "agent",
                 "stars": 232
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1450,8 +1591,9 @@
                 "last_commit": "2025-10-16T19:39:14Z",
                 "owner": "jthack",
                 "repo": "ffuf_claude_skill",
-                "stars": 209
-              }
+                "stars": 210
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1466,7 +1608,8 @@
                 "owner": "gokapso",
                 "repo": "agent-skills",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1477,11 +1620,12 @@
                 "archived": false,
                 "id": 1135473716,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:09:43Z",
+                "last_commit": "2026-08-28T13:36:57Z",
                 "owner": "kubestellar",
                 "repo": "console",
-                "stars": 128
-              }
+                "stars": 129
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1496,7 +1640,8 @@
                 "owner": "luoyuctl",
                 "repo": "agenttrace",
                 "stars": 123
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1511,7 +1656,8 @@
                 "owner": "wrsmith108",
                 "repo": "linear-claude-skill",
                 "stars": 121
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1525,8 +1671,9 @@
                 "last_commit": "2026-08-21T03:33:44Z",
                 "owner": "MohamedAbdallah-14",
                 "repo": "unslop",
-                "stars": 117
-              }
+                "stars": 119
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1541,7 +1688,8 @@
                 "owner": "JunsW",
                 "repo": "feature-track",
                 "stars": 107
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1552,11 +1700,12 @@
                 "archived": false,
                 "id": 1220652910,
                 "language": "Shell",
-                "last_commit": "2026-08-25T06:19:07Z",
+                "last_commit": "2026-08-28T05:51:17Z",
                 "owner": "Ducksss",
                 "repo": "codex-profiles",
-                "stars": 105
-              }
+                "stars": 106
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1571,7 +1720,8 @@
                 "owner": "Necmttn",
                 "repo": "ax",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1586,7 +1736,8 @@
                 "owner": "njerschow",
                 "repo": "textme",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1601,7 +1752,8 @@
                 "owner": "monte-carlo-data",
                 "repo": "mc-agent-toolkit",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1616,7 +1768,8 @@
                 "owner": "jonathimer",
                 "repo": "devmarketing-skills",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1630,8 +1783,9 @@
                 "last_commit": "2026-08-24T10:56:01Z",
                 "owner": "ndesv21",
                 "repo": "socialclaw",
-                "stars": 83
-              }
+                "stars": 82
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1642,11 +1796,12 @@
                 "archived": false,
                 "id": 1315919904,
                 "language": "Python",
-                "last_commit": "2026-08-23T07:32:38Z",
+                "last_commit": "2026-08-27T19:02:09Z",
                 "owner": "sandbaseai",
                 "repo": "sandbase-skills",
-                "stars": 65
-              }
+                "stars": 72
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1661,7 +1816,8 @@
                 "owner": "Hanyuyuan6",
                 "repo": "remote-gpu-trainer",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1675,8 +1831,9 @@
                 "last_commit": "2026-04-13T03:13:40Z",
                 "owner": "MetcalfSolutions",
                 "repo": "Satori",
-                "stars": 58
-              }
+                "stars": 59
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1691,7 +1848,8 @@
                 "owner": "shmlkv",
                 "repo": "dna-claude-analysis",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1706,7 +1864,8 @@
                 "owner": "SHADOWPR0",
                 "repo": "beautiful_prose",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1721,7 +1880,24 @@
                 "owner": "robzolkos",
                 "repo": "skill-rails-upgrade",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
+            },
+            {
+              "node_type": "item",
+              "title": "amElnagdy/review-skills",
+              "description": "Source for the and skills - two-model debate review of PRs/MRs with inline comments and automated babysitting of review rounds for GitHub, GitLab and Azure DevOps (MIT, docs-only — runtime not bundled).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1342150210,
+                "language": "JavaScript",
+                "last_commit": "2026-08-26T08:37:47Z",
+                "owner": "amElnagdy",
+                "repo": "review-skills",
+                "stars": 52
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1736,7 +1912,8 @@
                 "owner": "rafsilva85",
                 "repo": "credit-optimizer-v5",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1751,7 +1928,8 @@
                 "owner": "Silverov",
                 "repo": "yandex-direct-skill",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1766,7 +1944,8 @@
                 "owner": "talivia-group",
                 "repo": "agent",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1780,8 +1959,9 @@
                 "last_commit": "2026-08-22T08:07:53Z",
                 "owner": "xiehuan123",
                 "repo": "dsh-deepread",
-                "stars": 40
-              }
+                "stars": 41
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1796,7 +1976,8 @@
                 "owner": "sudosubin",
                 "repo": "gh-attach",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1807,11 +1988,12 @@
                 "archived": false,
                 "id": 1205564021,
                 "language": "Python",
-                "last_commit": "2026-08-27T04:21:22Z",
+                "last_commit": "2026-08-28T05:22:08Z",
                 "owner": "mycelium-hq",
                 "repo": "ai-brain-starter",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1826,7 +2008,8 @@
                 "owner": "umutbozdag",
                 "repo": "agent-skills-manager",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1841,7 +2024,8 @@
                 "owner": "frmoretto",
                 "repo": "clarity-gate",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1856,7 +2040,8 @@
                 "owner": "Suraj1235",
                 "repo": "open-dynamic-workflows",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1871,7 +2056,8 @@
                 "owner": "webzler",
                 "repo": "agentMemory",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1886,7 +2072,8 @@
                 "owner": "wrsmith108",
                 "repo": "varlock-claude-skill",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1901,7 +2088,8 @@
                 "owner": "sstklen",
                 "repo": "infinite-gratitude",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1916,7 +2104,8 @@
                 "owner": "NotMyself",
                 "repo": "claude-win11-speckit-update-skill",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1931,7 +2120,8 @@
                 "owner": "yikuansun",
                 "repo": "PhotopeaAPI",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1946,7 +2136,8 @@
                 "owner": "sendblue-api",
                 "repo": "sendblue-cli",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1961,7 +2152,8 @@
                 "owner": "iradoweck",
                 "repo": "antigravity-awesome-skills",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1976,7 +2168,8 @@
                 "owner": "zircote",
                 "repo": ".claude",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -1987,11 +2180,12 @@
                 "archived": false,
                 "id": 1296476248,
                 "language": "Python",
-                "last_commit": "2026-08-26T16:37:49Z",
+                "last_commit": "2026-08-27T16:25:45Z",
                 "owner": "TheaDust",
                 "repo": "lore",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2006,7 +2200,24 @@
                 "owner": "hyhmrright",
                 "repo": "logic-lens",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
+            },
+            {
+              "node_type": "item",
+              "title": "rainmanjam/poka-yoke",
+              "description": "Source for the skill - software mistake-proofing through control, warning, detection, and source-inspection guardrails (MIT).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1341125867,
+                "language": "Python",
+                "last_commit": "2026-08-26T01:13:12Z",
+                "owner": "rainmanjam",
+                "repo": "poka-yoke",
+                "stars": 20
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2021,22 +2232,24 @@
                 "owner": "wede-wx",
                 "repo": "atlas",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
-              "title": "rainmanjam/poka-yoke",
-              "description": "Source for the skill - software mistake-proofing through control, warning, detection, and source-inspection guardrails (MIT).",
+              "title": "mbenhard/unship",
+              "description": "Source for the skill - local workflow for comparing AI-generated UI variants in a real app, then keeping one option and cleaning up temporary alternatives (MIT).",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "id": 1341125867,
-                "language": "Python",
-                "last_commit": "2026-08-26T01:13:12Z",
-                "owner": "rainmanjam",
-                "repo": "poka-yoke",
+                "id": 1259512035,
+                "language": "JavaScript",
+                "last_commit": "2026-06-07T18:23:37Z",
+                "owner": "mbenhard",
+                "repo": "unship",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2051,7 +2264,8 @@
                 "owner": "uberskillsdev",
                 "repo": "uberSKILLS",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2066,22 +2280,8 @@
                 "owner": "anthony-chaudhary",
                 "repo": "dos-kernel",
                 "stars": 19
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "mbenhard/unship",
-              "description": "Source for the skill - local workflow for comparing AI-generated UI variants in a real app, then keeping one option and cleaning up temporary alternatives (MIT).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1259512035,
-                "language": "JavaScript",
-                "last_commit": "2026-06-07T18:23:37Z",
-                "owner": "mbenhard",
-                "repo": "unship",
-                "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2095,8 +2295,9 @@
                 "last_commit": "2026-08-07T00:05:59Z",
                 "owner": "xi-kari",
                 "repo": "crossframe-skill",
-                "stars": 17
-              }
+                "stars": 18
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2111,7 +2312,8 @@
                 "owner": "SeanZoR",
                 "repo": "claude-speed-reader",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2126,7 +2328,8 @@
                 "owner": "ejentum",
                 "repo": "ejentum-mcp",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2141,7 +2344,8 @@
                 "owner": "amartelr",
                 "repo": "antigravity-workspace-manager",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2156,7 +2360,8 @@
                 "owner": "Intelligent-Internet",
                 "repo": "II-Commons-Skills",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2167,11 +2372,12 @@
                 "archived": false,
                 "id": 1289444149,
                 "language": "Rust",
-                "last_commit": "2026-08-26T23:00:54Z",
+                "last_commit": "2026-08-28T06:07:49Z",
                 "owner": "TerminallyLazy",
                 "repo": "Tree-Ring-Memory",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2186,7 +2392,8 @@
                 "owner": "uxuiprinciples",
                 "repo": "agent-skills",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2201,7 +2408,8 @@
                 "owner": "nedcodes-ok",
                 "repo": "rule-porter",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2216,7 +2424,8 @@
                 "owner": "jackjin1997",
                 "repo": "ClawForge",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2231,7 +2440,8 @@
                 "owner": "abhinaykrupa",
                 "repo": "cowork-to-code-bridge",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2246,7 +2456,8 @@
                 "owner": "whatiskadudoing",
                 "repo": "fp-ts-skills",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2261,7 +2472,8 @@
                 "owner": "fullstackcrew-alpha",
                 "repo": "privacy-mask",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2276,7 +2488,8 @@
                 "owner": "stareezy-1",
                 "repo": "frontend-architecture-skill",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2291,7 +2504,8 @@
                 "owner": "timwukp",
                 "repo": "agent-skills-best-practice",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2306,7 +2520,8 @@
                 "owner": "connerkward",
                 "repo": "mcp-apple-notes",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2321,7 +2536,8 @@
                 "owner": "connerkward",
                 "repo": "screenstudio-alt-skill",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2336,7 +2552,8 @@
                 "owner": "Heyneuron",
                 "repo": "flowhunt-skill",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2351,7 +2568,8 @@
                 "owner": "AgentPhone-AI",
                 "repo": "skills",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2366,7 +2584,8 @@
                 "owner": "riffkit",
                 "repo": "skill",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2381,7 +2600,8 @@
                 "owner": "cruisekkk",
                 "repo": "time-ledger",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2396,7 +2616,8 @@
                 "owner": "aomi-labs",
                 "repo": "skills",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2411,7 +2632,8 @@
                 "owner": "CyberZenithX",
                 "repo": "Rich-Elicitation-Skill",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2426,7 +2648,8 @@
                 "owner": "SHADOWPR0",
                 "repo": "security-bluebook-builder",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2441,7 +2664,8 @@
                 "owner": "maxbaluev",
                 "repo": "accreted-intelligence",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2456,7 +2680,8 @@
                 "owner": "sparklingneuronics",
                 "repo": "sparkling-skills",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2471,7 +2696,8 @@
                 "owner": "ZeroPointRepo",
                 "repo": "zillow-skills",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2486,7 +2712,8 @@
                 "owner": "atdy",
                 "repo": "maoxuan-product-agent",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2501,7 +2728,8 @@
                 "owner": "cruisekkk",
                 "repo": "trading-ledger",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2516,7 +2744,24 @@
                 "owner": "bin1874",
                 "repo": "before-you-build-skill",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
+            },
+            {
+              "node_type": "item",
+              "title": "connerkward/ckw-design-skill",
+              "description": "Source for the skill - frontend design direction, design-system guidance, visual philosophy, spatial checks, usability review, and production UI polish workflows (MIT).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1266604991,
+                "language": "JavaScript",
+                "last_commit": "2026-06-17T05:33:12Z",
+                "owner": "connerkward",
+                "repo": "ckw-design-skill",
+                "stars": 5
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2531,7 +2776,8 @@
                 "owner": "qinghui316",
                 "repo": "ecl-harness-engineer",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2546,7 +2792,24 @@
                 "owner": "commitshow",
                 "repo": "production-audit",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
+            },
+            {
+              "node_type": "item",
+              "title": "vipin-si/article-illustrations",
+              "description": "Source for the skill - Grav-style hand-drawn article illustrations with whiteboard sketches, sparse annotations, and visual metaphor QA guidance (MIT).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1261556699,
+                "language": null,
+                "last_commit": "2026-06-23T00:16:22Z",
+                "owner": "vssinghh",
+                "repo": "article-illustrations",
+                "stars": 5
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2561,7 +2824,8 @@
                 "owner": "sarveshtalele",
                 "repo": "linkedin-content-skill",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2576,7 +2840,8 @@
                 "owner": "ssojet",
                 "repo": "skills",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2591,7 +2856,8 @@
                 "owner": "ymxlx",
                 "repo": "polis-protocol",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2606,22 +2872,8 @@
                 "owner": "flyingsquirrel0419",
                 "repo": "squirrel-skill",
                 "stars": 5
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "connerkward/ckw-design-skill",
-              "description": "Source for the skill - frontend design direction, design-system guidance, visual philosophy, spatial checks, usability review, and production UI polish workflows (MIT).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1266604991,
-                "language": "JavaScript",
-                "last_commit": "2026-06-17T05:33:12Z",
-                "owner": "connerkward",
-                "repo": "ckw-design-skill",
-                "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2636,22 +2888,8 @@
                 "owner": "JularDepick",
                 "repo": "user-thoughts.SKILL",
                 "stars": 4
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "vipin-si/article-illustrations",
-              "description": "Source for the skill - Grav-style hand-drawn article illustrations with whiteboard sketches, sparse annotations, and visual metaphor QA guidance (MIT).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1261556699,
-                "language": null,
-                "last_commit": "2026-06-23T00:16:22Z",
-                "owner": "vssinghh",
-                "repo": "article-illustrations",
-                "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2666,7 +2904,8 @@
                 "owner": "lewiswigmore",
                 "repo": "agent-skills",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2681,7 +2920,8 @@
                 "owner": "jianyangzhai",
                 "repo": "idea-darwin",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2696,7 +2936,24 @@
                 "owner": "Wolfe-Jam",
                 "repo": "faf-skills",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
+            },
+            {
+              "node_type": "item",
+              "title": "UrRhb/agentflow",
+              "description": "Kanban-driven AI development pipeline for orchestrating multi-worker Claude Code workflows with deterministic quality gates, adversarial review, cost tracking, and crash-proof execution (MIT).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1196711576,
+                "language": "Shell",
+                "last_commit": "2026-04-01T20:50:19Z",
+                "owner": "UrRhb",
+                "repo": "agentflow",
+                "stars": 4
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2711,7 +2968,8 @@
                 "owner": "AntonioCardenas",
                 "repo": "generate-nanobanana",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2726,7 +2984,8 @@
                 "owner": "Phelan164",
                 "repo": "codex-howto",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2741,7 +3000,8 @@
                 "owner": "demo112",
                 "repo": "yunqu-ai-skills",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2756,7 +3016,8 @@
                 "owner": "2slides",
                 "repo": "slides-generation-2slides-skills",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2771,7 +3032,8 @@
                 "owner": "Slashworks-biz",
                 "repo": "idea-os",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2786,7 +3048,8 @@
                 "owner": "Wittlesus",
                 "repo": "cursorrules-pro",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2801,7 +3064,8 @@
                 "owner": "mishanefedov",
                 "repo": "skill-issue",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2816,7 +3080,8 @@
                 "owner": "christopherlhammer11-ai",
                 "repo": "tool-use-guardian",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2831,22 +3096,8 @@
                 "owner": "christopherlhammer11-ai",
                 "repo": "recallmax",
                 "stars": 3
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "UrRhb/agentflow",
-              "description": "Kanban-driven AI development pipeline for orchestrating multi-worker Claude Code workflows with deterministic quality gates, adversarial review, cost tracking, and crash-proof execution (MIT).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1196711576,
-                "language": "Shell",
-                "last_commit": "2026-04-01T20:50:19Z",
-                "owner": "UrRhb",
-                "repo": "agentflow",
-                "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2861,7 +3112,24 @@
                 "owner": "CodeShuX",
                 "repo": "tokenwise",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
+            },
+            {
+              "node_type": "item",
+              "title": "JanYork/using-lwc",
+              "description": "Source for the skill - durable, source-grounded project memory with independently verified document and code graphs (Apache-2.0).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1333312746,
+                "language": "Shell",
+                "last_commit": "2026-08-14T01:21:30Z",
+                "owner": "JanYork",
+                "repo": "using-lwc",
+                "stars": 2
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2872,11 +3140,12 @@
                 "archived": false,
                 "id": 1287733195,
                 "language": "Python",
-                "last_commit": "2026-08-27T09:47:26Z",
+                "last_commit": "2026-08-28T09:54:32Z",
                 "owner": "supernovae-st",
                 "repo": "nika-plugins",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2891,7 +3160,8 @@
                 "owner": "chaunsin",
                 "repo": "agent-skills",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2906,7 +3176,8 @@
                 "owner": "takeaseatventure",
                 "repo": "devops-skills",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2921,7 +3192,8 @@
                 "owner": "Genefold",
                 "repo": "arrowspace-skills",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2936,7 +3208,8 @@
                 "owner": "connerkward",
                 "repo": "macos-screen-recorder-system-audio",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2951,7 +3224,8 @@
                 "owner": "connerkward",
                 "repo": "web-media-getter-skill",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2966,7 +3240,8 @@
                 "owner": "Antheurus",
                 "repo": "anywrite",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2981,7 +3256,8 @@
                 "owner": "mturac",
                 "repo": "recsys-pipeline-architect",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -2996,7 +3272,8 @@
                 "owner": "tsilverberg",
                 "repo": "webapp-uat",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3011,7 +3288,8 @@
                 "owner": "fruitwyatt",
                 "repo": "puzzle-activity-planner",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3026,7 +3304,8 @@
                 "owner": "Sharrmavishal",
                 "repo": "operating-kit",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3041,7 +3320,8 @@
                 "owner": "Ghost011118",
                 "repo": "project-state-governor",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3056,22 +3336,8 @@
                 "owner": "5dive-ai",
                 "repo": "skills",
                 "stars": 1
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "JanYork/using-lwc",
-              "description": "Source for the skill - durable, source-grounded project memory with independently verified document and code graphs (Apache-2.0).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1333312746,
-                "language": "Shell",
-                "last_commit": "2026-08-14T01:21:30Z",
-                "owner": "JanYork",
-                "repo": "using-lwc",
-                "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3086,7 +3352,8 @@
                 "owner": "saudademjj",
                 "repo": "luopan",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3101,7 +3368,8 @@
                 "owner": "OJPalenzuela",
                 "repo": "agents-generator",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3116,7 +3384,8 @@
                 "owner": "agentbody",
                 "repo": "skills",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3131,7 +3400,8 @@
                 "owner": "0xsarwagya",
                 "repo": "ontoly",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3146,7 +3416,8 @@
                 "owner": "hafiz-actyte",
                 "repo": "idea-autopsy",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3161,7 +3432,8 @@
                 "owner": "takeaseatventure",
                 "repo": "sql-sentinel",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3176,7 +3448,8 @@
                 "owner": "connerkward",
                 "repo": "deterministic-design-skill",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3191,7 +3464,8 @@
                 "owner": "connerkward",
                 "repo": "lookdev-auto-skill",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3206,7 +3480,8 @@
                 "owner": "connerkward",
                 "repo": "lookdev-studio-skill",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3221,7 +3496,8 @@
                 "owner": "mskadu",
                 "repo": "opencode-agent-skills",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3236,7 +3512,8 @@
                 "owner": "mycelos-ai",
                 "repo": "bumblebee-skill",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3251,7 +3528,8 @@
                 "owner": "tellmefrankie",
                 "repo": "news-engine",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3266,7 +3544,8 @@
                 "owner": "kench001",
                 "repo": "antigravity-awesome-skills",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3281,7 +3560,8 @@
                 "owner": "CodeShuX",
                 "repo": "mockhunter",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3296,7 +3576,8 @@
                 "owner": "274326424",
                 "repo": "video-content-extractor",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3311,7 +3592,8 @@
                 "owner": "metrox-eth",
                 "repo": "quit-sponsor",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3326,7 +3608,8 @@
                 "owner": "ch040602",
                 "repo": "mdpr-skill",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3341,7 +3624,8 @@
                 "owner": "nickdesi",
                 "repo": "ZipAI",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3356,7 +3640,8 @@
                 "owner": "MojoAuth",
                 "repo": "skills",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3371,7 +3656,8 @@
                 "owner": "xwmxcz",
                 "repo": "papers-skill",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3386,7 +3672,24 @@
                 "owner": "kimtth",
                 "repo": "agent-pptify-kit",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
+            },
+            {
+              "node_type": "item",
+              "title": "263311487-ux/falsify",
+              "description": "Source for the skill - a scientific reasoning protocol for explicit hypotheses, adversarial checks, evidence grading, and calibrated conclusions (MIT).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1347591982,
+                "language": "HTML",
+                "last_commit": "2026-08-28T12:41:16Z",
+                "owner": "263311487-ux",
+                "repo": "falsify",
+                "stars": 0
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3401,7 +3704,8 @@
                 "owner": "alexprivalov",
                 "repo": "boost-asio-skill",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3416,7 +3720,8 @@
                 "owner": "maleksaadi0109",
                 "repo": "hyprfedora",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3431,7 +3736,8 @@
                 "owner": "merc1305",
                 "repo": "findMate",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3446,7 +3752,8 @@
                 "owner": "kotobuki09",
                 "repo": "instructree",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3461,7 +3768,8 @@
                 "owner": "Antheurus",
                 "repo": "sshepherd",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3476,7 +3784,8 @@
                 "owner": "zenlee123",
                 "repo": "routerbase-agent-skills",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3491,7 +3800,8 @@
                 "owner": "thecsdoctor",
                 "repo": "brendangregg-use-tsa-skill",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3506,7 +3816,8 @@
                 "owner": "alfredtech2026",
                 "repo": "shopify-app-review-brief",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             }
           ],
           "description": null,
@@ -3530,11 +3841,12 @@
                 "archived": false,
                 "id": 574523116,
                 "language": "HTML",
-                "last_commit": "2026-08-27T10:04:29Z",
+                "last_commit": "2026-08-28T05:47:17Z",
                 "owner": "f",
                 "repo": "prompts.chat",
-                "stars": 168051
-              }
+                "stars": 168114
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             },
             {
               "node_type": "item",
@@ -3549,7 +3861,8 @@
                 "owner": "leonardomso",
                 "repo": "33-js-concepts",
                 "stars": 66514
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             }
           ],
           "description": null,
@@ -3571,7 +3884,8 @@
                 "owner": "tiny-agent-company",
                 "repo": "agent-card-skill",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
             }
           ],
           "description": null,
@@ -3583,17 +3897,17 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:17:24.226Z",
+    "last_updated": "2026-08-28T13:43:04.741Z",
     "original_repository_info": {
       "archived": false,
       "id": 1134426800,
       "language": "Python",
-      "last_commit": "2026-08-27T04:51:10Z",
+      "last_commit": "2026-08-28T08:51:32Z",
       "owner": "sickn33",
       "repo": "agentic-awesome-skills",
-      "stars": 45520
+      "stars": 45584
     },
-    "original_repository_sha": "5cf4dfeb13ea966daa1e117897689cd7991e3f44",
+    "original_repository_sha": "03623634e9c9b7f7f2e75f548c1a3e53362a10fc",
     "enhanced_repository": "enhansome/agentic-enhansome-skills",
     "enhanced_repository_description": null,
     "title": "AAS Core — Agentic Awesome Skills with stars"
