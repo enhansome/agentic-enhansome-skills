@@ -8,7 +8,7 @@
 
 Codex or Claude inspects your project and chooses exact skills from the complete local AAS catalog. AAS Core does not rank or recommend them: its read-only `compose_stack` tool validates the agent-owned selection in memory, and a client or the `aas` CLI can persist it as `aas-stack.json` and produce an immutable plan before any target change.
 
-**[Read the AAS Core preview guide →](https://github.com/sickn33/agentic-awesome-skills/blob/v16.3.0/docs/users/aas-core.md) ⭐ 45,611 | 🐛 1 | 🌐 Python | 📅 2026-08-28**
+**[Read the AAS Core preview guide →](https://github.com/sickn33/agentic-awesome-skills/blob/v16.3.0/docs/users/aas-core.md) ⭐ 45,620 | 🐛 2 | 🌐 Python | 📅 2026-08-28**
 
 ```text
 Project
@@ -26,20 +26,20 @@ The reusable `SKILL.md` playbooks, specialized plugins, bundles, workflows, and 
 
 This is an independent community project. It is not affiliated with, sponsored by, endorsed by, or authorized by Google. Google, Antigravity, Gemini, and related product names are referenced only to describe compatibility and install targets. The GitHub repository is canonical; the hosted catalog and browser-local Workbench are companion discovery and review surfaces, not a hosted control plane.
 
-[![GitHub stars](https://img.shields.io/badge/⭐%2046%2C000%2B%20Stars-gold?style=for-the-badge)](https://github.com/sickn33/agentic-awesome-skills/stargazers) ⭐ 45,611 | 🐛 1 | 🌐 Python | 📅 2026-08-28
+[![GitHub stars](https://img.shields.io/badge/⭐%2046%2C000%2B%20Stars-gold?style=for-the-badge)](https://github.com/sickn33/agentic-awesome-skills/stargazers) ⭐ 45,620 | 🐛 2 | 🌐 Python | 📅 2026-08-28
 [![Follow @AASkills\_ on X](https://img.shields.io/badge/Follow-%40AASkills__-black?style=for-the-badge\&logo=x)](https://x.com/AASkills_)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Anthropic-purple)](https://claude.ai)
 [![Cursor](https://img.shields.io/badge/Cursor-AI%20IDE-orange)](https://cursor.sh)
-[![Codex CLI](https://img.shields.io/badge/Codex%20CLI-OpenAI-green)](https://github.com/openai/codex) ⭐ 119,609 | 🐛 14,298 | 🌐 Rust | 📅 2026-08-29
+[![Codex CLI](https://img.shields.io/badge/Codex%20CLI-OpenAI-green)](https://github.com/openai/codex) ⭐ 119,662 | 🐛 14,329 | 🌐 Rust | 📅 2026-08-29
 [![Autohand Code](https://img.shields.io/badge/Autohand%20Code-CLI-blue)](https://github.com/autohandai/code-cli) ⭐ 181 | 🐛 114 | 🌐 TypeScript | 📅 2026-08-27
-[![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-Google-blue)](https://github.com/google-gemini/gemini-cli) ⭐ 106,735 | 🐛 867 | 🌐 TypeScript | 📅 2026-08-29
-[![Latest Release](https://img.shields.io/github/v/release/sickn33/agentic-awesome-skills?display_name=tag\&style=for-the-badge)](https://github.com/sickn33/agentic-awesome-skills/releases/latest) ⭐ 45,611 | 🐛 1 | 🌐 Python | 📅 2026-08-28
+[![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-Google-blue)](https://github.com/google-gemini/gemini-cli) ⭐ 106,737 | 🐛 869 | 🌐 TypeScript | 📅 2026-08-29
+[![Latest Release](https://img.shields.io/github/v/release/sickn33/agentic-awesome-skills?display_name=tag\&style=for-the-badge)](https://github.com/sickn33/agentic-awesome-skills/releases/latest) ⭐ 45,620 | 🐛 2 | 🌐 Python | 📅 2026-08-28
 [![Direct skill distribution](https://img.shields.io/badge/Direct%20skills-npx%20agentic--awesome--skills-black?style=for-the-badge\&logo=npm)](#installation)
 [![Kiro](https://img.shields.io/badge/Kiro-AWS-orange?style=for-the-badge)](https://kiro.dev)
 [![Copilot](https://img.shields.io/badge/Copilot-GitHub-lightblue?style=for-the-badge)](https://github.com/features/copilot)
 [![OpenCode](https://img.shields.io/badge/OpenCode-CLI-gray?style=for-the-badge)](https://github.com/opencode-ai/opencode) ⚠️ Archived
-[![Antigravity](https://img.shields.io/badge/Antigravity-AI%20IDE-red?style=for-the-badge)](https://github.com/sickn33/agentic-awesome-skills) ⭐ 45,611 | 🐛 1 | 🌐 Python | 📅 2026-08-28
+[![Antigravity](https://img.shields.io/badge/Antigravity-AI%20IDE-red?style=for-the-badge)](https://github.com/sickn33/agentic-awesome-skills) ⭐ 45,620 | 🐛 2 | 🌐 Python | 📅 2026-08-28
 
 ## AAS Core: Agent-First Preview
 
@@ -68,7 +68,7 @@ AAS Core gives the repository one product model:
 | Apply and recovery                 | Experimental, explicit opt-in, outside the supported safety claim                                                               |
 | Semantic suitability certification | Not provided                                                                                                                    |
 
-Read the [AAS Core guide](https://github.com/sickn33/agentic-awesome-skills/blob/v16.3.0/docs/users/aas-core.md) ⭐ 45,611 | 🐛 1 | 🌐 Python | 📅 2026-08-28 for the exact trust boundaries, current preview status, Codex/Claude setup model, and CLI lifecycle.
+Read the [AAS Core guide](https://github.com/sickn33/agentic-awesome-skills/blob/v16.3.0/docs/users/aas-core.md) ⭐ 45,620 | 🐛 2 | 🌐 Python | 📅 2026-08-28 for the exact trust boundaries, current preview status, Codex/Claude setup model, and CLI lifecycle.
 
 ## Why This Repo
 
@@ -108,7 +108,7 @@ Direct file search can find candidate prose, but it leaves the result in the con
 
 ## Installation
 
-For Codex and Claude, start with the [AAS Core guide](https://github.com/sickn33/agentic-awesome-skills/blob/v16.3.0/docs/users/aas-core.md) ⭐ 45,611 | 🐛 1 | 🌐 Python | 📅 2026-08-28: configure the local MCP, ask the agent to inspect the project and choose exact IDs from the full catalog, review the proposed `aas-stack.json`, then run CLI validation and planning. The MCP and validation are read-only. Planning writes only the requested plan artifact; it does not materialize skill payloads or AAS managed state in the target.
+For Codex and Claude, start with the [AAS Core guide](https://github.com/sickn33/agentic-awesome-skills/blob/v16.3.0/docs/users/aas-core.md) ⭐ 45,620 | 🐛 2 | 🌐 Python | 📅 2026-08-28: configure the local MCP, ask the agent to inspect the project and choose exact IDs from the full catalog, review the proposed `aas-stack.json`, then run CLI validation and planning. The MCP and validation are read-only. Planning writes only the requested plan artifact; it does not materialize skill payloads or AAS managed state in the target.
 
 Use direct installation when your host does not yet have a native AAS Core adapter, when you already know the exact skill IDs, or when you deliberately prefer manual selection:
 
@@ -262,7 +262,7 @@ The supported path covers complete local catalog search and inspection, agent-ow
 
 ### How do I install it?
 
-For AAS Core, follow the [preview guide](https://github.com/sickn33/agentic-awesome-skills/blob/v16.3.0/docs/users/aas-core.md) ⭐ 45,611 | 🐛 1 | 🌐 Python | 📅 2026-08-28 and use only a package release whose notes explicitly state that it includes Core. Release 14.6.0 predates Core; Core-capable releases begin with the 15.x line.
+For AAS Core, follow the [preview guide](https://github.com/sickn33/agentic-awesome-skills/blob/v16.3.0/docs/users/aas-core.md) ⭐ 45,620 | 🐛 2 | 🌐 Python | 📅 2026-08-28 and use only a package release whose notes explicitly state that it includes Core. Release 14.6.0 predates Core; Core-capable releases begin with the 15.x line.
 
 For direct skill distribution, use a tool-specific flag such as `--codex`,
 `--cursor`, `--gemini`, or `--claude` to place skills in the directory your
@@ -376,7 +376,7 @@ Use the root repo as a landing page, then jump into the deeper surface that matc
 
 Keep the root README short; use the dedicated docs for recovery and platform-specific guidance.
 
-* For Core setup, trust boundaries, stack manifests, and preview status, use the [AAS Core guide](https://github.com/sickn33/agentic-awesome-skills/blob/v16.3.0/docs/users/aas-core.md) ⭐ 45,611 | 🐛 1 | 🌐 Python | 📅 2026-08-28.
+* For Core setup, trust boundaries, stack manifests, and preview status, use the [AAS Core guide](https://github.com/sickn33/agentic-awesome-skills/blob/v16.3.0/docs/users/aas-core.md) ⭐ 45,620 | 🐛 2 | 🌐 Python | 📅 2026-08-28.
 * If you are confused after installation, start with the [Usage Guide](docs/users/usage.md).
 * On native Windows, `AAS_ADAPTER_WINDOWS_ACL_FAILED` refers to the configuration path checked with PowerShell `Get-Acl`, not the cache and not `icacls`; do not approve until preview returns an approval digest.
 * If you integrate agentic-awesome-skills into a host, read the discovery contract first: [Stable Skills Manifest v1](docs/users/discovery-manifest.md).
@@ -388,7 +388,7 @@ Keep the root README short; use the dedicated docs for recovery and platform-spe
 
 ## Stable Skills Manifest v1
 
-This is the stable **direct-host discovery manifest** for integrations that load individual `SKILL.md` files. It is not `aas-stack.json`, the verified AAS Core catalog, or the Core composition contract. Core users should start with the [AAS Core guide](https://github.com/sickn33/agentic-awesome-skills/blob/v16.3.0/docs/users/aas-core.md) ⭐ 45,611 | 🐛 1 | 🌐 Python | 📅 2026-08-28; custom host integrations can continue using the manifest below.
+This is the stable **direct-host discovery manifest** for integrations that load individual `SKILL.md` files. It is not `aas-stack.json`, the verified AAS Core catalog, or the Core composition contract. Core users should start with the [AAS Core guide](https://github.com/sickn33/agentic-awesome-skills/blob/v16.3.0/docs/users/aas-core.md) ⭐ 45,620 | 🐛 2 | 🌐 Python | 📅 2026-08-28; custom host integrations can continue using the manifest below.
 
 Host integrations should use:
 
@@ -424,8 +424,8 @@ Support is optional. The project stays free and open-source for everyone.
 
 ## Community
 
-* [Discussions](https://github.com/sickn33/agentic-awesome-skills/discussions) ⭐ 45,611 | 🐛 1 | 🌐 Python | 📅 2026-08-28 for questions, ideas, showcase posts, and community feedback.
-* [Issues](https://github.com/sickn33/agentic-awesome-skills/issues) ⭐ 45,611 | 🐛 1 | 🌐 Python | 📅 2026-08-28 for reproducible bugs and concrete, actionable improvement requests.
+* [Discussions](https://github.com/sickn33/agentic-awesome-skills/discussions) ⭐ 45,620 | 🐛 2 | 🌐 Python | 📅 2026-08-28 for questions, ideas, showcase posts, and community feedback.
+* [Issues](https://github.com/sickn33/agentic-awesome-skills/issues) ⭐ 45,620 | 🐛 2 | 🌐 Python | 📅 2026-08-28 for reproducible bugs and concrete, actionable improvement requests.
 * [Follow @AASkills\_ on X](https://x.com/AASkills_) for daily skills, practical workflows, and example prompts from the repo.
 * [Follow @sickn33 on X](https://x.com/sickn33) for project updates and releases.
 * [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) for community expectations and moderation standards.
@@ -450,39 +450,39 @@ Key source families include:
 
 ### Official Sources
 
-* **[anthropics/skills](https://github.com/anthropics/skills) ⭐ 172,313 | 🐛 1,186 | 🌐 Python | 📅 2026-08-21**: Official Anthropic skills repository - Document manipulation (DOCX, PDF, PPTX, XLSX), Brand Guidelines, Internal Communications.
-* **[anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) ⭐ 52,249 | 🐛 318 | 🌐 Jupyter Notebook | 📅 2026-08-28**: Official notebooks and recipes for building with Claude.
-* **[vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) ⭐ 30,596 | 🐛 173 | 🌐 JavaScript | 📅 2026-08-28**: Vercel Labs official skills - React Best Practices, Web Design Guidelines.
-* **[openai/skills](https://github.com/openai/skills) ⭐ 25,256 | 🐛 289 | 🌐 Python | 📅 2026-07-14**: OpenAI Codex skills catalog - Agent skills, Skill Creator, Concise Planning.
-* **[Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) ⭐ 22,876 | 🐛 222 | 🌐 Python | 📅 2026-08-29**: Official Skyvern browser automation skill — AI-powered browser control using Vision LLMs and computer vision for navigating sites, filling forms, and extracting structured data.
-* **[huggingface/skills](https://github.com/huggingface/skills) ⭐ 10,981 | 🐛 44 | 🌐 Python | 📅 2026-08-27**: Official Hugging Face skills - Models, Spaces, datasets, inference, and broader Hugging Face ecosystem workflows.
-* **[browser-act/skills](https://github.com/browser-act/skills) ⭐ 5,516 | 🐛 9 | 🌐 Python | 📅 2026-08-24**: Official BrowserAct skills - authenticated browser automation, JavaScript-rendered extraction, screenshots, parallel session isolation, verification handling, and human handoff (MIT).
-* **[remotion-dev/skills](https://github.com/remotion-dev/skills) ⭐ 4,427 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-26**: Official Remotion skills - Video creation in React with 28 modular rules.
-* **[google-gemini/gemini-skills](https://github.com/google-gemini/gemini-skills) ⭐ 3,950 | 🐛 9 | 🌐 Python | 📅 2026-08-27**: Official Gemini skills - Gemini API, SDK and model interactions.
+* **[anthropics/skills](https://github.com/anthropics/skills) ⭐ 172,354 | 🐛 1,187 | 🌐 Python | 📅 2026-08-21**: Official Anthropic skills repository - Document manipulation (DOCX, PDF, PPTX, XLSX), Brand Guidelines, Internal Communications.
+* **[anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) ⭐ 52,256 | 🐛 318 | 🌐 Jupyter Notebook | 📅 2026-08-28**: Official notebooks and recipes for building with Claude.
+* **[vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) ⭐ 30,601 | 🐛 173 | 🌐 JavaScript | 📅 2026-08-28**: Vercel Labs official skills - React Best Practices, Web Design Guidelines.
+* **[openai/skills](https://github.com/openai/skills) ⭐ 25,261 | 🐛 289 | 🌐 Python | 📅 2026-07-14**: OpenAI Codex skills catalog - Agent skills, Skill Creator, Concise Planning.
+* **[Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) ⭐ 22,875 | 🐛 222 | 🌐 Python | 📅 2026-08-29**: Official Skyvern browser automation skill — AI-powered browser control using Vision LLMs and computer vision for navigating sites, filling forms, and extracting structured data.
+* **[huggingface/skills](https://github.com/huggingface/skills) ⭐ 10,982 | 🐛 44 | 🌐 Python | 📅 2026-08-27**: Official Hugging Face skills - Models, Spaces, datasets, inference, and broader Hugging Face ecosystem workflows.
+* **[browser-act/skills](https://github.com/browser-act/skills) ⭐ 5,517 | 🐛 9 | 🌐 Python | 📅 2026-08-24**: Official BrowserAct skills - authenticated browser automation, JavaScript-rendered extraction, screenshots, parallel session isolation, verification handling, and human handoff (MIT).
+* **[remotion-dev/skills](https://github.com/remotion-dev/skills) ⭐ 4,430 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-26**: Official Remotion skills - Video creation in React with 28 modular rules.
+* **[google-gemini/gemini-skills](https://github.com/google-gemini/gemini-skills) ⭐ 3,951 | 🐛 9 | 🌐 Python | 📅 2026-08-27**: Official Gemini skills - Gemini API, SDK and model interactions.
 * **[browserbase/skills](https://github.com/browserbase/skills) ⭐ 3,702 | 🐛 55 | 🌐 JavaScript | 📅 2026-08-27**: Official Browserbase `competitor-analysis` skill - Browserbase Search API competitor discovery, research lanes, matrices, screenshots, and HTML reports (MIT).
-* **[nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) ⭐ 3,427 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-26**: Official source for the `seo-drift` skill - dated SEO baselines and regression detection across rankings, indexation, metadata, directives, schema, and on-page elements (MIT).
-* **[Forward-Future/loop-library](https://github.com/Forward-Future/loop-library) ⭐ 3,075 | 🐛 4 | 🌐 JavaScript | 📅 2026-07-26**: Official Loop Library skill - find, adapt, and design bounded AI-agent feedback loops with verification, stop rules, guardrails, and handoffs (MIT).
-* **[Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue) ⭐ 2,969 | 🐛 2 | 🌐 Vue | 📅 2026-08-28**: Official Markstream skill for installing streaming Markdown renderers across Vue, React, Svelte, Angular, Nuxt, Next.js, and Vue 2 applications (MIT).
-* **[microsoft/skills](https://github.com/microsoft/skills) ⭐ 2,967 | 🐛 65 | 🌐 TypeScript | 📅 2026-08-28**: Official Microsoft skills - Azure cloud services, Bot Framework, Cognitive Services, and enterprise development patterns across .NET, Python, TypeScript, Go, Rust, and Java.
-* **[supabase/agent-skills](https://github.com/supabase/agent-skills) ⭐ 2,561 | 🐛 370 | 🌐 TypeScript | 📅 2026-08-12**: Supabase official skills - Postgres Best Practices.
-* **[expo/skills](https://github.com/expo/skills) ⭐ 2,474 | 🐛 62 | 🌐 Shell | 📅 2026-08-28**: Official Expo skills - Expo project workflows and Expo Application Services guidance.
+* **[nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) ⭐ 3,427 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-29**: Official source for the `seo-drift` skill - dated SEO baselines and regression detection across rankings, indexation, metadata, directives, schema, and on-page elements (MIT).
+* **[Forward-Future/loop-library](https://github.com/Forward-Future/loop-library) ⭐ 3,074 | 🐛 4 | 🌐 JavaScript | 📅 2026-07-26**: Official Loop Library skill - find, adapt, and design bounded AI-agent feedback loops with verification, stop rules, guardrails, and handoffs (MIT).
+* **[Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue) ⭐ 2,969 | 🐛 3 | 🌐 Vue | 📅 2026-08-29**: Official Markstream skill for installing streaming Markdown renderers across Vue, React, Svelte, Angular, Nuxt, Next.js, and Vue 2 applications (MIT).
+* **[microsoft/skills](https://github.com/microsoft/skills) ⭐ 2,967 | 🐛 66 | 🌐 TypeScript | 📅 2026-08-28**: Official Microsoft skills - Azure cloud services, Bot Framework, Cognitive Services, and enterprise development patterns across .NET, Python, TypeScript, Go, Rust, and Java.
+* **[supabase/agent-skills](https://github.com/supabase/agent-skills) ⭐ 2,561 | 🐛 372 | 🌐 TypeScript | 📅 2026-08-12**: Supabase official skills - Postgres Best Practices.
+* **[expo/skills](https://github.com/expo/skills) ⭐ 2,476 | 🐛 62 | 🌐 Shell | 📅 2026-08-28**: Official Expo skills - Expo project workflows and Expo Application Services guidance.
 * **[apify/agent-skills](https://github.com/apify/agent-skills) ⭐ 2,362 | 🐛 37 | 🌐 Python | 📅 2026-08-27**: Official Apify skills - Web scraping, data extraction and automation.
 * **[MiniMax-AI/cli](https://github.com/MiniMax-AI/cli) ⭐ 2,077 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-28**: Official MiniMax CLI - text, image, video, speech, music, vision, and web-search workflows for MiniMax models and APIs.
-* **[vostride/agent-qa](https://github.com/vostride/agent-qa) ⭐ 913 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03**: Official Agent QA skills for authoring natural-language web and mobile tests, evidence-backed run triage, and scoped debug/fix workflows (FSL-1.1-ALv2, Apache-2.0 after two years).
+* **[vostride/agent-qa](https://github.com/vostride/agent-qa) ⭐ 920 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03**: Official Agent QA skills for authoring natural-language web and mobile tests, evidence-backed run triage, and scoped debug/fix workflows (FSL-1.1-ALv2, Apache-2.0 after two years).
 * **[dair-ai/dair-academy-plugins](https://github.com/dair-ai/dair-academy-plugins) ⭐ 608 | 🐛 0 | 🌐 HTML | 📅 2026-07-21**: Official DAIR Academy plugin skills imported as standalone skills - image generation, adaptive learning, lesson artifacts, LLM council deliberation, survey papers, wiki building, and YouTube study notes (MIT).
 * **[Orkas-AI/Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) ⭐ 524 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-28**: Official source for the `video-router` skill - choose and lock generation, deterministic composition, supplied-footage editing, or an automatic cross-modal production plan (MIT).
 * **[Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) ⭐ 189 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-27**: Official Xquik skill for X data workflows - tweet search, user lookup, follower export, media downloads, MCP, webhooks, OpenAPI, and SDK setup (MIT).
-* **[pilot-protocol/pilotprotocol](https://github.com/pilot-protocol/pilotprotocol) ⭐ 133 | 🐛 8 | 🌐 Go | 📅 2026-08-28**: Official Pilot Protocol overlay network - agent addressing, encrypted P2P messaging, NAT traversal, and an installable agent app store (AGPL-3.0).
+* **[pilot-protocol/pilotprotocol](https://github.com/pilot-protocol/pilotprotocol) ⭐ 133 | 🐛 8 | 🌐 Go | 📅 2026-08-29**: Official Pilot Protocol overlay network - agent addressing, encrypted P2P messaging, NAT traversal, and an installable agent app store (AGPL-3.0).
 * **[weaviate/agent-skills](https://github.com/weaviate/agent-skills) ⭐ 103 | 🐛 2 | 🌐 Python | 📅 2026-06-11**: Official Weaviate skills - vector database operations, semantic and hybrid search, data imports, RAG cookbooks, agentic RAG, multimodal PDF search, and async client patterns (BSD-3-Clause).
-* **[neondatabase/agent-skills](https://github.com/neondatabase/agent-skills) ⭐ 84 | 🐛 19 | 🌐 JavaScript | 📅 2026-08-28**: Official Neon skills - Serverless Postgres workflows and Neon platform guidance.
-* **[sandbaseai/cli](https://github.com/sandbaseai/cli) ⭐ 69 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-28**: Official source for the `sandbase-mcp` skill - discover, inspect, and invoke 2,000+ AI models and APIs through a local MCP bridge with explicit schema and cost checks (Apache-2.0).
+* **[neondatabase/agent-skills](https://github.com/neondatabase/agent-skills) ⭐ 84 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-28**: Official Neon skills - Serverless Postgres workflows and Neon platform guidance.
+* **[sandbaseai/cli](https://github.com/sandbaseai/cli) ⭐ 71 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-28**: Official source for the `sandbase-mcp` skill - discover, inspect, and invoke 2,000+ AI models and APIs through a local MCP bridge with explicit schema and cost checks (Apache-2.0).
 * **[longbridge/skills](https://github.com/longbridge/skills) ⭐ 51 | 🐛 3 | 🌐 Python | 📅 2026-08-27**: Official Longbridge Securities skills - real-time quotes, charts, fundamentals, portfolio analysis, options, and market workflows for HK, US, A-share, and SG markets.
-* **[uizze/uizze](https://github.com/uizze/uizze) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-23**: Official UIZZE source for the free `anti-ui-slop` skill—product-specific UI references, design contracts, required states, and a hard finish gate grounded in 800,000+ real web and iOS screens (MIT).
+* **[uizze/uizze](https://github.com/uizze/uizze) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-29**: Official UIZZE source for the free `anti-ui-slop` skill—product-specific UI references, design contracts, required states, and a hard finish gate grounded in 800,000+ real web and iOS screens (MIT).
 * **[BuyWhere/buywhere-mcp](https://github.com/BuyWhere/buywhere-mcp) ⭐ 10 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-28**: Official BuyWhere MCP server — search and compare products from Singapore, SEA, and US markets via Model Context Protocol.
 * **[scopeblind/scopeblind-gateway](https://github.com/scopeblind/scopeblind-gateway) ⭐ 9 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-09**: Official Scopeblind MCP governance toolkit - Cedar policy authoring, shadow-to-enforce rollout, and signed-receipt verification guidance for agent tool calls.
-* **[HasData/hasdata-cli](https://github.com/HasData/hasdata-cli) ⭐ 7 | 🐛 1 | 🌐 Go | 📅 2026-08-28**: Official HasData CLI and API guidance for search, scraping, ecommerce, travel, jobs, local business, and structured web data workflows.
-* **[happy520ai/unified-ai-system](https://github.com/happy520ai/unified-ai-system) ⭐ 6 | 🐛 14 | 🌐 JavaScript | 📅 2026-08-28**: Official source for the `unified-ai-gateway` skill - nine governed Codex MCP tools for provider-free prompt enhancement, credential-free gateway health, readiness, fake-provider chat, knowledge, workflow, and workforce evidence (Apache-2.0).
-* **[agent-frontier/wgm](https://github.com/agent-frontier/wgm) ⭐ 3 | 🐛 3 | 🌐 Shell | 📅 2026-08-28**: Official wgm protocol skill - governed build loops with triage, alignment, planning, deterministic backpressure, holdout-scenario judging, and handoff audits (MIT).
+* **[HasData/hasdata-cli](https://github.com/HasData/hasdata-cli) ⭐ 7 | 🐛 1 | 🌐 Go | 📅 2026-08-29**: Official HasData CLI and API guidance for search, scraping, ecommerce, travel, jobs, local business, and structured web data workflows.
+* **[happy520ai/unified-ai-system](https://github.com/happy520ai/unified-ai-system) ⭐ 6 | 🐛 14 | 🌐 JavaScript | 📅 2026-08-29**: Official source for the `unified-ai-gateway` skill - nine governed Codex MCP tools for provider-free prompt enhancement, credential-free gateway health, readiness, fake-provider chat, knowledge, workflow, and workforce evidence (Apache-2.0).
+* **[agent-frontier/wgm](https://github.com/agent-frontier/wgm) ⭐ 3 | 🐛 3 | 🌐 Shell | 📅 2026-08-29**: Official wgm protocol skill - governed build loops with triage, alignment, planning, deterministic backpressure, holdout-scenario judging, and handoff audits (MIT).
 * **[bekservice/Famulor-Skill](https://github.com/bekservice/Famulor-Skill) ⭐ 2 | 🐛 0 | 📅 2026-08-23**: Official Famulor skill for tenant-safe operation of its hosted MCP server across assistants, communication history, campaigns, knowledge, automations, telephony, and workspace administration (MIT).
 * **[runapi-ai/cli-skill](https://github.com/runapi-ai/cli-skill) ⭐ 2 | 🐛 0 | 📅 2026-08-17**: Official RunAPI CLI skill - generate AI images, videos, and music/audio from agent workflows, plus run other model API jobs.
 * **[Modellix/modellix-plugin](https://github.com/Modellix/modellix-plugin) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-08-12**: Official Modellix skill - authenticated, paid AI image and video generation through the Modellix CLI (MIT).
@@ -496,49 +496,49 @@ Key source families include:
 
 ### Community Contributors
 
-* **[obra/superpowers](https://github.com/obra/superpowers) ⭐ 279,099 | 🐛 332 | 🌐 Shell | 📅 2026-08-29**: The original "Superpowers" by Jesse Vincent.
+* **[obra/superpowers](https://github.com/obra/superpowers) ⭐ 279,165 | 🐛 332 | 🌐 Shell | 📅 2026-08-29**: The original "Superpowers" by Jesse Vincent.
 
-* **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) ⭐ 243,993 | 🐛 150 | 🌐 JavaScript | 📅 2026-08-29**: Large Claude Code configuration and workflow collection from an Anthropic hackathon winner (MIT).
+* **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) ⭐ 244,030 | 🐛 146 | 🌐 JavaScript | 📅 2026-08-29**: Large Claude Code configuration and workflow collection from an Anthropic hackathon winner (MIT).
 
-* **[mattpocock/skills](https://github.com/mattpocock/skills) ⭐ 240,326 | 🐛 437 | 🌐 Shell | 📅 2026-08-24**: Source for 17 Matt Pocock workflow skills - codebase design, TDD, bug diagnosis, triage, PRDs, issues, prototyping, handoff, teaching, and skill-writing guidance (MIT).
+* **[mattpocock/skills](https://github.com/mattpocock/skills) ⭐ 240,471 | 🐛 437 | 🌐 Shell | 📅 2026-08-24**: Source for 17 Matt Pocock workflow skills - codebase design, TDD, bug diagnosis, triage, PRDs, issues, prototyping, handoff, teaching, and skill-writing guidance (MIT).
 
-* **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) ⭐ 208,442 | 🐛 128 | 📅 2026-04-20**: Source for the `andrej-karpathy` skill - English Karpathy-inspired LLM coding guidelines for simplicity, surgical changes, assumption surfacing, and verifiable success criteria (MIT).
+* **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) ⭐ 208,489 | 🐛 128 | 📅 2026-04-20**: Source for the `andrej-karpathy` skill - English Karpathy-inspired LLM coding guidelines for simplicity, surgical changes, assumption surfacing, and verifiable success criteria (MIT).
 
-* **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) ⭐ 90,539 | 🐛 121 | 🌐 JavaScript | 📅 2026-08-28**: Source for the `browser-testing-with-devtools` skill - Chrome DevTools MCP browser verification, profiling, network inspection, and frontend debugging guidance (MIT).
+* **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) ⭐ 90,577 | 🐛 121 | 🌐 JavaScript | 📅 2026-08-28**: Source for the `browser-testing-with-devtools` skill - Chrome DevTools MCP browser verification, profiling, network inspection, and frontend debugging guidance (MIT).
 
-* **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐ 81,937 | 🐛 58 | 🌐 JavaScript | 📅 2026-08-24**: Frontend design taste skill collection covering premium UI generation, redesign audits, GSAP motion, Stitch design systems, minimalist and brutalist visual modes, and full-output enforcement.
+* **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐ 81,988 | 🐛 58 | 🌐 JavaScript | 📅 2026-08-24**: Frontend design taste skill collection covering premium UI generation, redesign audits, GSAP motion, Stitch design systems, minimalist and brutalist visual modes, and full-output enforcement.
 
-* **[unslothai/unsloth](https://github.com/unslothai/unsloth) ⭐ 75,083 | 🐛 1,385 | 🌐 Python | 📅 2026-08-29**: Source for the `unsloth-finetuning` skill - single-GPU VRAM sizing, LoRA/QLoRA configuration, chat-template and loss-masking correctness, GRPO/DPO post-training, and GGUF/merged export paths (Apache-2.0).
+* **[unslothai/unsloth](https://github.com/unslothai/unsloth) ⭐ 75,102 | 🐛 1,390 | 🌐 Python | 📅 2026-08-29**: Source for the `unsloth-finetuning` skill - single-GPU VRAM sizing, LoRA/QLoRA configuration, chat-template and loss-masking correctness, GRPO/DPO post-training, and GGUF/merged export paths (Apache-2.0).
 
-* **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) ⭐ 47,460 | 🐛 64 | 📅 2026-06-08**: Obsidian-focused skills for markdown, Bases, JSON Canvas, CLI workflows, and content cleanup.
+* **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) ⭐ 47,477 | 🐛 64 | 📅 2026-06-08**: Obsidian-focused skills for markdown, Bases, JSON Canvas, CLI workflows, and content cleanup.
 
-* **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) ⭐ 46,004 | 🐛 104 | 🌐 JavaScript | 📅 2026-08-28**: Marketing skills for CRO, copywriting, SEO, paid ads, and growth (23 skills, MIT).
+* **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) ⭐ 46,023 | 🐛 104 | 🌐 JavaScript | 📅 2026-08-28**: Marketing skills for CRO, copywriting, SEO, paid ads, and growth (23 skills, MIT).
 
-* **[K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) ⭐ 36,801 | 🐛 16 | 🌐 Python | 📅 2026-08-28**: Scientific, research, engineering, finance, and writing skill suite (MIT).
+* **[K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) ⭐ 37,075 | 🐛 18 | 🌐 Python | 📅 2026-08-28**: Scientific, research, engineering, finance, and writing skill suite (MIT).
 
-* **[emilkowalski/skills](https://github.com/emilkowalski/skills) ⭐ 33,282 | 🐛 0 | 🌐 Markdown | 📅 2026-08-21**: Source for Emil Kowalski design engineering skills - UI polish, motion review, animation standards, component craft, and high-taste frontend guidance (MIT).
+* **[emilkowalski/skills](https://github.com/emilkowalski/skills) ⭐ 33,315 | 🐛 0 | 🌐 Markdown | 📅 2026-08-21**: Source for Emil Kowalski design engineering skills - UI polish, motion review, animation standards, component craft, and high-taste frontend guidance (MIT).
 
-* **[VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) ⭐ 33,088 | 🐛 17 | 📅 2026-08-26**: Curated collection of 1000+ official and community agent skills from leading development teams (MIT).
+* **[VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) ⭐ 33,126 | 🐛 18 | 📅 2026-08-26**: Curated collection of 1000+ official and community agent skills from leading development teams (MIT).
 
-* **[zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) ⭐ 30,155 | 🐛 18 | 🌐 PowerShell | 📅 2026-08-26**: Source for 43 security skills covering reverse engineering, binary analysis, offensive assessment orchestration, and threat-intelligence workflows, adapted with English metadata and upstream safety gates (MIT).
+* **[zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) ⭐ 30,229 | 🐛 18 | 🌐 PowerShell | 📅 2026-08-26**: Source for 43 security skills covering reverse engineering, binary analysis, offensive assessment orchestration, and threat-intelligence workflows, adapted with English metadata and upstream safety gates (MIT).
 
-* **[zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) ⭐ 28,323 | 🐛 68 | 🌐 JavaScript | 📅 2026-06-23**: Frontend slide-creation skills for web-based presentations (MIT).
+* **[zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) ⭐ 28,331 | 🐛 68 | 🌐 JavaScript | 📅 2026-06-23**: Frontend slide-creation skills for web-based presentations (MIT).
 
-* **[alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) ⭐ 25,169 | 🐛 7 | 🌐 Python | 📅 2026-08-26**: Senior Engineering and PM toolkit.
+* **[alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) ⭐ 25,179 | 🐛 7 | 🌐 Python | 📅 2026-08-26**: Senior Engineering and PM toolkit.
 
-* **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) ⭐ 17,857 | 🐛 52 | 🌐 Python | 📅 2026-08-19**: Context-engineering, multi-agent, and production agent-system skill collection (MIT).
+* **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) ⭐ 17,861 | 🐛 52 | 🌐 Python | 📅 2026-08-19**: Context-engineering, multi-agent, and production agent-system skill collection (MIT).
 
-* **[AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) ⭐ 15,717 | 🐛 45 | 🌐 Python | 📅 2026-08-26**: SEO workflow collection covering technical SEO, hreflang, sitemap, geo, schema, and programmatic SEO patterns.
+* **[AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) ⭐ 15,736 | 🐛 45 | 🌐 Python | 📅 2026-08-26**: SEO workflow collection covering technical SEO, hreflang, sitemap, geo, schema, and programmatic SEO patterns.
 
-* **[travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) ⭐ 14,873 | 🐛 773 | 📅 2026-04-28**: Loki Mode and Playwright integration.
+* **[travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) ⭐ 14,875 | 🐛 773 | 📅 2026-04-28**: Loki Mode and Playwright integration.
 
-* **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) ⭐ 10,012 | 🐛 18 | 🌐 TypeScript | 📅 2026-07-13**: Infrastructure and Backend/Frontend Guidelines.
+* **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) ⭐ 10,014 | 🐛 18 | 🌐 TypeScript | 📅 2026-07-13**: Infrastructure and Backend/Frontend Guidelines.
 
-* **[vudovn/antigravity-kit](https://github.com/vudovn/antigravity-kit) ⭐ 8,160 | 🐛 57 | 🌐 TypeScript | 📅 2026-08-11**: AI Agent templates with Skills, Agents, and Workflows (33 skills, MIT).
+* **[vudovn/antigravity-kit](https://github.com/vudovn/antigravity-kit) ⭐ 8,161 | 🐛 57 | 🌐 TypeScript | 📅 2026-08-11**: AI Agent templates with Skills, Agents, and Workflows (33 skills, MIT).
 
-* **[ibelick/ui-skills](https://github.com/ibelick/ui-skills) ⭐ 7,752 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-28**: UI-polish skills for improving interfaces built by agents (MIT).
+* **[ibelick/ui-skills](https://github.com/ibelick/ui-skills) ⭐ 7,758 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-28**: UI-polish skills for improving interfaces built by agents (MIT).
 
-* **[czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills) ⭐ 6,148 | 🐛 8 | 🌐 Shell | 📅 2026-08-20**: n8n workflow-building skills for Claude Code (MIT).
+* **[czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills) ⭐ 6,149 | 🐛 9 | 🌐 Shell | 📅 2026-08-29**: n8n workflow-building skills for Claude Code (MIT).
 
 * **[ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) ⭐ 6,032 | 🐛 12 | 🌐 JavaScript | 📅 2026-01-06**: React UI patterns and Design Systems.
 
@@ -546,21 +546,21 @@ Key source families include:
 
 * **[Dimillian/Skills](https://github.com/Dimillian/Skills) ⭐ 3,928 | 🐛 11 | 🌐 Shell | 📅 2026-03-29**: Curated Codex skills focused on Apple platforms, GitHub workflows, refactoring, and performance (MIT).
 
-* **[davidondrej/skills](https://github.com/davidondrej/skills) ⭐ 3,775 | 🐛 0 | 🌐 Python | 📅 2026-08-28**: Source for David Ondrej agent workflow skills across orchestration, research, setup, skill authoring, and documentation workflows (MIT).
+* **[davidondrej/skills](https://github.com/davidondrej/skills) ⭐ 3,776 | 🐛 0 | 🌐 Python | 📅 2026-08-28**: Source for David Ondrej agent workflow skills across orchestration, research, setup, skill authoring, and documentation workflows (MIT).
 
 * **[AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill) ⭐ 3,464 | 🐛 3 | 🌐 Python | 📅 2026-08-12**: SwiftUI best-practices skill for agent workflows (MIT).
 
 * **[CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills) ⭐ 3,174 | 🐛 9 | 📅 2026-07-09**: Three.js-focused skill collection for agent-assisted 3D web work.
 
-* [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) ⭐ 3,150 | 🐛 6 | 🌐 JavaScript | 📅 2026-07-06 — Cloudflare Web Security Audit Skill (by Cloudflare)
+* [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) ⭐ 3,152 | 🐛 6 | 🌐 JavaScript | 📅 2026-07-06 — Cloudflare Web Security Audit Skill (by Cloudflare)
 
-* **[yaojingang/yao-meta-skill](https://github.com/yaojingang/yao-meta-skill) ⭐ 2,552 | 🐛 1 | 🌐 Python | 📅 2026-08-17**: Source for the `yao-meta-skill` skill - governed skill creation, refactoring, evaluation, packaging, review, and distribution workflows (MIT).
+* **[yaojingang/yao-meta-skill](https://github.com/yaojingang/yao-meta-skill) ⭐ 2,555 | 🐛 1 | 🌐 Python | 📅 2026-08-17**: Source for the `yao-meta-skill` skill - governed skill creation, refactoring, evaluation, packaging, review, and distribution workflows (MIT).
 
 * **[hyhmrright/brooks-lint](https://github.com/hyhmrright/brooks-lint) ⭐ 1,427 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-24**: AI code-review skill grounded in classic software engineering books for design-smell, coupling, and architecture review.
 
-* **[rmyndharis/antigravity-skills](https://github.com/rmyndharis/antigravity-skills) ⭐ 1,419 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-02**: For the massive contribution of 300+ Enterprise skills and the catalog generation logic.
+* **[rmyndharis/antigravity-skills](https://github.com/rmyndharis/antigravity-skills) ⭐ 1,420 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-02**: For the massive contribution of 300+ Enterprise skills and the catalog generation logic.
 
-* **[amElnagdy/delegate-skills](https://github.com/amElnagdy/delegate-skills) ⭐ 1,385 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-26**: Source for 18 delegation skills (`delegate-setup` + 17 implementer relays for Claude/Codex/Cursor/OpenCode and 13 more) — multi-agent delegation and fleet orchestration with Node built-ins only, relay never commits (MIT, docs-only — runtime not bundled).
+* **[amElnagdy/delegate-skills](https://github.com/amElnagdy/delegate-skills) ⭐ 1,387 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-26**: Source for 18 delegation skills (`delegate-setup` + 17 implementer relays for Claude/Codex/Cursor/OpenCode and 13 more) — multi-agent delegation and fleet orchestration with Node built-ins only, relay never commits (MIT, docs-only — runtime not bundled).
 
 * [amElnagdy/guard-skills](https://github.com/amElnagdy/guard-skills) ⭐ 1,207 | 🐛 4 | 📅 2026-07-04 — Code Quality & Testing Guard Skills (by amElnagdy)
 
@@ -572,13 +572,13 @@ Key source families include:
 
 * **[huifer/WellAlly-health](https://github.com/huifer/WellAlly-health) ⭐ 934 | 🐛 7 | 🌐 Shell | 📅 2026-07-16**: Healthcare assistant project cited in release history as a source for health-focused agent capabilities (MIT).
 
-* **[bitjaru/styleseed](https://github.com/bitjaru/styleseed) ⭐ 926 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-26**: StyleSeed Toss UI and UX skill collection - setup wizard, page and pattern generation, design-token management, accessibility review, UX audits, feedback states, and microcopy guidance for professional mobile-first UI.
+* **[bitjaru/styleseed](https://github.com/bitjaru/styleseed) ⭐ 928 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-26**: StyleSeed Toss UI and UX skill collection - setup wizard, page and pattern generation, design-token management, accessibility review, UX audits, feedback states, and microcopy guidance for professional mobile-first UI.
 
 * **[vibeforge1111/vibeship-spawner-skills](https://github.com/vibeforge1111/vibeship-spawner-skills) ⭐ 877 | 🐛 15 | 🌐 JavaScript | 📅 2026-01-02**: AI agents, integrations, maker tools, and other production-grade skill packs.
 
 * **[ZhangHanDong/makepad-skills](https://github.com/ZhangHanDong/makepad-skills) ⭐ 746 | 🐛 0 | 📅 2026-04-07**: Makepad app-development skills and references (MIT).
 
-* **[sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills) ⭐ 610 | 🐛 3 | 🌐 Python | 📅 2026-08-25**: Source for the `linkedin-post-writer` skill - LinkedIn post drafting from 16 tested hook formulas mapped to engagement goals, with 2026 formatting rules and an AI-tell scrub pass, from a 10-skill LinkedIn bundle for Claude Code and Codex (MIT).
+* **[sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills) ⭐ 613 | 🐛 3 | 🌐 Python | 📅 2026-08-25**: Source for the `linkedin-post-writer` skill - LinkedIn post drafting from 16 tested hook formulas mapped to engagement goals, with 2026 formatting rules and an AI-tell scrub pass, from a 10-skill LinkedIn bundle for Claude Code and Codex (MIT).
 
 * **[ZeroPointRepo/youtube-skills](https://github.com/ZeroPointRepo/youtube-skills) ⭐ 580 | 🐛 3 | 📅 2026-08-25**: Source for the `youtube-full` skill - TranscriptAPI-backed YouTube transcripts, search, channel browsing, playlists, and cloud-safe video research workflows (MIT).
 
@@ -588,7 +588,7 @@ Key source families include:
 
 * **[sanjay3290/ai-skills](https://github.com/sanjay3290/ai-skills) ⭐ 407 | 🐛 3 | 🌐 Python | 📅 2026-07-09**: Apache-licensed collection of agent skills for AI coding assistants.
 
-* **[LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) ⭐ 364 | 🐛 4 | 🌐 Python | 📅 2026-07-24**: Production-grade agent skills for test automation — 46 skills covering E2E, unit, mobile, BDD, visual, and cloud testing across 15+ languages (MIT).
+* **[LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) ⭐ 363 | 🐛 4 | 🌐 Python | 📅 2026-07-24**: Production-grade agent skills for test automation — 46 skills covering E2E, unit, mobile, BDD, visual, and cloud testing across 15+ languages (MIT).
 
 * **[zxkane/aws-skills](https://github.com/zxkane/aws-skills) ⭐ 355 | 🐛 0 | 🌐 Python | 📅 2026-06-15**: AWS-focused Claude agent skills (MIT).
 
@@ -602,15 +602,15 @@ Key source families include:
 
 * **[provencher/codex-skills](https://github.com/provencher/codex-skills) ⭐ 237 | 🐛 0 | 📅 2026-07-26**: Source for the `orchestrate` skill - focused Codex multi-agent delegation with non-overlapping ownership, coordinator integration, and user-held approval gates (MIT).
 
-* **[taisly/agent](https://github.com/taisly/agent) ⭐ 232 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-06**: Source for the Taisly Social Media Posting skill - Codex plugin, CLI, SDK, and official MCP server for publishing approved short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook (MIT).
+* **[taisly/agent](https://github.com/taisly/agent) ⭐ 233 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-06**: Source for the Taisly Social Media Posting skill - Codex plugin, CLI, SDK, and official MCP server for publishing approved short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook (MIT).
 
 * **[jthack/ffuf\_claude\_skill](https://github.com/jthack/ffuf_claude_skill) ⭐ 210 | 🐛 1 | 🌐 Python | 📅 2025-10-16**: FFUF skill for web fuzzing workflows in Claude.
 
 * **[gokapso/agent-skills](https://github.com/gokapso/agent-skills) ⭐ 151 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-26**: Kapso/WhatsApp-oriented agent skills.
 
-* **[kubestellar/console](https://github.com/kubestellar/console) ⭐ 129 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-29**: KubeStellar Console multi-cluster Kubernetes dashboard with `kc-agent` MCP integration, AI-assisted operations, and built-in agent skills.
+* **[kubestellar/console](https://github.com/kubestellar/console) ⭐ 129 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-29**: KubeStellar Console multi-cluster Kubernetes dashboard with `kc-agent` MCP integration, AI-assisted operations, and built-in agent skills.
 
-* **[luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) ⭐ 124 | 🐛 7 | 🌐 Rust | 📅 2026-08-24**: Source for the `agenttrace-session-audit` skill - local AI coding-agent session audits for cost spikes, tool failures, latency gaps, anomalies, health gates, and session diffs (MIT).
+* **[luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) ⭐ 125 | 🐛 7 | 🌐 Rust | 📅 2026-08-24**: Source for the `agenttrace-session-audit` skill - local AI coding-agent session audits for cost spikes, tool failures, latency gaps, anomalies, health gates, and session diffs (MIT).
 
 * **[wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) ⭐ 121 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-17**: Linear issue/project/team management skill with MCP and GraphQL workflows (MIT).
 
@@ -638,9 +638,9 @@ Key source families include:
 
 * **[shmlkv/dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) ⭐ 57 | 🐛 0 | 🌐 Python | 📅 2026-03-04**: Personal genome analysis toolkit — Python scripts analyzing raw DNA data across 17 categories (health risks, ancestry, pharmacogenomics, nutrition, psychology, etc.) with terminal-style single-page HTML visualization.
 
-* **[SHADOWPR0/beautiful\_prose](https://github.com/SHADOWPR0/beautiful_prose) ⭐ 55 | 🐛 0 | 📅 2025-12-30**: Writing-quality skill for improving prose and reducing generic output.
+* **[amElnagdy/review-skills](https://github.com/amElnagdy/review-skills) ⭐ 55 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-26**: Source for the `debate-review` and `babysit-pr` skills - two-model debate review of PRs/MRs with inline comments and automated babysitting of review rounds for GitHub, GitLab and Azure DevOps (MIT, docs-only — runtime not bundled).
 
-* **[amElnagdy/review-skills](https://github.com/amElnagdy/review-skills) ⭐ 54 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-26**: Source for the `debate-review` and `babysit-pr` skills - two-model debate review of PRs/MRs with inline comments and automated babysitting of review rounds for GitHub, GitLab and Azure DevOps (MIT, docs-only — runtime not bundled).
+* **[SHADOWPR0/beautiful\_prose](https://github.com/SHADOWPR0/beautiful_prose) ⭐ 55 | 🐛 0 | 📅 2025-12-30**: Writing-quality skill for improving prose and reducing generic output.
 
 * **[robzolkos/skill-rails-upgrade](https://github.com/robzolkos/skill-rails-upgrade) ⭐ 53 | 🐛 0 | 📅 2026-01-27**: Rails upgrade skill for agent-assisted migrations.
 
@@ -678,7 +678,7 @@ Key source families include:
 
 * **[zircote/.claude](https://github.com/zircote/.claude) ⚠️ Archived**: Archived Claude Code dotfiles/config repo with a Shopify development skill reference.
 
-* **[TheaDust/lore](https://github.com/TheaDust/lore) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2026-08-27**: Source for the `lore` skill - Markdown-only, zero-dependency long-term project memory for AI coding agents, with monorepo scopes, two-section platform mirrors, and stdlib Python helpers (MIT).
+* **[TheaDust/lore](https://github.com/TheaDust/lore) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2026-08-29**: Source for the `lore` skill - Markdown-only, zero-dependency long-term project memory for AI coding agents, with monorepo scopes, two-section platform mirrors, and stdlib Python helpers (MIT).
 
 * **[rainmanjam/poka-yoke](https://github.com/rainmanjam/poka-yoke) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2026-08-26**: Source for the `poka-yoke` skill - software mistake-proofing through control, warning, detection, and source-inspection guardrails (MIT).
 
@@ -704,7 +704,7 @@ Key source families include:
 
 * **[uxuiprinciples/agent-skills](https://github.com/uxuiprinciples/agent-skills) ⭐ 14 | 🐛 0 | 📅 2026-04-03**: Research-backed UX/UI agent skills for auditing interfaces against 168 principles, detecting antipatterns, and injecting UX context into AI coding sessions.
 
-* **[TerminallyLazy/Tree-Ring-Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) ⭐ 13 | 🐛 3 | 🌐 Rust | 📅 2026-08-28**: Source for the `tree-ring-memory` skill — local-first memory lifecycle guidance for recall, evidence, audit, forgetting, consolidation, and privacy-safe agent memory operations (MIT).
+* **[TerminallyLazy/Tree-Ring-Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) ⭐ 13 | 🐛 3 | 🌐 Rust | 📅 2026-08-29**: Source for the `tree-ring-memory` skill — local-first memory lifecycle guidance for recall, evidence, audit, forgetting, consolidation, and privacy-safe agent memory operations (MIT).
 
 * **[nedcodes-ok/rule-porter](https://github.com/nedcodes-ok/rule-porter) ⭐ 12 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-04**: Bidirectional rule converter between Cursor (.mdc), Claude Code (CLAUDE.md), GitHub Copilot, Windsurf, and legacy .cursorrules formats. Zero dependencies.
 
@@ -800,7 +800,7 @@ Key source families include:
 
 * **[JanYork/using-lwc](https://github.com/JanYork/using-lwc) ⭐ 2 | 🐛 0 | 🌐 Shell | 📅 2026-08-14**: Source for the `using-lwc` skill - durable, source-grounded project memory with independently verified document and code graphs (Apache-2.0).
 
-* **[supernovae-st/nika-agents](https://github.com/supernovae-st/nika-agents) ⭐ 2 | 🐛 2 | 🌐 Python | 📅 2026-08-28**: Official upstream source for the `nika` skill and its deterministic, budget-aware AI workflow runner (MIT skill content; AGPL-3.0 engine).
+* **[supernovae-st/nika-agents](https://github.com/supernovae-st/nika-agents) ⭐ 2 | 🐛 2 | 🌐 Python | 📅 2026-08-29**: Official upstream source for the `nika` skill and its deterministic, budget-aware AI workflow runner (MIT skill content; AGPL-3.0 engine).
 
 * **[chaunsin/agent-skills](https://github.com/chaunsin/agent-skills) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-06-18**: Source for the `pre-release-review` and `drizzle-migration-conflict` skills - deploy-readiness audits and Drizzle Kit migration-conflict workflows (Apache-2.0).
 
@@ -917,7 +917,7 @@ Key source families include:
 
 ### Inspirations
 
-* **[f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 168,128 | 🐛 69 | 🌐 HTML | 📅 2026-08-29**: Inspiration for the Prompt Library.
+* **[f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 168,139 | 🐛 69 | 🌐 HTML | 📅 2026-08-29**: Inspiration for the Prompt Library.
 * **[leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) ⭐ 66,515 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-02**: Inspiration for JavaScript Mastery.
 
 ### Additional Sources
@@ -926,7 +926,7 @@ Key source families include:
 
 </details>
 
-Catalog dashboard search, filters, shortlist, and discovery were originally contributed by [@zinzied](https://github.com/zinzied) in [#1111](https://github.com/sickn33/agentic-awesome-skills/pull/1111) ⭐ 45,611 | 🐛 1 | 🌐 Python | 📅 2026-08-28, then repaired and integrated through [#1118](https://github.com/sickn33/agentic-awesome-skills/pull/1118) ⭐ 45,611 | 🐛 1 | 🌐 Python | 📅 2026-08-28 under the repository's fork-safety policy.
+Catalog dashboard search, filters, shortlist, and discovery were originally contributed by [@zinzied](https://github.com/zinzied) in [#1111](https://github.com/sickn33/agentic-awesome-skills/pull/1111) ⭐ 45,620 | 🐛 2 | 🌐 Python | 📅 2026-08-28, then repaired and integrated through [#1118](https://github.com/sickn33/agentic-awesome-skills/pull/1118) ⭐ 45,620 | 🐛 2 | 🌐 Python | 📅 2026-08-28 under the repository's fork-safety policy.
 
 ## Repo Contributors
 
@@ -934,7 +934,7 @@ Catalog dashboard search, filters, shortlist, and discovery were originally cont
   <img src="https://contrib.rocks/image?repo=sickn33/agentic-awesome-skills&max=500" alt="Repository contributors" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks). *(Image may be cached; [view live contributors](https://github.com/sickn33/agentic-awesome-skills/graphs/contributors) ⭐ 45,611 | 🐛 1 | 🌐 Python | 📅 2026-08-28 on GitHub.)*
+Made with [contrib.rocks](https://contrib.rocks). *(Image may be cached; [view live contributors](https://github.com/sickn33/agentic-awesome-skills/graphs/contributors) ⭐ 45,620 | 🐛 2 | 🌐 Python | 📅 2026-08-28 on GitHub.)*
 
 We officially thank the following contributors for their help in making this repository awesome!
 
