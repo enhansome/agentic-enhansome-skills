@@ -39,7 +39,7 @@
           "title": "Compare alternatives"
         }
       ],
-      "title": "Browse 2,109+ Skills"
+      "title": "Browse 2,111+ Skills"
     },
     {
       "description": "Keep the root README short; use the dedicated docs for recovery and platform-specific guidance.",
@@ -51,16 +51,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+            "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,100+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
             "homepage": "https://sickn33.github.io/agentic-awesome-skills/",
             "id": 1134426800,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-04T06:49:31Z",
+            "last_commit": "2026-09-05T06:26:10Z",
             "open_issues": 3,
             "owner": "sickn33",
             "repo": "agentic-awesome-skills",
-            "stars": 45947,
+            "stars": 45990,
             "topics": [
               "agent-skills",
               "agentic-skills",
@@ -99,16 +99,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+            "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,100+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
             "homepage": "https://sickn33.github.io/agentic-awesome-skills/",
             "id": 1134426800,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-04T06:49:31Z",
+            "last_commit": "2026-09-05T06:26:10Z",
             "open_issues": 3,
             "owner": "sickn33",
             "repo": "agentic-awesome-skills",
-            "stars": 45947,
+            "stars": 45990,
             "topics": [
               "agent-skills",
               "agentic-skills",
@@ -141,16 +141,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+            "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,100+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
             "homepage": "https://sickn33.github.io/agentic-awesome-skills/",
             "id": 1134426800,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-04T06:49:31Z",
+            "last_commit": "2026-09-05T06:26:10Z",
             "open_issues": 3,
             "owner": "sickn33",
             "repo": "agentic-awesome-skills",
-            "stars": 45947,
+            "stars": 45990,
             "topics": [
               "agent-skills",
               "agentic-skills",
@@ -197,10 +197,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-03T16:37:14Z",
-                "open_issues": 1212,
+                "open_issues": 1208,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 173803,
+                "stars": 174238,
                 "topics": [
                   "agent-skills"
                 ]
@@ -223,7 +223,7 @@
                 "open_issues": 320,
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 52415,
+                "stars": 52439,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:43:04.741Z"
@@ -244,7 +244,7 @@
                 "open_issues": 174,
                 "owner": "vercel-labs",
                 "repo": "agent-skills",
-                "stars": 30816,
+                "stars": 30851,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:43:04.741Z"
@@ -265,7 +265,7 @@
                 "open_issues": 291,
                 "owner": "openai",
                 "repo": "skills",
-                "stars": 25395,
+                "stars": 25414,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:43:04.741Z"
@@ -282,11 +282,11 @@
                 "id": 764723738,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-04T06:08:52Z",
-                "open_issues": 220,
+                "last_commit": "2026-09-05T00:45:11Z",
+                "open_issues": 216,
                 "owner": "Skyvern-AI",
                 "repo": "skyvern",
-                "stars": 22928,
+                "stars": 22931,
                 "topics": [
                   "ai",
                   "api",
@@ -324,7 +324,7 @@
                 "open_issues": 48,
                 "owner": "huggingface",
                 "repo": "skills",
-                "stars": 11015,
+                "stars": 11019,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:43:04.741Z"
@@ -345,7 +345,7 @@
                 "open_issues": 7,
                 "owner": "browser-act",
                 "repo": "skills",
-                "stars": 5558,
+                "stars": 5580,
                 "topics": [
                   "agent-infrastructure",
                   "ai-agents",
@@ -387,7 +387,7 @@
                 "open_issues": 21,
                 "owner": "remotion-dev",
                 "repo": "skills",
-                "stars": 4482,
+                "stars": 4487,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:43:04.741Z"
@@ -405,10 +405,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-02T15:28:13Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "google-gemini",
                 "repo": "gemini-skills",
-                "stars": 3978,
+                "stars": 3985,
                 "topics": [
                   "gemini",
                   "gemini-api",
@@ -430,7 +430,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2026-09-02T01:38:06Z",
-                "open_issues": 55,
+                "open_issues": 54,
                 "owner": "browserbase",
                 "repo": "skills",
                 "stars": 3710,
@@ -454,7 +454,7 @@
                 "open_issues": 13,
                 "owner": "nowork-studio",
                 "repo": "notfair-plugin",
-                "stars": 3451,
+                "stars": 3452,
                 "topics": [
                   "agents",
                   "claude-code-plugin",
@@ -486,7 +486,7 @@
                 "open_issues": 5,
                 "owner": "Forward-Future",
                 "repo": "loopy",
-                "stars": 3099,
+                "stars": 3105,
                 "topics": [
                   "agent-skills",
                   "agentic-workflows",
@@ -510,11 +510,11 @@
                 "id": 1135891523,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T16:35:41Z",
+                "last_commit": "2026-09-04T16:53:47Z",
                 "open_issues": 69,
                 "owner": "microsoft",
                 "repo": "skills",
-                "stars": 2991,
+                "stars": 2992,
                 "topics": [
                   "agent-skills",
                   "agents",
@@ -539,11 +539,11 @@
                 "id": 988222683,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-09-03T08:26:55Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-04T07:14:31Z",
+                "open_issues": 5,
                 "owner": "Simon-He95",
                 "repo": "markstream-vue",
-                "stars": 2985,
+                "stars": 2986,
                 "topics": [
                   "ai",
                   "ai-chat",
@@ -581,10 +581,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-12T07:37:08Z",
-                "open_issues": 413,
+                "open_issues": 417,
                 "owner": "supabase",
                 "repo": "agent-skills",
-                "stars": 2571,
+                "stars": 2574,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -610,7 +610,7 @@
                 "open_issues": 61,
                 "owner": "expo",
                 "repo": "skills",
-                "stars": 2496,
+                "stars": 2501,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:43:04.741Z"
@@ -658,7 +658,7 @@
                 "open_issues": 22,
                 "owner": "MiniMax-AI",
                 "repo": "cli",
-                "stars": 2078,
+                "stars": 2081,
                 "topics": [
                   "ai"
                 ]
@@ -740,8 +740,8 @@
                 "id": 1285161033,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-28T09:25:25Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-04T12:12:00Z",
+                "open_issues": 0,
                 "owner": "Orkas-AI",
                 "repo": "Orkas-VideoStudio",
                 "stars": 491,
@@ -853,27 +853,6 @@
             },
             {
               "node_type": "item",
-              "title": "weaviate/agent-skills",
-              "description": "Official Weaviate skills - vector database operations, semantic and hybrid search, data imports, RAG cookbooks, agentic RAG, multimodal PDF search, and async client patterns (BSD-3-Clause).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Agent Skills to empower developers building AI applications with Weaviate.",
-                "homepage": null,
-                "id": 1150496150,
-                "language": "Python",
-                "license": "BSD-3-Clause",
-                "last_commit": "2026-06-11T09:56:29Z",
-                "open_issues": 2,
-                "owner": "weaviate",
-                "repo": "agent-skills",
-                "stars": 104,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T13:43:04.741Z"
-            },
-            {
-              "node_type": "item",
               "title": "sandbaseai/cli",
               "description": "Official source for the skill - discover, inspect, and invoke 2,000+ AI models and APIs through a local MCP bridge with explicit schema and cost checks (Apache-2.0).",
               "children": [],
@@ -888,7 +867,7 @@
                 "open_issues": 2,
                 "owner": "sandbaseai",
                 "repo": "cli",
-                "stars": 103,
+                "stars": 110,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -916,6 +895,27 @@
             },
             {
               "node_type": "item",
+              "title": "weaviate/agent-skills",
+              "description": "Official Weaviate skills - vector database operations, semantic and hybrid search, data imports, RAG cookbooks, agentic RAG, multimodal PDF search, and async client patterns (BSD-3-Clause).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Agent Skills to empower developers building AI applications with Weaviate.",
+                "homepage": null,
+                "id": 1150496150,
+                "language": "Python",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-06-11T09:56:29Z",
+                "open_issues": 2,
+                "owner": "weaviate",
+                "repo": "agent-skills",
+                "stars": 104,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
+            },
+            {
+              "node_type": "item",
               "title": "neondatabase/agent-skills",
               "description": "Official Neon skills - Serverless Postgres workflows and Neon platform guidance.",
               "children": [],
@@ -926,8 +926,8 @@
                 "id": 1138578572,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T01:27:02Z",
-                "open_issues": 14,
+                "last_commit": "2026-09-04T17:39:10Z",
+                "open_issues": 13,
                 "owner": "neondatabase",
                 "repo": "agent-skills",
                 "stars": 85,
@@ -1024,8 +1024,8 @@
                 "id": 1212338943,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-02T23:30:15Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-04T12:24:34Z",
+                "open_issues": 14,
                 "owner": "BuyWhere",
                 "repo": "buywhere-mcp",
                 "stars": 10,
@@ -1102,8 +1102,8 @@
                 "id": 1219386655,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-31T19:07:10Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-04T07:06:17Z",
+                "open_issues": 1,
                 "owner": "HasData",
                 "repo": "hasdata-cli",
                 "stars": 7,
@@ -1139,8 +1139,8 @@
                 "id": 1222678439,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T03:17:52Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-05T05:54:38Z",
+                "open_issues": 13,
                 "owner": "happy520ai",
                 "repo": "unified-ai-system",
                 "stars": 6,
@@ -1274,7 +1274,7 @@
                 "id": 1150322983,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-12T07:26:06Z",
+                "last_commit": "2026-09-04T09:07:30Z",
                 "open_issues": 0,
                 "owner": "Modellix",
                 "repo": "modellix-plugin",
@@ -1376,11 +1376,11 @@
                 "id": 1073224795,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-09-03T18:00:53Z",
-                "open_issues": 339,
+                "last_commit": "2026-09-04T23:04:36Z",
+                "open_issues": 333,
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 281480,
+                "stars": 281865,
                 "topics": [
                   "ai",
                   "brainstorming",
@@ -1406,11 +1406,11 @@
                 "id": 1148788086,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-09-03T15:03:25Z",
-                "open_issues": 461,
+                "last_commit": "2026-09-04T08:45:43Z",
+                "open_issues": 466,
                 "owner": "mattpocock",
                 "repo": "skills",
-                "stars": 248094,
+                "stars": 250838,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:43:04.741Z"
@@ -1427,11 +1427,11 @@
                 "id": 1136590548,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T20:51:23Z",
-                "open_issues": 132,
+                "last_commit": "2026-09-04T19:02:58Z",
+                "open_issues": 144,
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 247473,
+                "stars": 248755,
                 "topics": [
                   "ai-agents",
                   "anthropic",
@@ -1461,7 +1461,7 @@
                 "open_issues": 129,
                 "owner": "multica-ai",
                 "repo": "andrej-karpathy-skills",
-                "stars": 209973,
+                "stars": 210215,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:43:04.741Z"
@@ -1478,11 +1478,11 @@
                 "id": 1158722119,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T06:45:55Z",
-                "open_issues": 128,
+                "last_commit": "2026-09-05T03:25:17Z",
+                "open_issues": 137,
                 "owner": "addyosmani",
                 "repo": "agent-skills",
-                "stars": 92112,
+                "stars": 92310,
                 "topics": [
                   "agent-skills",
                   "antigravity",
@@ -1510,7 +1510,7 @@
                 "open_issues": 60,
                 "owner": "Leonxlnx",
                 "repo": "taste-skill",
-                "stars": 84134,
+                "stars": 84422,
                 "topics": [
                   "agent",
                   "ai",
@@ -1541,11 +1541,11 @@
                 "id": 725205304,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T06:35:26Z",
-                "open_issues": 1407,
+                "last_commit": "2026-09-05T06:32:57Z",
+                "open_issues": 1422,
                 "owner": "unslothai",
                 "repo": "unsloth",
-                "stars": 75583,
+                "stars": 75638,
                 "topics": [
                   "agent",
                   "ai",
@@ -1584,10 +1584,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-06-08T16:12:01Z",
-                "open_issues": 67,
+                "open_issues": 68,
                 "owner": "kepano",
                 "repo": "obsidian-skills",
-                "stars": 47821,
+                "stars": 47876,
                 "topics": [
                   "agents",
                   "agentskills",
@@ -1621,11 +1621,11 @@
                 "id": 1135212071,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T17:18:27Z",
+                "last_commit": "2026-09-05T04:48:10Z",
                 "open_issues": 106,
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 46807,
+                "stars": 46922,
                 "topics": [
                   "claude",
                   "codex",
@@ -1650,7 +1650,7 @@
                 "open_issues": 31,
                 "owner": "K-Dense-AI",
                 "repo": "scientific-agent-skills",
-                "stars": 42461,
+                "stars": 42710,
                 "topics": [
                   "agent-skills",
                   "ai-scientist",
@@ -1689,7 +1689,7 @@
                 "open_issues": 1,
                 "owner": "emilkowalski",
                 "repo": "skills",
-                "stars": 35207,
+                "stars": 35503,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:43:04.741Z"
@@ -1707,10 +1707,10 @@
                 "language": "PowerShell",
                 "license": "MIT",
                 "last_commit": "2026-09-03T12:25:52Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "zhaoxuya520",
                 "repo": "reverse-skill",
-                "stars": 34461,
+                "stars": 34613,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:43:04.741Z"
@@ -1728,10 +1728,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-09-04T05:56:05Z",
-                "open_issues": 51,
+                "open_issues": 55,
                 "owner": "VoltAgent",
                 "repo": "awesome-agent-skills",
-                "stars": 33724,
+                "stars": 33770,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -1765,7 +1765,7 @@
                 "open_issues": 69,
                 "owner": "zarazhangrui",
                 "repo": "frontend-slides",
-                "stars": 28703,
+                "stars": 28749,
                 "topics": [
                   "ai-slides",
                   "anthropic",
@@ -1794,10 +1794,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-30T09:46:16Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "alirezarezvani",
                 "repo": "claude-skills",
-                "stars": 25496,
+                "stars": 25546,
                 "topics": [
                   "agent-plugins",
                   "agent-skills",
@@ -1839,7 +1839,7 @@
                 "open_issues": 52,
                 "owner": "muratcankoylan",
                 "repo": "Agent-Skills-for-Context-Engineering",
-                "stars": 17918,
+                "stars": 17920,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:43:04.741Z"
@@ -1860,7 +1860,7 @@
                 "open_issues": 52,
                 "owner": "AgriciDaniel",
                 "repo": "claude-seo",
-                "stars": 16253,
+                "stars": 16324,
                 "topics": [
                   "ai",
                   "ai-seo",
@@ -1886,10 +1886,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-04-28T19:30:24Z",
-                "open_issues": 792,
+                "open_issues": 795,
                 "owner": "travisvn",
                 "repo": "awesome-claude-skills",
-                "stars": 14957,
+                "stars": 14970,
                 "topics": [
                   "agentic-coding",
                   "anthropic",
@@ -1922,7 +1922,7 @@
                 "open_issues": 18,
                 "owner": "diet103",
                 "repo": "claude-code-infrastructure-showcase",
-                "stars": 10016,
+                "stars": 10017,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:43:04.741Z"
@@ -1943,7 +1943,7 @@
                 "open_issues": 57,
                 "owner": "vudovn",
                 "repo": "ag-kit",
-                "stars": 8168,
+                "stars": 8170,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:43:04.741Z"
@@ -1964,7 +1964,7 @@
                 "open_issues": 13,
                 "owner": "ibelick",
                 "repo": "ui-skills",
-                "stars": 8070,
+                "stars": 8107,
                 "topics": [
                   "skills",
                   "ui-skills"
@@ -1988,7 +1988,7 @@
                 "open_issues": 9,
                 "owner": "czlonkowski",
                 "repo": "n8n-skills",
-                "stars": 6181,
+                "stars": 6193,
                 "topics": [
                   "ai-agents",
                   "n8n",
@@ -2013,7 +2013,7 @@
                 "open_issues": 12,
                 "owner": "ChrisWiles",
                 "repo": "claude-code-showcase",
-                "stars": 6057,
+                "stars": 6059,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:43:04.741Z"
@@ -2030,7 +2030,7 @@
                 "id": 1006251566,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-04T00:56:12Z",
+                "last_commit": "2026-09-05T00:55:35Z",
                 "open_issues": 1,
                 "owner": "zebbern",
                 "repo": "claude-code-guide",
@@ -2093,11 +2093,11 @@
                 "id": 1279159149,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-03T19:16:11Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-05T00:07:54Z",
+                "open_issues": 2,
                 "owner": "davidondrej",
                 "repo": "skills",
-                "stars": 3917,
+                "stars": 3935,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:43:04.741Z"
@@ -2118,7 +2118,7 @@
                 "open_issues": 3,
                 "owner": "AvdLee",
                 "repo": "SwiftUI-Agent-Skill",
-                "stars": 3486,
+                "stars": 3491,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:43:04.741Z"
@@ -2139,7 +2139,7 @@
                 "open_issues": 9,
                 "owner": "CloudAI-X",
                 "repo": "threejs-skills",
-                "stars": 3234,
+                "stars": 3239,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:43:04.741Z"
@@ -2160,7 +2160,7 @@
                 "open_issues": 6,
                 "owner": "cloudflare",
                 "repo": "security-audit-skill",
-                "stars": 3216,
+                "stars": 3224,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:43:04.741Z"
@@ -2181,7 +2181,7 @@
                 "open_issues": 1,
                 "owner": "yaojingang",
                 "repo": "yao-meta-skill",
-                "stars": 2589,
+                "stars": 2596,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -2208,10 +2208,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-08-31T09:37:51Z",
-                "open_issues": 19,
+                "open_issues": 23,
                 "owner": "amElnagdy",
                 "repo": "delegate-skills",
-                "stars": 1646,
+                "stars": 1673,
                 "topics": [
                   "agent-skills",
                   "ai-coding-agent",
@@ -2248,7 +2248,7 @@
                 "open_issues": 2,
                 "owner": "rmyndharis",
                 "repo": "antigravity-skills",
-                "stars": 1474,
+                "stars": 1482,
                 "topics": [
                   "antigravity",
                   "antigravity-skills"
@@ -2272,7 +2272,7 @@
                 "open_issues": 1,
                 "owner": "hyhmrright",
                 "repo": "brooks-lint",
-                "stars": 1446,
+                "stars": 1448,
                 "topics": [
                   "agent-skills",
                   "ai-code-review",
@@ -2314,7 +2314,7 @@
                 "open_issues": 4,
                 "owner": "amElnagdy",
                 "repo": "guard-skills",
-                "stars": 1225,
+                "stars": 1227,
                 "topics": [
                   "agent-skills",
                   "ai",
@@ -2371,7 +2371,7 @@
                 "id": 1133238996,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T03:41:56Z",
+                "last_commit": "2026-09-04T10:04:12Z",
                 "open_issues": 5,
                 "owner": "guanyang",
                 "repo": "open-agent-hub",
@@ -2410,7 +2410,7 @@
                 "open_issues": 16,
                 "owner": "bitjaru",
                 "repo": "styleseed",
-                "stars": 940,
+                "stars": 943,
                 "topics": [
                   "agent-skills",
                   "ai-coding",
@@ -2527,11 +2527,11 @@
                 "id": 1210670063,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-03T09:59:58Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-05T02:32:37Z",
+                "open_issues": 3,
                 "owner": "sergebulaev",
                 "repo": "linkedin-skills",
-                "stars": 828,
+                "stars": 873,
                 "topics": [
                   "agent-skill",
                   "agent-skills",
@@ -2553,6 +2553,34 @@
                   "prompt-engineering",
                   "skill-md",
                   "social-media-automation"
+                ]
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ZeroPointRepo/youtube-skills",
+              "description": "Source for the skill - TranscriptAPI-backed YouTube transcripts, search, channel browsing, playlists, and cloud-safe video research workflows (MIT).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "YouTube Transcript API skills for AI agents. Get transcripts, search videos, browse channels. Works with OpenClaw, Hermes Agent, and other agent runtimes.",
+                "homepage": "https://transcriptapi.com",
+                "id": 1147294830,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2026-09-01T23:10:44Z",
+                "open_issues": 3,
+                "owner": "ZeroPointRepo",
+                "repo": "youtube-skills",
+                "stars": 753,
+                "topics": [
+                  "agent-skills",
+                  "clawdbot",
+                  "hermes-agent",
+                  "openclaw",
+                  "youtube-search",
+                  "youtube-transcript"
                 ]
               },
               "first_seen": "2026-08-28T13:43:04.741Z"
@@ -2588,34 +2616,6 @@
             },
             {
               "node_type": "item",
-              "title": "ZeroPointRepo/youtube-skills",
-              "description": "Source for the skill - TranscriptAPI-backed YouTube transcripts, search, channel browsing, playlists, and cloud-safe video research workflows (MIT).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "YouTube Transcript API skills for AI agents. Get transcripts, search videos, browse channels. Works with OpenClaw, Hermes Agent, and other agent runtimes.",
-                "homepage": "https://transcriptapi.com",
-                "id": 1147294830,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2026-09-01T23:10:44Z",
-                "open_issues": 3,
-                "owner": "ZeroPointRepo",
-                "repo": "youtube-skills",
-                "stars": 677,
-                "topics": [
-                  "agent-skills",
-                  "clawdbot",
-                  "hermes-agent",
-                  "openclaw",
-                  "youtube-search",
-                  "youtube-transcript"
-                ]
-              },
-              "first_seen": "2026-08-28T13:43:04.741Z"
-            },
-            {
-              "node_type": "item",
               "title": "karanb192/awesome-claude-skills",
               "description": "A massive list of verified skills for Claude Code.",
               "children": [],
@@ -2627,10 +2627,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-09-01T19:05:00Z",
-                "open_issues": 206,
+                "open_issues": 211,
                 "owner": "karanb192",
                 "repo": "awesome-claude-skills",
-                "stars": 504,
+                "stars": 505,
                 "topics": [
                   "agent-skills",
                   "ai",
@@ -2890,7 +2890,7 @@
                 "open_issues": 0,
                 "owner": "provencher",
                 "repo": "codex-skills",
-                "stars": 240,
+                "stars": 241,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:43:04.741Z"
@@ -3007,7 +3007,7 @@
                 "open_issues": 6,
                 "owner": "gokapso",
                 "repo": "agent-skills",
-                "stars": 152,
+                "stars": 153,
                 "topics": [
                   "agent-skills",
                   "kapso",
@@ -3029,8 +3029,8 @@
                 "id": 1135473716,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T06:04:18Z",
-                "open_issues": 77,
+                "last_commit": "2026-09-05T05:47:12Z",
+                "open_issues": 100,
                 "owner": "kubestellar",
                 "repo": "console",
                 "stars": 132,
@@ -3119,6 +3119,48 @@
             },
             {
               "node_type": "item",
+              "title": "sandbaseai/sandbase-skills",
+              "description": "Source for the skill - cross-validated research with explicit source diversity, confidence, conflicts, gaps, and an offline-checkable evidence ledger (Apache-2.0).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "88 installable open-source Agent Skills for research, social intelligence, marketing, and business workflows—compatible with Codex, Claude Code, Cursor, Gemini CLI, and DeepSeek Harness.",
+                "homepage": "https://skills.sh/sandbaseai/sandbase-skills/multi-source-search",
+                "id": 1315919904,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-03T13:00:52Z",
+                "open_issues": 0,
+                "owner": "sandbaseai",
+                "repo": "sandbase-skills",
+                "stars": 126,
+                "topics": [
+                  "agent-plugins",
+                  "agent-skills",
+                  "agent-skills-marketplace",
+                  "ai-agents",
+                  "ai-workflows",
+                  "claude-code",
+                  "claude-code-marketplace",
+                  "claude-code-plugin",
+                  "codex-skills",
+                  "cursor-ai",
+                  "deep-research",
+                  "deepseek",
+                  "deepseek-harness",
+                  "fact-checking",
+                  "gemini-cli",
+                  "market-research",
+                  "marketing-automation",
+                  "research-automation",
+                  "research-tools",
+                  "social-listening"
+                ]
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
+            },
+            {
+              "node_type": "item",
               "title": "wrsmith108/linear-claude-skill",
               "description": "Linear issue/project/team management skill with MCP and GraphQL workflows (MIT).",
               "children": [],
@@ -3161,7 +3203,7 @@
                 "open_issues": 0,
                 "owner": "Ducksss",
                 "repo": "codex-profiles",
-                "stars": 115,
+                "stars": 117,
                 "topics": [
                   "account-switcher",
                   "ai-tools",
@@ -3183,48 +3225,6 @@
                   "productivity",
                   "shell-script",
                   "vibe-coding"
-                ]
-              },
-              "first_seen": "2026-08-28T13:43:04.741Z"
-            },
-            {
-              "node_type": "item",
-              "title": "sandbaseai/sandbase-skills",
-              "description": "Source for the skill - cross-validated research with explicit source diversity, confidence, conflicts, gaps, and an offline-checkable evidence ledger (Apache-2.0).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "88 installable open-source Agent Skills for research, social intelligence, marketing, and business workflows—compatible with Codex, Claude Code, Cursor, Gemini CLI, and DeepSeek Harness.",
-                "homepage": "https://skills.sh/sandbaseai/sandbase-skills/multi-source-search",
-                "id": 1315919904,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-03T13:00:52Z",
-                "open_issues": 0,
-                "owner": "sandbaseai",
-                "repo": "sandbase-skills",
-                "stars": 113,
-                "topics": [
-                  "agent-plugins",
-                  "agent-skills",
-                  "agent-skills-marketplace",
-                  "ai-agents",
-                  "ai-workflows",
-                  "claude-code",
-                  "claude-code-marketplace",
-                  "claude-code-plugin",
-                  "codex-skills",
-                  "cursor-ai",
-                  "deep-research",
-                  "deepseek",
-                  "deepseek-harness",
-                  "fact-checking",
-                  "gemini-cli",
-                  "market-research",
-                  "marketing-automation",
-                  "research-automation",
-                  "research-tools",
-                  "social-listening"
                 ]
               },
               "first_seen": "2026-08-28T13:43:04.741Z"
@@ -3294,24 +3294,40 @@
             },
             {
               "node_type": "item",
-              "title": "njerschow/textme",
-              "description": "Source for the skill — local daemon bridging inbound iMessages (via Sendblue) to a Claude Code session on the user's machine, with voice notes, image input, code execution, and a phone-number whitelist (MIT).",
+              "title": "Continuum-AI-Corp/OrcaReplay",
+              "description": "Source for the skill - reading, replaying, and forking recorded coding-agent runs, so a question about what a past run did is answered from its trace rather than from memory (Apache-2.0).",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Text Claude from your phone via iMessage",
-                "homepage": null,
-                "id": 1131940718,
+                "description": "OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team.",
+                "homepage": "http://www.orcarouter.ai",
+                "id": 1350419329,
                 "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-04-09T20:42:05Z",
-                "open_issues": 0,
-                "owner": "njerschow",
-                "repo": "textme",
-                "stars": 93,
-                "topics": []
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-04T15:06:06Z",
+                "open_issues": 2,
+                "owner": "Continuum-AI-Corp",
+                "repo": "OrcaReplay",
+                "stars": 101,
+                "topics": [
+                  "agent-debugging",
+                  "agent-tracing",
+                  "ai-agent",
+                  "ai-agents",
+                  "ai-debugger",
+                  "ai-debugging",
+                  "anthropic",
+                  "llm",
+                  "llm-agents",
+                  "llm-evaluation",
+                  "llm-observability",
+                  "mcp",
+                  "observability",
+                  "openai",
+                  "orcarouter"
+                ]
               },
-              "first_seen": "2026-08-28T13:43:04.741Z"
+              "first_seen": "2026-09-05T06:37:41.036Z"
             },
             {
               "node_type": "item",
@@ -3329,13 +3345,34 @@
                 "open_issues": 2,
                 "owner": "amElnagdy",
                 "repo": "review-skills",
-                "stars": 91,
+                "stars": 93,
                 "topics": [
                   "claude-code",
                   "code-review",
                   "codex",
                   "skills"
                 ]
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
+            },
+            {
+              "node_type": "item",
+              "title": "njerschow/textme",
+              "description": "Source for the skill — local daemon bridging inbound iMessages (via Sendblue) to a Claude Code session on the user's machine, with voice notes, image input, code execution, and a phone-number whitelist (MIT).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Text Claude from your phone via iMessage",
+                "homepage": null,
+                "id": 1131940718,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-04-09T20:42:05Z",
+                "open_issues": 0,
+                "owner": "njerschow",
+                "repo": "textme",
+                "stars": 93,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:43:04.741Z"
             },
@@ -3762,7 +3799,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-02T06:18:35Z",
-                "open_issues": 35,
+                "open_issues": 44,
                 "owner": "mycelium-hq",
                 "repo": "ai-brain-starter",
                 "stars": 36,
@@ -4798,7 +4835,7 @@
                 "id": 1176898300,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-03T09:19:27Z",
+                "last_commit": "2026-09-05T04:22:18Z",
                 "open_issues": 0,
                 "owner": "timwukp",
                 "repo": "agent-skills-best-practice",
@@ -4832,7 +4869,7 @@
                 "id": 1182634099,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-08-24T22:09:02Z",
+                "last_commit": "2026-09-04T18:33:21Z",
                 "open_issues": 0,
                 "owner": "AgentPhone-AI",
                 "repo": "skills",
@@ -4908,6 +4945,35 @@
                   "screen-recording",
                   "screencast",
                   "video"
+                ]
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
+            },
+            {
+              "node_type": "item",
+              "title": "rich-elicitation",
+              "description": "Source for the skill - asks clarifying questions in multiple rounds before starting ambiguous tasks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Claude AI skill for asking clarifying questions and resolving ambiguity before starting tasks. Multi-round elicitation, automatic question grouping, and intelligent stopping rules for better first-draft outputs.",
+                "homepage": null,
+                "id": 1230821003,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2026-05-07T09:11:02Z",
+                "open_issues": 1,
+                "owner": "CyberZenithX",
+                "repo": "Rich-Elicitation-Skill",
+                "stars": 8,
+                "topics": [
+                  "ai",
+                  "clarifying-questions",
+                  "claude",
+                  "claude-skill",
+                  "elicitation",
+                  "prompt-engineering",
+                  "workflow"
                 ]
               },
               "first_seen": "2026-08-28T13:43:04.741Z"
@@ -5049,35 +5115,6 @@
             },
             {
               "node_type": "item",
-              "title": "rich-elicitation",
-              "description": "Source for the skill - asks clarifying questions in multiple rounds before starting ambiguous tasks.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Claude AI skill for asking clarifying questions and resolving ambiguity before starting tasks. Multi-round elicitation, automatic question grouping, and intelligent stopping rules for better first-draft outputs.",
-                "homepage": null,
-                "id": 1230821003,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2026-05-07T09:11:02Z",
-                "open_issues": 1,
-                "owner": "CyberZenithX",
-                "repo": "Rich-Elicitation-Skill",
-                "stars": 7,
-                "topics": [
-                  "ai",
-                  "clarifying-questions",
-                  "claude",
-                  "claude-skill",
-                  "elicitation",
-                  "prompt-engineering",
-                  "workflow"
-                ]
-              },
-              "first_seen": "2026-08-28T13:43:04.741Z"
-            },
-            {
-              "node_type": "item",
               "title": "SHADOWPR0/security-bluebook-builder",
               "description": "Security documentation/buildbook skill for agent workflows.",
               "children": [],
@@ -5135,6 +5172,48 @@
                   "reinforcement-learning",
                   "retrieval",
                   "rust"
+                ]
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
+            },
+            {
+              "node_type": "item",
+              "title": "atdy/maoxuan-product-agent",
+              "description": "Source for the skill - Chinese-first product judgment across prioritization, growth, operations, data, delivery, and cross-functional collaboration, with 36 tested scenarios (MIT).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "从《矛盾论》《实践论》完整方法论蒸馏的中文 AI 产品经理（AI Product Manager）/ Product Decision Agent Skill：解决需求、增长、运营、数据与项目协作；支持 Codex、Claude Code、Cursor",
+                "homepage": "https://atdy.github.io/maoxuan-product-agent/",
+                "id": 1295924302,
+                "language": "Markdown",
+                "license": "MIT",
+                "last_commit": "2026-07-10T07:45:03Z",
+                "open_issues": 0,
+                "owner": "atdy",
+                "repo": "maoxuan-product-agent",
+                "stars": 6,
+                "topics": [
+                  "agent-skill",
+                  "agent-skills",
+                  "ai-agent",
+                  "ai-product-manager",
+                  "chinese",
+                  "claude-code",
+                  "claude-code-skill",
+                  "claude-skills",
+                  "codex",
+                  "cursor",
+                  "decision-making",
+                  "growth-strategy",
+                  "maoxuan",
+                  "on-contradiction",
+                  "on-practice",
+                  "product-decision",
+                  "product-management",
+                  "product-manager",
+                  "product-operations",
+                  "product-strategy"
                 ]
               },
               "first_seen": "2026-08-28T13:43:04.741Z"
@@ -5276,48 +5355,6 @@
                   "claude-code",
                   "claude-code-skill",
                   "claude-skills"
-                ]
-              },
-              "first_seen": "2026-08-28T13:43:04.741Z"
-            },
-            {
-              "node_type": "item",
-              "title": "atdy/maoxuan-product-agent",
-              "description": "Source for the skill - Chinese-first product judgment across prioritization, growth, operations, data, delivery, and cross-functional collaboration, with 36 tested scenarios (MIT).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "从《矛盾论》《实践论》完整方法论蒸馏的中文 AI 产品经理（AI Product Manager）/ Product Decision Agent Skill：解决需求、增长、运营、数据与项目协作；支持 Codex、Claude Code、Cursor",
-                "homepage": "https://atdy.github.io/maoxuan-product-agent/",
-                "id": 1295924302,
-                "language": "Markdown",
-                "license": "MIT",
-                "last_commit": "2026-07-10T07:45:03Z",
-                "open_issues": 0,
-                "owner": "atdy",
-                "repo": "maoxuan-product-agent",
-                "stars": 5,
-                "topics": [
-                  "agent-skill",
-                  "agent-skills",
-                  "ai-agent",
-                  "ai-product-manager",
-                  "chinese",
-                  "claude-code",
-                  "claude-code-skill",
-                  "claude-skills",
-                  "codex",
-                  "cursor",
-                  "decision-making",
-                  "growth-strategy",
-                  "maoxuan",
-                  "on-contradiction",
-                  "on-practice",
-                  "product-decision",
-                  "product-management",
-                  "product-manager",
-                  "product-operations",
-                  "product-strategy"
                 ]
               },
               "first_seen": "2026-08-28T13:43:04.741Z"
@@ -5567,6 +5604,48 @@
             },
             {
               "node_type": "item",
+              "title": "AntonioCardenas/generate-nanobanana",
+              "description": "Source for the skill - image and video generation via Google's Gemini media models (Nano Banana 2 Lite/Standard/Pro, Gemini Omni Flash) with cost-approval gates before paid runs, real reference-image support, and a prompt/seed log beside every output (MIT).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Claude Code skill for AI image & video generation with Google Gemini — Nano Banana 2 Lite, Nano Banana Pro, Gemini Omni Flash. Cost gates before paid runs, real reference images, a prompt log beside every file.",
+                "homepage": null,
+                "id": 1318166161,
+                "language": null,
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-04T14:41:10Z",
+                "open_issues": 0,
+                "owner": "AntonioCardenas",
+                "repo": "generate-nanobanana",
+                "stars": 5,
+                "topics": [
+                  "agent-skill",
+                  "agent-skills",
+                  "agent-skils",
+                  "ai-agent-skills",
+                  "ai-coding",
+                  "ai-tools",
+                  "antigravity",
+                  "antigravity-skills",
+                  "claude-code",
+                  "claude-code-skill",
+                  "claude-code-skills",
+                  "cursor-skill",
+                  "cursor-skills",
+                  "developer-tools",
+                  "gemini",
+                  "gemini-omni",
+                  "higgsfield",
+                  "higgsfield-ai",
+                  "nanobanana",
+                  "nanobanana2"
+                ]
+              },
+              "first_seen": "2026-08-28T13:43:04.741Z"
+            },
+            {
+              "node_type": "item",
               "title": "JularDepick/user-thoughts.SKILL",
               "description": "Source for the skill - persistent project idea repository workflows for capturing decisions, tech stack notes, UI/UX rationale, and MDBASE-backed project memory (MIT).",
               "children": [],
@@ -5695,48 +5774,6 @@
             },
             {
               "node_type": "item",
-              "title": "AntonioCardenas/generate-nanobanana",
-              "description": "Source for the skill - image and video generation via Google's Gemini media models (Nano Banana 2 Lite/Standard/Pro, Gemini Omni Flash) with cost-approval gates before paid runs, real reference-image support, and a prompt/seed log beside every output (MIT).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Claude Code skill for AI image & video generation with Google Gemini — Nano Banana 2 Lite, Nano Banana Pro, Gemini Omni Flash. Cost gates before paid runs, real reference images, a prompt log beside every file.",
-                "homepage": null,
-                "id": 1318166161,
-                "language": null,
-                "license": "NOASSERTION",
-                "last_commit": "2026-08-04T14:41:10Z",
-                "open_issues": 0,
-                "owner": "AntonioCardenas",
-                "repo": "generate-nanobanana",
-                "stars": 4,
-                "topics": [
-                  "agent-skill",
-                  "agent-skills",
-                  "agent-skils",
-                  "ai-agent-skills",
-                  "ai-coding",
-                  "ai-tools",
-                  "antigravity",
-                  "antigravity-skills",
-                  "claude-code",
-                  "claude-code-skill",
-                  "claude-code-skills",
-                  "cursor-skill",
-                  "cursor-skills",
-                  "developer-tools",
-                  "gemini",
-                  "gemini-omni",
-                  "higgsfield",
-                  "higgsfield-ai",
-                  "nanobanana",
-                  "nanobanana2"
-                ]
-              },
-              "first_seen": "2026-08-28T13:43:04.741Z"
-            },
-            {
-              "node_type": "item",
               "title": "Phelan164/codex-howto",
               "description": "Source for the skill - review-first engineering knowledge with provenance, explicit capture and promotion, and deterministic structural checks (MIT).",
               "children": [],
@@ -5747,8 +5784,8 @@
                 "id": 1310771497,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-04T04:33:55Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-04T21:33:47Z",
+                "open_issues": 4,
                 "owner": "Phelan164",
                 "repo": "codex-howto",
                 "stars": 3,
@@ -6060,6 +6097,39 @@
             },
             {
               "node_type": "item",
+              "title": "chenli-yy/entropy-box-public",
+              "description": "Source for the skill - grounded embodied-AI research and workflow assembly through Consult, Search, Lookup, Evidence, and the Panorama Graph, with public-service privacy and physical-system safety boundaries (CC BY 4.0).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Knowledge Compiler for Embodied AI, a system of agent to build knowledge graph for whole embodied ai.",
+                "homepage": "https://chenli-yy.github.io/entropy-box-public/",
+                "id": 1316823428,
+                "language": "HTML",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-03T02:05:41Z",
+                "open_issues": 0,
+                "owner": "chenli-yy",
+                "repo": "entropy-box-public",
+                "stars": 2,
+                "topics": [
+                  "embodied-ai",
+                  "embodied-ai-agents",
+                  "embodied-ai-ethics",
+                  "knowledge-graph",
+                  "knowledge-graph-construction",
+                  "knowledge-graph-embedding",
+                  "knowledge-graph-for-recommendation",
+                  "knowledge-graph-reasoning",
+                  "robotics",
+                  "robotics-algorithms",
+                  "robotics-libraries"
+                ]
+              },
+              "first_seen": "2026-09-05T06:37:41.036Z"
+            },
+            {
+              "node_type": "item",
               "title": "Ghost011118/project-state-governor",
               "description": "Source for the skill - evidence-backed canonical project state across sessions, branches, reviews, and research cycles (Apache-2.0).",
               "children": [],
@@ -6135,8 +6205,8 @@
                 "id": 1287733195,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-02T10:24:11Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-04T21:02:39Z",
+                "open_issues": 2,
                 "owner": "supernovae-st",
                 "repo": "nika-plugins",
                 "stars": 2,
@@ -7439,11 +7509,11 @@
                 "id": 574523116,
                 "language": "HTML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-04T03:17:56Z",
-                "open_issues": 75,
+                "last_commit": "2026-09-05T03:16:59Z",
+                "open_issues": 73,
                 "owner": "f",
                 "repo": "prompts.chat",
-                "stars": 169151,
+                "stars": 169354,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -7483,7 +7553,7 @@
                 "open_issues": 5,
                 "owner": "leonardomso",
                 "repo": "33-js-concepts",
-                "stars": 66517,
+                "stars": 66518,
                 "topics": [
                   "angular",
                   "concepts",
@@ -7521,7 +7591,7 @@
                 "id": 1173664258,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-08-23T21:23:25Z",
+                "last_commit": "2026-09-04T18:56:22Z",
                 "open_issues": 1,
                 "owner": "tiny-agent-company",
                 "repo": "agent-card-skill",
@@ -7547,19 +7617,19 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T06:53:01.124Z",
+    "last_updated": "2026-09-05T06:37:41.036Z",
     "original_repository_info": {
       "archived": false,
-      "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+      "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,100+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
       "homepage": "https://sickn33.github.io/agentic-awesome-skills/",
       "id": 1134426800,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-09-04T06:49:31Z",
+      "last_commit": "2026-09-05T06:26:10Z",
       "open_issues": 3,
       "owner": "sickn33",
       "repo": "agentic-awesome-skills",
-      "stars": 45947,
+      "stars": 45990,
       "topics": [
         "agent-skills",
         "agentic-skills",
@@ -7583,7 +7653,7 @@
         "skill-library"
       ]
     },
-    "original_repository_sha": "dbd4dc1f45c0cd34601c21f308103a54ef46726f",
+    "original_repository_sha": "32fa521aaa0acd3673033350f146310ac6e7c5f1",
     "enhanced_repository": "enhansome/agentic-enhansome-skills",
     "enhanced_repository_description": null,
     "title": "AAS Core — Agentic Awesome Skills with stars"
